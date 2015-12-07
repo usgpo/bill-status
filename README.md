@@ -20,3 +20,6 @@ At the direction of the U.S. House of Representatives Appropriations Committee, 
 
 ##User Guide##
 A draft User Guide is also available. Let us know what you think!
+
+##Public Meeting##
+There will be a technical meeting to review sample Bill Status XML files and the draft XML User Guide on Tuesday, December 15, 2015 from 1:00-2:30 PM in Washington, DC. For more information or to RSVP, please contact the Office of the Clerk at 202-225-7000. See also http://xml.house.gov/billstatusinbulk.htm.
