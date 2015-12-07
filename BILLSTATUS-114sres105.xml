@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <agreedToInSenate>1</agreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>AGREED TO IN SENATE</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2015-03-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Passed/agreed to in Senate</type>
+      </item>
+      <item>
+        <actionDate>2015-03-27</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2088</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2088</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR 3/26/2015 S2088)</text>
+        <type>COMMITTEE DISCHARGED</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <actionDate>2015-03-27</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2088</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2088</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR 3/26/2015 S2088)</text>
+        <type>Senate committee discharged</type>
+      </item>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1669</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1669</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1669)</text>
+        <type>REFERRED TO COMMITTEE</type>
+      </item>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <committee />
+        <links />
+        <text />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>Introduced in Senate</type>
+      </item>
+    </actions>
+    <amendments />
+    <billNumber>105</billNumber>
+    <billType>SRES</billType>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-03-27T08:20:51Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2015-03-19T15:26:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>114</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Barrasso, John</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000711</bioguideId>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Boxer, Barbara</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+          <lisID>116</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Brown, Sherrod</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cardin, Benjamin L.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Carper, Thomas R.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Casey, Robert P., Jr.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000567</bioguideId>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cochran, Thad</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Coons, Christopher A.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000607</bioguideId>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Donnelly, Joe</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Durbin, Richard</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Enzi, Michael B.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Gillibrand, Kirsten E.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Isakson, Johnny</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Johnson, Ron</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000360</bioguideId>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Kirk, Mark Steven</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Manchin, Joe, III</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000702</bioguideId>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Mikulski, Barbara A.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000702</bioguideId>
+          <gpoId>8240</gpoId>
+          <lisID>802</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Murphy, Christopher S.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Nelson, Bill</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Peters, Gary C.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Reed, Jack</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Rubio, Marco</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Schumer, Charles E.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Shaheen, Jeanne</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Stabenow, Debbie</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Whitehouse, Sheldon</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Wicker, Roger F.</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Wyden, Ron</name>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <createDate>2015-03-23T13:30:35Z</createDate>
+    <introducedDate>2015-03-19</introducedDate>
+    <isReserved>False</isReserved>
+    <latestAction>
+      <actionDate>2015-03-27</actionDate>
+      <links />
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </latestAction>
+    <laws />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <primarySubject>
+      <name>International Affairs</name>
+      <parentSubject />
+    </primarySubject>
+    <recordedVotes />
+    <relatedBills />
+    <sponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <name>Menendez, Robert</name>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <otherSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+            <parentSubject>
+              <name>Government Operations and Politics</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+            <parentSubject>
+              <name>Government Operations and Politics</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Europe</name>
+            <parentSubject>
+              <name>Named Entities - Geographic</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Greece</name>
+            <parentSubject>
+              <name>Named Entities - Geographic</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+            <parentSubject>
+              <name>International Affairs</name>
+            </parentSubject>
+          </item>
+        </otherSubjects>
+        <primarySubject>
+          <name>International Affairs</name>
+          <parentSubject />
+        </primarySubject>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-03-19</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Congratulates the people of Greece as they celebrate the 194th anniversary of the independence of Greece.</p> <p> Supports the principles of democratic governance to which the people of Greece are committed.</p> <p> Notes Greece's important role in the wider European region and in the community of nations since gaining its independence 194 years ago.</p>]]></text>
+          <lastSummaryUpdateDate>2015-03-23T18:26:37Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-03-19T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-03-27</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>Congratulates the people of Greece as they celebrate the 194th anniversary of the independence of Greece.</p> <p> Supports the principles of democratic governance to which the people of Greece are committed.</p> <p> Notes Greece's important role in the wider European region and in the community of nations since gaining its independence 194 years ago.</p>]]></text>
+          <lastSummaryUpdateDate>2015-03-30T14:50:27Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2015-03-27T16:14:29Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution recognizing the 194th anniversary of the independence of Greece and celebrating democracy in Greece and the United States.</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution recognizing the 194th anniversary of the independence of Greece and celebrating democracy in Greece and the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution recognizing the 194th anniversary of the independence of Greece and celebrating democracy in Greece and the United States.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2015-11-10T13:12:58Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

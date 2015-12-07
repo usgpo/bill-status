@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+        <senate>10</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <becamePublicLaw>2</becamePublicLaw>
+        <billReferrals>1</billReferrals>
+        <committeeFiledReportToAccompany>1</committeeFiledReportToAccompany>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <orderedReported>1</orderedReported>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <placeholderTextForE>3</placeholderTextForE>
+        <placeholderTextForH>1</placeholderTextForH>
+        <presentedToPresident>1</presentedToPresident>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToHouse>1</reportedToHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <senateCommitteeReportFiledAfterReporting>1</senateCommitteeReportFiledAfterReporting>
+        <sentToHouse>1</sentToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-08-28</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>Report No. 114-123</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/123</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>By Senator Johnson from Committee on Homeland Security and Governmental Affairs filed written report under authority of the order of the Senate of 08/05/2015. Report No. 114-123.</text>
+        <type>COMMITTEE FILED REPORT TO ACCOMPANY</type>
+      </item>
+      <item>
+        <actionCode>14900</actionCode>
+        <actionDate>2015-08-28</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>Report No. 114-123</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/123</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>By Senator Johnson from Committee on Homeland Security and Governmental Affairs filed written report under authority of the order of the Senate of 08/05/2015. Report No. 114-123.</text>
+        <type>Senate committee report filed after reporting</type>
+      </item>
+      <item>
+        <actionCode>E40000</actionCode>
+        <actionDate>2015-08-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Became Public Law No: 114-47.</text>
+        <type>Placeholder Text for E40000</type>
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <actionDate>2015-08-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Became Public Law No: 114-47.</text>
+        <type>Became Public Law</type>
+      </item>
+      <item>
+        <actionCode>E30000</actionCode>
+        <actionDate>2015-08-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Signed by President.</text>
+        <type>Placeholder Text for E30000</type>
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <actionDate>2015-08-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Signed by President.</text>
+        <type>Became Public Law</type>
+      </item>
+      <item>
+        <actionCode>E20000</actionCode>
+        <actionDate>2015-08-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <type>Placeholder Text for E20000</type>
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <actionDate>2015-08-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <type>Presented to President</type>
+      </item>
+      <item>
+        <actionDate>2015-08-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>SENT TO HOUSE</type>
+      </item>
+      <item>
+        <actionDate>2015-08-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6425</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S6425</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S6425)</text>
+        <type>PASSED SENATE</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2015-08-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6425</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S6425</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6425)</text>
+        <type>Passed/agreed to in Senate</type>
+      </item>
+      <item>
+        <actionDate>2015-08-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.</text>
+        <type>PLACED ON CALENDAR (GENERAL ORDERS)</type>
+      </item>
+      <item>
+        <actionDate>2015-08-04</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <type>REPORTED TO SENATE</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2015-08-04</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <type>Reported to Senate</type>
+      </item>
+      <item>
+        <actionDate>2015-07-29</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>ORDERED REPORTED</type>
+      </item>
+      <item>
+        <actionDate>2015-07-08</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>REFERRED TO COMMITTEE</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <actionDate>2015-07-07</actionDate>
+        <actionTime>02:44PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Motion To Reconsider Results</type>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <actionDate>2015-07-07</actionDate>
+        <actionTime>02:44PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H4782</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H4782</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4782)</text>
+        <type>Final Passage Under Suspension of the Rules Results</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <actionDate>2015-07-07</actionDate>
+        <actionTime>02:44PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H4782</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H4782</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4782)</text>
+        <type>Passed/agreed to in House</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2015-07-07</actionDate>
+        <actionTime>02:36PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1531</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/1531</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1531.</text>
+        <type>General Debate</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionDate>2015-07-07</actionDate>
+        <actionTime>02:36PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H4782-4783</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H4782-4783</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H4782-4783)</text>
+        <type>Consideration by House</type>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <actionDate>2015-07-07</actionDate>
+        <actionTime>02:36PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Mr. Carter (GA) moved to suspend the rules and pass the bill.</text>
+        <type>Motion Made to Suspend the Rules</type>
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <actionDate>2015-06-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 134.</text>
+        <type>Union Calendar Assignment</type>
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <actionDate>2015-06-25</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 114-182</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/182</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-182.</text>
+        <type>Committee Report of a Bill</type>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <actionDate>2015-06-25</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 114-182</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/182</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 114-182.</text>
+        <type>Reported to House</type>
+      </item>
+      <item>
+        <actionDate>2015-03-25</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Placeholder Text for H19000</type>
+      </item>
+      <item>
+        <actionDate>2015-03-25</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Action Stage Override</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-03-23</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <type>Bill Referrals</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-03-23</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>Introduced in the House</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2015-03-23</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>Introduced in House</type>
+      </item>
+    </actions>
+    <amendments />
+    <billNumber>1531</billNumber>
+    <billType>HR</billType>
+    <calendarNumbers>
+      <item>
+        <calendar>U00134</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>S1</calendar>
+        <number>0192</number>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates>
+      <item>
+        <rptPubDate>2015-04-27T20:37:17Z</rptPubDate>
+        <rptTitle>H.R. 1531, Land Management Workforce Flexibility Act</rptTitle>
+        <rptUrl>https://www.cbo.gov/publication/50139</rptUrl>
+      </item>
+      <item>
+        <rptPubDate>2015-08-05T00:28:19Z</rptPubDate>
+        <rptTitle>H.R. 1531, Land Management Workforce Flexibility Act</rptTitle>
+        <rptUrl>https://www.cbo.gov/publication/50703</rptUrl>
+      </item>
+    </cboCostEstimates>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONNOLLY:H.R. 1531.Congress has the power to enact this legislation pursuant to thefollowing:Article I, Section 8, Clause 18, of the Constitution of theUnited States.[Page H1849]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-182</citation>
+      </committeeReport>
+      <committeeReport>
+        <citation>S. Rept. 114-123</citation>
+      </committeeReport>
+    </committeeReports>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-08-04T18:54:21Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2015-07-29T15:08:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2015-07-08T16:32:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2015-06-25T18:03:07Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2015-03-25T19:30:01Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2015-03-23T16:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>114</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Young, Don</name>
+        <sponsorshipDate>2015-03-23T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001250</bioguideId>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Bishop, Rob</name>
+        <sponsorshipDate>2015-03-23T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001068</bioguideId>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Huffman, Jared</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Welch, Peter</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Kelly, Robin L.</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Norton, Eleanor Holmes</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Pocan, Mark</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000579</bioguideId>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Lowenthal, Alan S.</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000295</bioguideId>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Joyce, David P.</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Grijalva, Raul M.</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000470</bioguideId>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Tipton, Scott  R.</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Jones, Walter B., Jr.</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Cole, Tom</name>
+        <sponsorshipDate>2015-04-14T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001148</bioguideId>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Simpson, Michael K.</name>
+        <sponsorshipDate>2015-04-15T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001189</bioguideId>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Scott, Austin</name>
+        <sponsorshipDate>2015-05-12T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000380</bioguideId>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Kildee, Daniel T.</name>
+        <sponsorshipDate>2015-06-17T04:00:00Z</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <createDate>2015-03-24T08:45:36Z</createDate>
+    <introducedDate>2015-03-23</introducedDate>
+    <isReserved>False</isReserved>
+    <latestAction>
+      <actionDate>2015-08-28</actionDate>
+      <links>
+        <link>
+          <name>Report No. 114-123</name>
+          <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/123</url>
+        </link>
+      </links>
+      <text>By Senator Johnson from Committee on Homeland Security and Governmental Affairs filed written report under authority of the order of the Senate of 08/05/2015. Report No. 114-123.</text>
+    </latestAction>
+    <laws>
+      <item>
+        <number>114-47</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <notes />
+    <originChamber>House</originChamber>
+    <primarySubject>
+      <name>Government Operations and Politics</name>
+      <parentSubject />
+    </primarySubject>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-06-08</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <latestTitle>Land Management Workforce Flexibility Act</latestTitle>
+        <number>1522</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S.</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-06-17</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <latestTitle>Land Management Workforce Flexibility Act of 2015</latestTitle>
+        <number>1591</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S.</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <byRequestType />
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <name>Connolly, Gerald E.</name>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <otherSubjects>
+          <item>
+            <name>Department of the Interior</name>
+            <parentSubject>
+              <name>Named Entities - Organizations</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+            <parentSubject>
+              <name>Government Operations and Politics</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+            <parentSubject>
+              <name>Labor and Employment</name>
+            </parentSubject>
+          </item>
+        </otherSubjects>
+        <primarySubject>
+          <name>Government Operations and Politics</name>
+          <parentSubject />
+        </primarySubject>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-03-23</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Land Management Workforce Flexibility Act</b> <p> Makes an employee of a land management agency serving under a time-limited appointment in the competitive service eligible to compete for a permanent appointment in the agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level.]]></text>
+          <lastSummaryUpdateDate>2015-06-11T22:09:34Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2015-03-23T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-06-25</actionDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Land Management Workforce Flexibility Act</b> </p> <p>(Sec. 2) Makes an employee of specified&nbsp;land management agencies in the Department of the Interior serving under a time-limited, including a temporary,&nbsp;appointment in the competitive service eligible to compete for a permanent appointment in any land management agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level. </p> <p>Requires the Office of Personnel Management or other examining agency, in determining the eligibility of a time-limited employee to be examined for or appointed in the competitive service, to waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.</p> <p>Provides that an individual appointed under the provisions of this Act becomes a career-conditional employee and acquires competitive status upon appointment. </p> <p>Deems a former employee of a land management agency who served under a time-limited appointment and who otherwise meets applicable requirements to be a time-limited employee for purposes of this Act if: (1) such employee applies for a position covered by this Act within two years after the most recent date of separation, and (2) such employee's most recent separation was for reasons other than misconduct or performance. </p>]]></text>
+          <lastSummaryUpdateDate>2015-08-21T15:34:44Z</lastSummaryUpdateDate>
+          <name>Reported to House without amendment</name>
+          <updateDate>2015-06-25T14:51:58Z</updateDate>
+          <versionCode>79</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-07-07</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>Land Management Workforce Flexibility Act</b> </p> <p>(Sec. 2) Makes an employee of specified&nbsp;land management agencies in the Department of the Interior serving under a time-limited, including a temporary,&nbsp;appointment in the competitive service eligible to compete for a permanent appointment in any land management agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level. </p> <p>Requires the Office of Personnel Management (OPM) or other examining agency, in determining the eligibility of a time-limited employee to be examined for or appointed in the competitive service, to waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.</p> <p>Provides that an individual appointed under the provisions of this Act becomes a career-conditional employee and acquires competitive status upon appointment. </p> <p>Deems a former employee of a land management agency who served under a time-limited appointment and who otherwise meets applicable requirements to be a time-limited employee for purposes of this Act if: (1) such employee applies for a position covered by this Act within two years after the most recent date of separation, and (2) such employee's most recent separation was for reasons other than misconduct or performance. </p>]]></text>
+          <lastSummaryUpdateDate>2015-07-27T20:28:05Z</lastSummaryUpdateDate>
+          <name>Passed House without amendment</name>
+          <updateDate>2015-07-07T13:06:03Z</updateDate>
+          <versionCode>81</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-08-04</actionDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>Land Management Workforce Flexibility Act</b> </p> <p>(Sec. 2) Makes an employee of specified&nbsp;land management agencies in the Department of the Interior serving under a time-limited, including a temporary,&nbsp;appointment in the competitive service eligible to compete for a permanent appointment in any land management agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level. </p> <p>Requires the Office of Personnel Management or other examining agency, in determining the eligibility of a time-limited employee to be examined for or appointed in the competitive service, to waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.</p> <p>Provides that an individual appointed under the provisions of this Act becomes a career-conditional employee and acquires competitive status upon appointment. </p> <p>Deems a former employee of a land management agency who served under a time-limited appointment and who otherwise meets applicable requirements to be a time-limited employee for purposes of this Act if: (1) such employee applies for a position covered by this Act within two years after the most recent date of separation, and (2) such employee's most recent separation was for reasons other than misconduct or performance. </p>]]></text>
+          <lastSummaryUpdateDate>2015-08-21T15:46:28Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2015-08-04T12:35:42Z</updateDate>
+          <versionCode>80</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-08-05</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>Land Management Workforce Flexibility Act</b> </p> <p>(Sec. 2) Makes an employee of specified&nbsp;land management agencies in the Department of the Interior serving under a time-limited, including a temporary,&nbsp;appointment in the competitive service eligible to compete for a permanent appointment in any land management agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level. </p> <p>Requires the Office of Personnel Management or other examining agency, in determining the eligibility of a time-limited employee to be examined for or appointed in the competitive service, to waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.</p> <p>Provides that an individual appointed under the provisions of this Act becomes a career-conditional employee and acquires competitive status upon appointment. </p> <p>Deems a former employee of a land management agency who served under a time-limited appointment and who otherwise meets applicable requirements to be a time-limited employee for purposes of this Act if: (1) such employee applies for a position covered by this Act within two years after the most recent date of separation, and (2) such employee's most recent separation was for reasons other than misconduct or performance. </p>]]></text>
+          <lastSummaryUpdateDate>2015-08-21T15:46:39Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2015-08-05T16:17:30Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-08-07</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>Land Management Workforce Flexibility Act</b> </p> <p>(Sec. 2) Makes an employee of specified&nbsp;land management agencies in the Department of the Interior serving under a time-limited, including a temporary,&nbsp;appointment in the competitive service eligible to compete for a permanent appointment in any land management agency or any other agency if: (1) the original appointment was competitive, (2) the employee has served under one or more time-limited appointments totaling more than 24 months without a break of two or more years, and (3) the employee's performance has been at an acceptable level. </p> <p>Requires the Office of Personnel Management or other examining agency, in determining the eligibility of a time-limited employee to be examined for or appointed in the competitive service, to waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.</p> <p>Provides that an individual appointed under the provisions of this Act becomes a career-conditional employee and acquires competitive status upon appointment. </p> <p>Deems a former employee of a land management agency who served under a time-limited appointment and who otherwise meets applicable requirements to be a time-limited employee for purposes of this Act if: (1) such employee applies for a position covered by this Act within two years after the most recent date of separation, and (2) such employee's most recent separation was for reasons other than misconduct or performance. </p>]]></text>
+          <lastSummaryUpdateDate>2015-08-21T15:46:49Z</lastSummaryUpdateDate>
+          <name>Public Law</name>
+          <updateDate>2015-08-08T03:59:59Z</updateDate>
+          <versionCode>49</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Land Management Workforce Flexibility Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Short Titles as Enacted</titleType>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend title 5, United States Code, to provide a pathway for temporary seasonal employees in Federal land management agencies to compete for vacant permanent positions under internal merit promotion procedures, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Land Management Workforce Flexibility Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2015-11-16T16:12:35Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

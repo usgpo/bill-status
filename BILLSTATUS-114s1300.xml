@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <becamePublicLaw>2</becamePublicLaw>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <generalDebate>1</generalDebate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <introducedInSenate>1</introducedInSenate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <orderedReported>1</orderedReported>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForE>3</placeholderTextForE>
+        <presentedToPresident>1</presentedToPresident>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>E40000</actionCode>
+        <actionDate>2015-10-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Became Public Law No: 114-70.</text>
+        <type>Placeholder Text for E40000</type>
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <actionDate>2015-10-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Became Public Law No: 114-70.</text>
+        <type>Became Public Law</type>
+      </item>
+      <item>
+        <actionCode>E30000</actionCode>
+        <actionDate>2015-10-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Signed by President.</text>
+        <type>Placeholder Text for E30000</type>
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <actionDate>2015-10-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Signed by President.</text>
+        <type>Became Public Law</type>
+      </item>
+      <item>
+        <actionCode>E20000</actionCode>
+        <actionDate>2015-10-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <type>Placeholder Text for E20000</type>
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <actionDate>2015-10-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <type>Presented to President</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <actionDate>2015-10-06</actionDate>
+        <actionTime>05:47PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Motion To Reconsider Results</type>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <actionDate>2015-10-06</actionDate>
+        <actionTime>05:47PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H6815-6816</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H6815-6816</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6815-6816)</text>
+        <type>Final Passage Under Suspension of the Rules Results</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <actionDate>2015-10-06</actionDate>
+        <actionTime>05:47PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H6815-6816</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H6815-6816</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <type>Passed/agreed to in House</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2015-10-06</actionDate>
+        <actionTime>05:31PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>S. 1300</name>
+            <url>https://www.congress.gov/bill/114th-congress/senate-bill/1300</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on S. 1300.</text>
+        <type>General Debate</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionDate>2015-10-06</actionDate>
+        <actionTime>05:31PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H6815-6817</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H6815-6817</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H6815-6817)</text>
+        <type>Consideration by House</type>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <actionDate>2015-10-06</actionDate>
+        <actionTime>05:31PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Mr. Franks (AZ) moved to suspend the rules and pass the bill.</text>
+        <type>Motion Made to Suspend the Rules</type>
+      </item>
+      <item>
+        <actionCode>H15000</actionCode>
+        <actionDate>2015-07-15</actionDate>
+        <actionTime>04:57PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Held at the desk.</text>
+        <type>Held at the Desk</type>
+      </item>
+      <item>
+        <actionCode>H14000</actionCode>
+        <actionDate>2015-07-15</actionDate>
+        <actionTime>12:06PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <type>Received in the House</type>
+      </item>
+      <item>
+        <actionDate>2015-07-15</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>SENT TO HOUSE</type>
+      </item>
+      <item>
+        <actionDate>2015-07-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5057</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S5057</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S5057; text as passed Senate: CR S5057)</text>
+        <type>PASSED SENATE</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2015-07-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5057</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S5057</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5057; text as passed Senate: CR S5057)</text>
+        <type>Passed/agreed to in Senate</type>
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.</text>
+        <type>PLACED ON CALENDAR (GENERAL ORDERS)</type>
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+        <type>REPORTED TO SENATE</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <actionDate>2015-07-09</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+        <type>Reported to Senate</type>
+      </item>
+      <item>
+        <actionDate>2015-07-09</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+        <type>ORDERED REPORTED</type>
+      </item>
+      <item>
+        <actionDate>2015-05-12</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S2798</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2798</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2798)</text>
+        <type>REFERRED TO COMMITTEE</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2015-05-12</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2798</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2798</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR S2798)</text>
+        <type>Placeholder Text for B00100</type>
+      </item>
+      <item>
+        <actionDate>2015-05-12</actionDate>
+        <committee />
+        <links />
+        <text />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2015-05-12</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>Introduced in Senate</type>
+      </item>
+    </actions>
+    <amendments />
+    <billNumber>1300</billNumber>
+    <billType>S</billType>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0145</number>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates>
+      <item>
+        <rptPubDate>2015-10-08T19:37:56Z</rptPubDate>
+        <rptTitle>S. 1300, Adoptive Family Relief Act</rptTitle>
+        <rptUrl>https://www.cbo.gov/publication/50883</rptUrl>
+      </item>
+    </cboCostEstimates>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-07-09T18:21:03Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2015-07-09T14:08:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2015-05-12T19:06:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>114</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Johnson, Ron</name>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Grassley, Chuck</name>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Klobuchar, Amy</name>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>McConnell, Mitch</name>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+          <lisID>1395</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000711</bioguideId>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Boxer, Barbara</name>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+          <lisID>116</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001071</bioguideId>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Corker, Bob</name>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+          <lisID>1825</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Rubio, Marco</name>
+        <sponsorshipDate>2015-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Blunt, Roy</name>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000607</bioguideId>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Donnelly, Joe</name>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Portman, Rob</name>
+        <sponsorshipDate>2015-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Enzi, Michael B.</name>
+        <sponsorshipDate>2015-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Cruz, Ted</name>
+        <sponsorshipDate>2015-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Cantwell, Maria</name>
+        <sponsorshipDate>2015-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Baldwin, Tammy</name>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Fischer, Deb</name>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Cornyn, John</name>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Graham, Lindsey</name>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Coons, Christopher A.</name>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Inhofe, James M.</name>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Murray, Patty</name>
+        <sponsorshipDate>2015-07-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+          <lisID>1409</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Casey, Robert P., Jr.</name>
+        <sponsorshipDate>2015-07-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <createDate>2015-05-13T08:46:08Z</createDate>
+    <introducedDate>2015-05-12</introducedDate>
+    <isReserved>False</isReserved>
+    <latestAction>
+      <actionDate>2015-10-16</actionDate>
+      <links />
+      <text>Became Public Law No: 114-70.</text>
+    </latestAction>
+    <laws>
+      <item>
+        <number>114-70</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <primarySubject>
+      <name>Immigration</name>
+      <parentSubject />
+    </primarySubject>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-06-18</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.</text>
+        </latestAction>
+        <latestTitle>Department of State Operations Authorization and Embassy Security Act, Fiscal Year 2016</latestTitle>
+        <number>1635</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S.</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-07-29</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        </latestAction>
+        <latestTitle>Adoptive Family Relief Act</latestTitle>
+        <number>2922</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>H.R.</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <name>Feinstein, Dianne</name>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <otherSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+            <parentSubject>
+              <name>Families</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+            <parentSubject>
+              <name>Immigration</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+            <parentSubject>
+              <name>Economics and Public Finance</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+            <parentSubject>
+              <name>Immigration</name>
+            </parentSubject>
+          </item>
+        </otherSubjects>
+        <primarySubject>
+          <name>Immigration</name>
+          <parentSubject />
+        </primarySubject>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-05-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Adoptive Family Relief Act</strong> </p> <p>This bill amends the Immigration and Nationality Act to declare that if an immigrant visa was issued on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a U.S. citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or refunded if: </p> <ul> <li>the child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and </li> <li>such inability was attributable to factors beyond the control of the adopting parent or parents.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2015-09-28T18:47:54Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-05-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-07-09</actionDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Adoptive Family Relief Act</strong> </p> <p>(Sec. 2) This bill amends the Immigration and Nationality Act to declare that if an immigrant visa was issued on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a U.S. citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or refunded if: </p> <ul> <li>the child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and </li> <li>such inability was attributable to factors beyond the control of the adopting parent or parents.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2015-09-28T18:46:18Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2015-07-09T11:36:00Z</updateDate>
+          <versionCode>80</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-07-14</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)</p> <p><strong>Adoptive Family Relief Act</strong> </p> <p>(Sec. 2) This bill amends the Immigration and Nationality Act to declare that if an immigrant visa was issued on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a U.S. citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or refunded if: </p> <ul> <li>the child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and </li> <li>such inability was attributable to factors beyond the control of the adopting parent or parents.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2015-09-28T18:43:20Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2015-07-14T15:39:41Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-10-06</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)</p> <p><strong>Adoptive Family Relief Act</strong> </p> <p>(Sec. 2) This bill amends the Immigration and Nationality Act to declare that if an immigrant visa was issued on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a U.S. citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or refunded if: </p> <ul> <li>the child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and </li> <li>such inability was attributable to factors beyond the control of the adopting parent or parents.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2015-10-07T21:26:53Z</lastSummaryUpdateDate>
+          <name>Passed House without amendment</name>
+          <updateDate>2015-10-06T14:08:09Z</updateDate>
+          <versionCode>81</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-10-16</actionDate>
+          <actionDesc>Public Law</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)</p> <p><strong>Adoptive Family Relief Act</strong> </p> <p>(Sec. 2) This bill amends the Immigration and Nationality Act to declare that if an immigrant visa was issued on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a U.S. citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or refunded if: </p> <ul> <li>the child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and </li> <li>such inability was attributable to factors beyond the control of the adopting parent or parents.</li></ul>]]></text>
+          <lastSummaryUpdateDate>2015-10-19T18:29:34Z</lastSummaryUpdateDate>
+          <name>Public Law</name>
+          <updateDate>2015-10-17T03:59:58Z</updateDate>
+          <versionCode>49</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Adoptive Family Relief Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType>Short Title</parentTitleType>
+        <title>Adoptive Family Relief Act</title>
+        <titleType>Short Titles as Enacted</titleType>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Adoptive Family Relief Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Adoptive Family Relief Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Adoptive Family Relief Act</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Adoptive Family Relief Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the section 221 of the Immigration and Nationality Act to provide relief for adoptive families from immigrant visa fees in certain situations.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Adoptive Family Relief Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2015-11-10T13:13:01Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

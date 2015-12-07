@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+        <senate>16</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <committeeDischarged>1</committeeDischarged>
+        <considerationByHouse>1</considerationByHouse>
+        <consideredBySenate>1</consideredBySenate>
+        <generalDebate>2</generalDebate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <introducedInSenate>1</introducedInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <motionToConsider>1</motionToConsider>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionToTableAgreedTo>1</motionToTableAgreedTo>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForE>2</placeholderTextForE>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <presentedToPresident>1</presentedToPresident>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <vetoMessageConsidered>3</vetoMessageConsidered>
+        <vetoMessageHeld>1</vetoMessageHeld>
+        <vetoedByPresident>1</vetoedByPresident>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-05-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>Record Vote Number: 172</name>
+            <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&amp;session=1&amp;vote=00172</url>
+          </link>
+          <link>
+            <name>S. J. Res. 8</name>
+            <url>https://www.congress.gov/bill/114th-congress/senate-joint-resolution/8</url>
+          </link>
+          <link>
+            <name>S2644</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2644</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to table the veto message to accompany S. J. Res. 8 agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 172. (consideration: CR S2644)</text>
+        <type>MOTION TO TABLE AGREED TO</type>
+      </item>
+      <item>
+        <actionDate>2015-05-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2613</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2613</url>
+          </link>
+          <link>
+            <name>S2644</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2644</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Veto Message considered in Senate. (consideration: CR S2613, S2644)</text>
+        <type>VETO MESSAGE CONSIDERED</type>
+      </item>
+      <item>
+        <actionDate>2015-05-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2594</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2594</url>
+          </link>
+          <link>
+            <name>S2596-2597</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2596-2597</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Veto Message considered in Senate. (consideration: CR S2594, S2596-2597)</text>
+        <type>VETO MESSAGE CONSIDERED</type>
+      </item>
+      <item>
+        <actionDate>2015-04-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2549-2550</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2549-2550</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Veto Message considered in Senate. (consideration: CR S2549-2550)</text>
+        <type>VETO MESSAGE CONSIDERED</type>
+      </item>
+      <item>
+        <actionDate>2015-03-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Veto message received in Senate. Ordered held at the desk.</text>
+        <type>VETO MESSAGE HELD</type>
+      </item>
+      <item>
+        <actionCode>E30000</actionCode>
+        <actionDate>2015-03-31</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2094</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2094</url>
+          </link>
+          <link>
+            <name>S2107</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2107</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Vetoed by President. (text of veto message: CR 4/13/2015 S2094, S2107)</text>
+        <type>Placeholder Text for E30000</type>
+      </item>
+      <item>
+        <actionCode>31000</actionCode>
+        <actionDate>2015-03-31</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2094</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2094</url>
+          </link>
+          <link>
+            <name>S2107</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2107</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Vetoed by President.(text of veto message: CR 4/13/2015 S2094, S2107)</text>
+        <type>Vetoed by President</type>
+      </item>
+      <item>
+        <actionCode>E20000</actionCode>
+        <actionDate>2015-03-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <type>Placeholder Text for E20000</type>
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <actionDate>2015-03-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Presented to President.</text>
+        <type>Presented to President</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>12:09PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Motion To Reconsider Results</type>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>12:09PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H1782</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H1782</url>
+          </link>
+          <link>
+            <name>Roll no. 128</name>
+            <url>http://clerk.house.gov/evs2015/roll128.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On passage Passed by the Yeas and Nays: 232 - 186 (Roll no. 128). (text: CR H1782)</text>
+        <type>Passage of a Measure</type>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>12:09PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H1782</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H1782</url>
+          </link>
+          <link>
+            <name>Roll no. 128</name>
+            <url>http://clerk.house.gov/evs2015/roll128.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 186 (Roll no. 128).(text: CR H1782)</text>
+        <type>Passed/agreed to in House</type>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>11:37AM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H1788</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H1788</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>The previous question was ordered pursuant to the rule. (consideration: CR H1788)</text>
+        <type>Motion for Previous Question</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>10:44AM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>S.J. Res. 8</name>
+            <url>https://www.congress.gov/bill/114th-congress/senate-joint-resolution/8</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with one hour of debate on S.J. Res. 8.</text>
+        <type>General Debate</type>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>10:44AM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H.Res. 132</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/132</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule waives all point of order agains consideration of the resolu tions. The rule provides that the amendment printed in the report shall be adopted, and H.Res. 132, as amended shall be considered as read and shall not be subject to a demand for division of the question.</text>
+        <type>General Debate</type>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>10:44AM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 152</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/152</url>
+          </link>
+          <link>
+            <name>H1782-1788</name>
+            <url>https://www.congress.gov/congressional-record/2015/house-section/page/H1782-1788</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under the provisions of rule H. Res. 152. (consideration: CR H1782-1788)</text>
+        <type>Consideration by House</type>
+      </item>
+      <item>
+        <actionCode>H1L220</actionCode>
+        <actionDate>2015-03-19</actionDate>
+        <actionTime>10:41AM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 152</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/152</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Rule H. Res. 152 passed House.</text>
+        <type>Placeholder Text for H1L220</type>
+      </item>
+      <item>
+        <actionCode>H1L210</actionCode>
+        <actionDate>2015-03-17</actionDate>
+        <actionTime>04:21PM</actionTime>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 152</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/152</url>
+          </link>
+          <link>
+            <name>H.Res. 132</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-resolution/132</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Rules Committee Resolution H. Res. 152 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule waives all point of order agains consideration of the resolu tions. The rule provides that the amendment printed in the report shall be adopted, and H.Res. 132, as amended shall be considered as read and shall not be subject to a demand for division of the question.</text>
+        <type>Rule for Consideration of Bill Reported to House</type>
+      </item>
+      <item>
+        <actionCode>H15000</actionCode>
+        <actionDate>2015-03-04</actionDate>
+        <actionTime>02:22PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Held at the desk.</text>
+        <type>Held at the Desk</type>
+      </item>
+      <item>
+        <actionDate>2015-03-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>SENT TO HOUSE</type>
+      </item>
+      <item>
+        <actionCode>H14000</actionCode>
+        <actionDate>2015-03-04</actionDate>
+        <actionTime>01:45PM</actionTime>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <type>Received in the House</type>
+      </item>
+      <item>
+        <actionDate>2015-03-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>Record Vote Number: 67</name>
+            <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&amp;session=1&amp;vote=00067</url>
+          </link>
+          <link>
+            <name>S1274</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1274</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67. (text: CR S1274)</text>
+        <type>PASSED SENATE</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2015-03-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>Record Vote Number: 67</name>
+            <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&amp;session=1&amp;vote=00067</url>
+          </link>
+          <link>
+            <name>S1274</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1274</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 46. Record Vote Number: 67.(text: CR S1274)</text>
+        <type>Passed/agreed to in Senate</type>
+      </item>
+      <item>
+        <actionDate>2015-03-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1264-1274</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1264-1274</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Considered by Senate. (consideration: CR S1264-1274)</text>
+        <type>CONSIDERED BY SENATE</type>
+      </item>
+      <item>
+        <actionDate>2015-03-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1229-1244</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1229-1244</url>
+          </link>
+          <link>
+            <name>S1257-1260</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1257-1260</url>
+          </link>
+          <link>
+            <name>S1260-1261</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1260-1261</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion. (consideration: CR S1229-1244, S1257-1260, S1260-1261)</text>
+        <type>MEASURE LAID BEFORE SENATE</type>
+      </item>
+      <item>
+        <actionDate>2015-03-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>Record Vote Number: 66</name>
+            <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&amp;session=1&amp;vote=00066</url>
+          </link>
+          <link>
+            <name>S1229</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1229</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 66. (consideration: CR S1229)</text>
+        <type>MOTION TO CONSIDER</type>
+      </item>
+      <item>
+        <actionDate>2015-02-23</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.</text>
+        <type>PLACED ON CALENDAR (GENERAL ORDERS)</type>
+      </item>
+      <item>
+        <actionDate>2015-02-23</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1030</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1030</url>
+          </link>
+          <link>
+            <name>S1072</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1072</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S1030; text: CR 2/24/2015 S1072)</text>
+        <type>COMMITTEE DISCHARGED</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <actionDate>2015-02-23</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1030</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1030</url>
+          </link>
+          <link>
+            <name>S1072</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S1072</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).(consideration: CR S1030; text: CR 2/24/2015 S1072)</text>
+        <type>Senate committee discharged</type>
+      </item>
+      <item>
+        <actionDate>2015-02-09</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S862-863</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S862-863</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S862-863)</text>
+        <type>REFERRED TO COMMITTEE</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2015-02-09</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S862-863</name>
+            <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S862-863</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR S862-863)</text>
+        <type>Placeholder Text for B00100</type>
+      </item>
+      <item>
+        <actionDate>2015-02-09</actionDate>
+        <committee />
+        <links />
+        <text />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2015-02-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>Introduced in Senate</type>
+      </item>
+    </actions>
+    <amendments />
+    <billNumber>8</billNumber>
+    <billType>SJRES</billType>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0021</number>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-02-23T23:44:06Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2015-02-09T20:55:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>114</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Enzi, Michael B.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>McConnell, Mitch</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+          <lisID>1395</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Blunt, Roy</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cornyn, John</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Hatch, Orrin G.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Isakson, Johnny</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>A000368</bioguideId>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Ayotte, Kelly</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Burr, Richard</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001141</bioguideId>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Sessions, Jeff</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001141</bioguideId>
+          <gpoId>8281</gpoId>
+          <lisID>1548</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Risch, James E.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Perdue, David</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000542</bioguideId>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Coats, Daniel</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000542</bioguideId>
+          <gpoId>8299</gpoId>
+          <lisID>209</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001184</bioguideId>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Scott, Tim</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Roberts, Pat</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000360</bioguideId>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Kirk, Mark Steven</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Barrasso, John</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Thune, John</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Rubio, Marco</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Boozman, John</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001071</bioguideId>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Corker, Bob</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+          <lisID>1825</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000444</bioguideId>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Flake, Jeff</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000444</bioguideId>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cassidy, Bill</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001041</bioguideId>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Heller, Dean</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Wicker, Roger F.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000320</bioguideId>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Shelby, Richard C.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000320</bioguideId>
+          <gpoId>8277</gpoId>
+          <lisID>1049</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Collins, Susan M.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000603</bioguideId>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Paul, Rand</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cotton, Tom</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Capito, Shelley Moore</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Lankford, James</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>V000127</bioguideId>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Vitter, David</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+          <lisID>1609</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000303</bioguideId>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>McCain, John</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Hoeven, John</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Moran, Jerry</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Johnson, Ron</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Graham, Lindsey</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Inhofe, James M.</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Grassley, Chuck</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000567</bioguideId>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cochran, Thad</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Gardner, Cory</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Ernst, Joni</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+          <lisID>2283</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Daines, Steve</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+          <lisID>2138</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Fischer, Deb</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <name>Cruz, Ted</name>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Lee, Mike</name>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Crapo, Mike</name>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>T000461</bioguideId>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Toomey, Pat</name>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+          <lisID>1594</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Portman, Rob</name>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Tillis, Thom</name>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+          <lisID>2291</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Rounds, Mike</name>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+          <lisID>2288</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001197</bioguideId>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <name>Sasse, Ben</name>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <gpoId />
+          <lisID>2289</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <createDate>2015-02-10T05:11:53Z</createDate>
+    <introducedDate>2015-02-09</introducedDate>
+    <isReserved>False</isReserved>
+    <latestAction>
+      <actionDate>2015-05-05</actionDate>
+      <links>
+        <link>
+          <name>Record Vote Number: 172</name>
+          <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&amp;session=1&amp;vote=00172</url>
+        </link>
+        <link>
+          <name>S. J. Res. 8</name>
+          <url>https://www.congress.gov/bill/114th-congress/senate-joint-resolution/8</url>
+        </link>
+        <link>
+          <name>S2644</name>
+          <url>https://www.congress.gov/congressional-record/2015/senate-section/page/S2644</url>
+        </link>
+      </links>
+      <text>Motion to table the veto message to accompany S. J. Res. 8 agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 172. (consideration: CR S2644)</text>
+    </latestAction>
+    <laws />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <primarySubject>
+      <name>Labor and Employment</name>
+      <parentSubject />
+    </primarySubject>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>Senate</chamber>
+        <congress>114</congress>
+        <date>2015-05-05T22:33:54Z</date>
+        <fullActionName>MOTION TO TABLE AGREED TO</fullActionName>
+        <rollNumber>172</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=114&amp;session=1&amp;vote=00172</url>
+      </recordedVote>
+      <recordedVote>
+        <chamber>House</chamber>
+        <congress>114</congress>
+        <date>2015-03-19T16:09:32Z</date>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <rollNumber>128</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2015/roll128.xml</url>
+      </recordedVote>
+      <recordedVote>
+        <chamber>Senate</chamber>
+        <congress>114</congress>
+        <date>2015-03-04T17:07:09Z</date>
+        <fullActionName>PASSED SENATE</fullActionName>
+        <rollNumber>67</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=114&amp;session=1&amp;vote=00067</url>
+      </recordedVote>
+      <recordedVote>
+        <chamber>Senate</chamber>
+        <congress>114</congress>
+        <date>2015-03-03T19:46:04Z</date>
+        <fullActionName>MOTION TO CONSIDER</fullActionName>
+        <rollNumber>66</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=114&amp;session=1&amp;vote=00066</url>
+      </recordedVote>
+    </recordedVotes>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-04</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <latestTitle>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</latestTitle>
+        <number>29</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>H.J.Res.</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-19</actionDate>
+          <actionTime>10:41AM</actionTime>
+          <text>On agreeing to the resolution Agreed to by recorded vote: 233 - 181 (Roll no. 127). (text: CR H1775)</text>
+        </latestAction>
+        <latestTitle>Providing for consideration of the resolution (H. Res. 132) providing for the expenses of certain committees of the House of Representatives in the One Hundred Fourteenth Congress, and providing for consideration of the joint resolution (S.J. Res. 8) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</latestTitle>
+        <number>152</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <type>H.Res.</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <name>Alexander, Lamar</name>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <otherSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+            <parentSubject>
+              <name>Government Operations and Politics</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+            <parentSubject>
+              <name>Congress</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+            <parentSubject>
+              <name>Labor and Employment</name>
+            </parentSubject>
+          </item>
+          <item>
+            <name>National Labor Relations Board (NLRB)</name>
+            <parentSubject>
+              <name>Named Entities - Organizations</name>
+            </parentSubject>
+          </item>
+        </otherSubjects>
+        <primarySubject>
+          <name>Labor and Employment</name>
+          <parentSubject />
+        </primarySubject>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-09</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Disapproves and nullifies the rule submitted by the National Labor Relations Board and published December 15, 2014, relating to representation case procedures. </p>]]></text>
+          <lastSummaryUpdateDate>2015-02-11T17:14:26Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-02-09T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-03-04</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Disapproves and nullifies the rule submitted by the National Labor Relations Board and published December 15, 2014, relating to representation case procedures. </p>]]></text>
+          <lastSummaryUpdateDate>2015-03-10T14:09:39Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2015-03-04T13:16:26Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+        <item>
+          <actionDate>2015-03-19</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Disapproves and nullifies the rule submitted by the National Labor Relations Board and published December 15, 2014, relating to representation case procedures. </p>]]></text>
+          <lastSummaryUpdateDate>2015-03-24T12:48:09Z</lastSummaryUpdateDate>
+          <name>Passed House without amendment</name>
+          <updateDate>2015-03-19T16:00:52Z</updateDate>
+          <versionCode>81</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <updateDate>2015-11-10T13:12:57Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
