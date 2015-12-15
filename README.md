@@ -1,4 +1,4 @@
-# Bill Status #
+﻿# Bill Status #
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are planning to make Bill Statuses in XML format available through the GPO’s Federal Digital System (FDsys) Bulk Data repository starting with the 113th Congress. At launch in early 2016, the FDsys Bulk Data repository for Bill Status information will be available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS. 
 
@@ -15,11 +15,16 @@ At the direction of the U.S. House of Representatives Appropriations Committee, 
 | S. J. Res. 8 114th Congress | Senate joint resolution; veto activity | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures | 
 | S. Con. Res. 11 114th Congress | Senate concurrent resolution; conference report | An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025 | 
 | S. Res. 105 114th Congress | Senate simple resolution; discharged from committee, and agreed to | A resolution recognizing the 194th anniversary of the independence of Greece and celebrating democracy in Greece and the United States | 
-
+| H.R. 3106 114th Congress | House bill; action prior to introduction/referral | Construction Reform Act of 2015 |
+| H.R. 22 114th Congress | House bill; amendments | FAST Act |
 
 
 ##User Guide##
+
 A draft User Guide is also available. Let us know what you think!
 
 ##Public Meeting##
+
 There will be a technical meeting to review sample Bill Status XML files and the draft XML User Guide on Tuesday, December 15, 2015 from 1:00-2:30 PM in Washington, DC. For more information or to RSVP, please contact the Office of the Clerk at 202-225-7000. See also http://xml.house.gov/billstatusinbulk.htm.
+
+
