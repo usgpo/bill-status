@@ -30,6 +30,7 @@ https://www.gpo.gov/smap/bulkdata/BILLSTATUS/sitemapindex.xml
 | H.R. 3762 114th Congress | House bill; actions on amendments | Restoring Americans' Healthcare Freedom Reconciliation Act of 2015 |
 | H.R. 8222 114th Congress | House bill; actions on amendments | Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016 | 
 | H.R. 1155 114th Congress | House bill; actions on amendments | SCRUB Act of 2016 | 
+| H.R. 1314 114th Congress | House bill; actions on amendments | Bipartisan Budget Act of 2015 |
 
 
 ##User Guide##
