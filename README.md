@@ -2,11 +2,12 @@
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 113th Congress. 
 
-Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS!
+Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS and the update job runs at 4:00 AM. 
 
-Actions related to amendments to amendments are in development and sample files are listed below. 
+Actions related to amendments to amendments are now available and sample files are listed below. 
 
 Govinfo Article: https://www.govinfo.gov/features/featured-content/bill-status-bulk-data
+
 
 ##Sitemap##
 
@@ -37,9 +38,10 @@ https://www.gpo.gov/smap/bulkdata/BILLSTATUS/sitemapindex.xml
 
 A User Guide is available at https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources and a markdown version is coming soon.
 
-##Public Meeting##
+##Public Meetings##
+A technical meeting is scheduled to take place on Wednesday, April 27, 2016, from 10:30-12:00 in Washington, D.C., in the Cannon House Office Building conference room on the first floor near Congressman Lance's office (133). The meeting will be a follow-up to our December meeting. 
 
-A technical meeting to review sample Bill Status XML files and the draft XML User Guide took place on Tuesday, December 15, 2015 from 1:00-2:30 PM in Washington, DC. For more information, please contact the Office of the Clerk at 202-225-7000. See also http://xml.house.gov/billstatusinbulk.htm.
+A technical meeting to review sample Bill Status XML files and the draft XML User Guide took place on Tuesday, December 15, 2015, from 1:00-2:30 PM in Washington, D.C. For more information, please contact the Office of the Clerk at 202-225-7000. See also http://xml.house.gov/billstatusinbulk.htm.
 
 * Technology Timeline: http://xml.house.gov/resources/TechTimeline.htm
 * Legislative Status Steps: http://www.loc.gov/pictures/resource/ppmsca.33996
