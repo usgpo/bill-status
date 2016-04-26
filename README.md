@@ -41,6 +41,8 @@ A User Guide is available at https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resou
 ##Public Meetings##
 A technical meeting is scheduled to take place on Wednesday, April 27, 2016, from 10:30-12:00 in Washington, D.C., in the Cannon House Office Building conference room on the first floor near Congressman Lance's office (133). The meeting will be a follow-up to our December meeting. 
 
+REMOTE PARTICIPATION: The Law Library of Congress has graciously agreed to host the BDTF’s April 27th meeting online.  This will allow individuals who cannot join us in the Cannon House Office Building to attend tomorrow’s meeting remotely.  The link to the meeting is https://login.icohere.com/LawLib?pnum=PMD47988. It will be available at approximately 10:15 in time for the 10:30 am meeting.  
+
 A technical meeting to review sample Bill Status XML files and the draft XML User Guide took place on Tuesday, December 15, 2015, from 1:00-2:30 PM in Washington, D.C. For more information, please contact the Office of the Clerk at 202-225-7000. See also http://xml.house.gov/billstatusinbulk.htm.
 
 * Technology Timeline: http://xml.house.gov/resources/TechTimeline.htm
