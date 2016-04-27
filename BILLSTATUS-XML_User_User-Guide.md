@@ -2,15 +2,6 @@
 #Bill Status XML Bulk Data
 #User Guide 
 
-####Revision History
-
-| Revision | Date | Description |
-| --- | --- | --- |
-| 1.0 | December 2015 | Version 1.0 in conjunction with release of sample Bill Status XML files in GPO's GitHub repository |
-| 1.1 | December 2015 | Version 1.1 with clarifying edits |
-
-
-
 #Contents
 
 [1. Introduction](#1.-Introduction)
@@ -18,8 +9,9 @@
 [3. Action Code Element Possible Values](#3.-Action-Code-Element-Possible-Values)
 [4. Actions Type Element Possible Values](#4.-Actions-Type-Element-Possible-Values)
 [5. Mapping of LOC Summaries Version Codes and Action Description Text](#5.-Mapping-of-LOC-Summaries-Version-Codes-and-Action-Description-Text)
-[6. Data Set](#6.-Data-Set)
-[7. Resources Directory](#7-Resources-Directory)
+[6. Title Type Possible Values](#6.-Title-Type-Possible-Values)
+[7. Data Set](#7.-Data-Set)
+[8. Resources Directory](#8-Resources-Directory)
 
 #1. Introduction
 
@@ -99,7 +91,7 @@ Parent container for actions. The "Actions" element may include the following ch
   
 - actions
   - item
-    - actionCode ñ _See table 3 (below) for Action Code Element Possible Values_
+    - actionCode ‚Äì _See table 3 (below) for Action Code Element Possible Values_
     - actionDate (e.g., 2014-02-11)
     - actionTime (e.g., 18:16:46; _Note: Only present for House floor actions_ ONLY process timestamps when sourceSystem code value=2)
     - committee
@@ -133,7 +125,7 @@ Parent container for amendments. The Amendments element may include the followin
     - actionByCounts
     - actionTypeCounts
     - item
-      - actionCode ñ _See table 3 (below) for Action Code Element Possible Values_
+      - actionCode ‚Äì _See table 3 (below) for Action Code Element Possible Values_
       - actionDate (e.g., 2016-01-06)
       - actionTime _(e.g., 08:22PM; Note: Only present for House floor actions)_
       - committee
@@ -307,7 +299,7 @@ Parent container for notes. The "Notes" element may include the following childr
       - name (e.g., H.Res.776)
       - url (e.g., https://www.congress.gov/bill/113th-congress/house-resolution/776/)
     - text 
-       -Example: ```<![CDATA On 7/30/2013, a motion was filed to discharge the Committee on Rules from the consideration of H.Res.306 a resolution providing for consideration of H.Res.36. A discharge petition requires 218 signatures for further action. (Discharge Petition No. <a href="http://clerk.house.gov/113/lrc/pd/petitions/DisPet0004.xml">113-4</a>: text with signatures.]]) The ìTextî element is enclosed in CDATA.``` The "Text" element is enclosed in CDATA.
+       -Example: ```<![CDATA On 7/30/2013, a motion was filed to discharge the Committee on Rules from the consideration of H.Res.306 a resolution providing for consideration of H.Res.36. A discharge petition requires 218 signatures for further action. (Discharge Petition No. <a href="http://clerk.house.gov/113/lrc/pd/petitions/DisPet0004.xml">113-4</a>: text with signatures.]]) The ‚ÄúText‚Äù element is enclosed in CDATA.``` The "Text" element is enclosed in CDATA.
     - links
       - link
         - name (e.g., H.Res.776)
