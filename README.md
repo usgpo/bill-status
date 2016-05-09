@@ -2,7 +2,7 @@
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 113th Congress. 
 
-Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS and starting on 4/25/16 the update job will run at 8:00 AM instead of 4:00 AM to capture more of the early morning updates on Congress.gov. 
+Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS, and we run the update job every 4 hours at 4AM, 8AM, 12PM, 4PM, 8PM, and 12AM. 
 
 Actions related to amendments to amendments are now available and sample files are listed below. 
 
