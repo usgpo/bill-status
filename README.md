@@ -36,7 +36,7 @@ https://www.gpo.gov/smap/bulkdata/BILLSTATUS/sitemapindex.xml
 
 ##User Guide##
 
-A User Guide is available at https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources and a markdown version is now also available.
+A User Guide is available at https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources and a markdown version is now also available at https://github.com/usgpo/bill-status/blob/master/BILLSTATUS-XML_User_User-Guide.md.
 
 ##Public Meetings##
 A technical meeting is scheduled to take place on Wednesday, April 27, 2016, from 10:30-12:00 in Washington, D.C., in the Cannon House Office Building conference room on the first floor near Congressman Lance's office (133). The meeting will be a follow-up to our December meeting. 
