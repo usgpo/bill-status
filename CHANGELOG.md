@@ -3,7 +3,7 @@ __Completed June 2016__
 to this value <actionTime>15:36:00</actionTime>. 
 
 EXAMPLE: https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hjres/BILLSTATUS-114hjres88.xml 
-* Adjust values used for type element for related bills. Change THIS value SCONRES to THIS value S.Con.Res.  
+* Adjust values used for type element for related bills. Change THIS value S.Con.Res. to THIS value SCONRES   
 
 EXAMPLE: https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5471.xml
 * Adjust CBO child node attribute names. Change these attribute names within cboCostEstimates: rptPubDate to pubDate; rptTitle to title; rptUrl to url. 
