@@ -17,7 +17,7 @@
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force ([footnote](#footnote)), the Government Publishing Office (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Statuses in XML format available through the GPO's Federal Digital System (FDsys) Bulk Data repository starting with the 113th Congress. The FDsys Bulk Data repository for Bill Status information is available at [http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS](http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS).
 
-Please see [http://www.fdsys.gov](http://www.fdsys.gov/) or [http://www.congress.gov](http://www.congress.gov/)for access to individual House and Senate Congressional Bills in PDF, XML, and HTML formats.
+Please see [http://www.fdsys.gov](http://www.fdsys.gov/) or [http://www.congress.gov](http://www.congress.gov/) for access to individual House and Senate Congressional Bills in PDF, XML, and HTML formats.
 
 ## 1.1. Bill Types
 
