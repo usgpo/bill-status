@@ -1,3 +1,10 @@
+__Completed August 2016__
+* Adjust names of subject fields - Change THIS value <otherSubjects> 
+to this value <legislativeSubjects> and change THIS value <primarySubject> 
+to this value <policyArea>
+
+EXAMPLE: https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5714.xml
+ 
 __Completed June 2016__
 * Adjust formatting of the actionTime element - Change THIS value <actionTime>03:36PM</actionTime> 
 to this value <actionTime>15:36:00</actionTime>. 
