@@ -4,6 +4,10 @@ to this value `<legislativeSubjects>` and change THIS value `<primarySubject>`
 to this value `<policyArea>`
 
 EXAMPLE: https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5714.xml
+
+* Empty action elements suppressed
+
+ISSUE: BILLSTATUS-114hconres125.xml -- empty action item #13
  
 __Completed June 2016__
 * Adjust formatting of the actionTime element - Change THIS value `<actionTime>03:36PM</actionTime>` 
