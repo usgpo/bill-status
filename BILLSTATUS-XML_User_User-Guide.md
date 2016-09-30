@@ -611,37 +611,32 @@ This table provides codes and descriptions for possible values in the `<actionDe
 
 Below are the possible values in the <titleType> elements listed in the [Elements table 2.1](#2.1.Elements).  See the Congress.gov Glossary for information about "titles."
 
-| Code | Text in the <titleType> Element |
+| Code | Text in the `<titleType>` Element |
 | --- | --- |
-| **B00100** | Display Title |
-| **E20000** | Official Title as Agreed to by House and Senate |
-| **E30000** | Official Title as Enacted |
-| **E40000** | Official Title as Introduced |
-| **H11100** | Official Titles as Amended by House |
-| **H11200** | Official Titles as Amended by Senate   |
-| **H12100** | Official Titles on Other Bill Versions |
-| **H12200** | Other Short Titles |
-| **H12300** | Other Short Titles for portions of a bill |
-| **H12410** | Popular Title |
-| **H14000** | Short Title |
-| **H15000** | Short Titles as Enacted |
-| **H17000** | Short Titles as Enacted for portions of this bill |
-| **H1L210** | Short Titles as Introduced |
-| **H25200** | Short Titles as Introduced for portions of this bill   |
-| **H37300** | Short Titles as Passed House |
-| **H38310** | Short Titles as Passed House for portions of this bill |
-| **H30000** | Short Titles as Passed Senate |
-| **H8D000** | Short Titles as Passed Senate for portions of this bill |
-| **H81000** | Short Titles as Reported to House |
-| **1000** | Short Titles as Reported to House for portions of this bill |
-| **2000** | Short Titles as Reported to Senate |
-| **5000** | Short Titles as Passed Senate for portions of this bill |
-| **8000** | Short Titles as Reported to House |
-| **10000** | Short Titles as Reported to House for portions of this bill |
-| **11000** | Short Titles as Reported to Senate |
-| **13100** | Short Titles as Reported to Senate for portions of this bill |
-| **13200** | Short Titles on Conference report |
-| **14000** | Short Titles on Conference report for portions of this bill |
+| **01** | Official Title as Introduced |
+| **02** | Official Title as Amended by House |
+| **03** | Official Title as Amended by Senate   |
+| **04** | Official Title as Agreed to by House and Senate |
+| **05** | Official Title as Enacted |
+| **10** | Display Title |
+| **09** | Official Title on Other Bill Versions |
+| **20** | Short Title as Introduced |
+| **21** | Short Title as Reported to House |
+| **22** | Short Title as Reported to Senate |
+| **23** | Short Titles as Passed House |
+| **24** | Short Titles as Passed Senate |
+| **25** | Short Title as Enacted |
+| **26** | Short Title on Conference report |
+| **29** | Short Title on Other Versions |
+| **30** | Short Title as Introduced for portions of this bill   |
+| **31** | Short Title as Reported to House for portions of this bill |
+| **32** | Short Title as Reported to Senate for portions of this bill |
+| **33** | Short Title as Passed House for portions of this bill |
+| **34** | Short Title as Passed Senate for portions of this bill |
+| **35** | Short Title as Enacted for portions of this bill |
+| **36** | Short Title on Conference report for portions of this bill |
+| **39** | Short Titles on Other Versions for portions of this bill |
+| **40** | Popular Title |
 
 
 
