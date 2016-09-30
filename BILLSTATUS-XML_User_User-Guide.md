@@ -611,32 +611,38 @@ This table provides codes and descriptions for possible values in the `<actionDe
 
 Below are the possible values in the <titleType> elements listed in the [Elements table 2.1](#2.1.Elements).  See the Congress.gov Glossary for information about "titles."
 
-###Text in the <titleType> Element
-Display Title
-Official Title as Agreed to by House and Senate
-Official Title as Enacted
-Official Title as Introduced
-Official Titles as Amended by House
-Official Titles as Amended by Senate
-Official Titles on Other Bill Versions
-Other Short Titles
-Other Short Titles for portions of a bill
-Popular Title
-Short Title
-Short Titles as Enacted
-Short Titles as Enacted for portions of this bill
-Short Titles as Introduced
-Short Titles as Introduced for portions of this bill
-Short Titles as Passed House
-Short Titles as Passed House for portions of this bill
-Short Titles as Passed Senate
-Short Titles as Passed Senate for portions of this bill
-Short Titles as Reported to House
-Short Titles as Reported to House for portions of this bill
-Short Titles as Reported to Senate
-Short Titles as Reported to Senate for portions of this bill
-Short Titles on Conference report
-Short Titles on Conference report for portions of this bill
+| Code | Text in the <titleType> Element |
+| --- | --- |
+| **B00100** | Display Title |
+| **E20000** | Official Title as Agreed to by House and Senate |
+| **E30000** | Official Title as Enacted |
+| **E40000** | Official Title as Introduced |
+| **H11100** | Official Titles as Amended by House |
+| **H11200** | Official Titles as Amended by Senate   |
+| **H12100** | Official Titles on Other Bill Versions |
+| **H12200** | Other Short Titles |
+| **H12300** | Other Short Titles for portions of a bill |
+| **H12410** | Popular Title |
+| **H14000** | Short Title |
+| **H15000** | Short Titles as Enacted |
+| **H17000** | Short Titles as Enacted for portions of this bill |
+| **H1L210** | Short Titles as Introduced |
+| **H25200** | Short Titles as Introduced for portions of this bill   |
+| **H37300** | Short Titles as Passed House |
+| **H38310** | Short Titles as Passed House for portions of this bill |
+| **H30000** | Short Titles as Passed Senate |
+| **H8D000** | Short Titles as Passed Senate for portions of this bill |
+| **H81000** | Short Titles as Reported to House |
+| **1000** | Short Titles as Reported to House for portions of this bill |
+| **2000** | Short Titles as Reported to Senate |
+| **5000** | Short Titles as Passed Senate for portions of this bill |
+| **8000** | Short Titles as Reported to House |
+| **10000** | Short Titles as Reported to House for portions of this bill |
+| **11000** | Short Titles as Reported to Senate |
+| **13100** | Short Titles as Reported to Senate for portions of this bill |
+| **13200** | Short Titles on Conference report |
+| **14000** | Short Titles on Conference report for portions of this bill |
+
 
 
 #7. Data Set
