@@ -1,3 +1,10 @@
+__Expected Late 2016 (November)__
+* Add `<state>`, `<district>`, and `<party>` elements within each `<item>` under `<cosponsors>`
+
+EXAMPLES: [BILLSTATUS-114s469.xml](BILLSTATUS-114s469.xml) and [BILLSTATUS-114hr2566.xml](BILLSTATUS-114s2556.xml)
+
+See issue [#7](https://github.com/usgpo/bill-status/issues/7)
+
 __Completed August 2016__
 * Adjust names of subject fields - Change THIS value `<otherSubjects>`
 to this value `<legislativeSubjects>` and change THIS value `<primarySubject>` 

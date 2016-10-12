@@ -32,6 +32,10 @@ https://www.gpo.gov/smap/bulkdata/BILLSTATUS/sitemapindex.xml
 | H.R. 8222 114th Congress | House bill; actions on amendments | Department of the Interior, Environment, and Related Agencies Appropriations Act, 2016 | 
 | H.R. 1155 114th Congress | House bill; actions on amendments | SCRUB Act of 2016 | 
 | H.R. 1314 114th Congress | House bill; actions on amendments | Bipartisan Budget Act of 2015 |
+| H.R. 2556 114th Congress | House bill; state, district, and party elements for cosponsors | Improving Rural Call Quality and Reliability Act of 2015 |
+| S. 469 114th Congress | Senate bill; state, district, and party elements for cosponsors | Women Veterans and Families Health Services Act of 2015 |
+
+
 
 
 ##User Guide##
