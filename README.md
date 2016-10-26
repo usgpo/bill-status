@@ -1,4 +1,9 @@
-﻿# Bill Status #
+﻿>As of November 16th, 2016, FDsys and **govinfo** will deprecate support for TLS 1.0 connections. Please ensure that crawlers are using modern protocols, including TLS 1.1 or 1.2. 
+
+>This is being done to mitigate vulnerabilities associated with TLS 1.0 and follow NIST guidelines
+
+
+# Bill Status #
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 113th Congress. 
 
