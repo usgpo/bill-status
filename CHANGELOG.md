@@ -1,3 +1,5 @@
+﻿>Deployment on November 3rd and we will reprocess data after the deployment!
+
 __Expected first week of November 2016__
 * Add `<state>`, `<district>`, and `<party>` elements within each `<item>` under `<cosponsors>`
 
