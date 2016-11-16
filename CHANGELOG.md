@@ -1,6 +1,6 @@
-﻿>Deployment on November 3rd and we will reprocess data after the deployment!
+>We are currently processing existing and new 114th bill status files to make sure new fields are available for the entire data set. Data will continue to be updated throughout the day and night. Estimated time to complete is 2 days.
 
-__Expected first week of November 2016__
+__November 2016__
 * Add `<state>`, `<district>`, and `<party>` elements within each `<item>` under `<cosponsors>`
 
 EXAMPLES: [BILLSTATUS-114s469.xml](BILLSTATUS-114s469.xml) and [BILLSTATUS-114hr2566.xml](BILLSTATUS-114hr2566.xml)
