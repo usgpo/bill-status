@@ -1,4 +1,4 @@
-﻿>Deployment on November 3rd and we will reprocess data after the deployment!
+﻿>We are currently processing existing and new 114th bill status files to make sure new fields are available for the entire data set. Data will continue to be updated throughout the day and night. Estimated time to complete is 2 days.
 
 >As of November 16th, 2016, FDsys and **govinfo** will deprecate support for TLS 1.0 connections. Please ensure that crawlers are using modern protocols, including TLS 1.1 or 1.2. 
 
