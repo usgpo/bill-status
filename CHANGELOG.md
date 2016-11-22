@@ -1,5 +1,3 @@
->We are currently processing existing and new 114th bill status files to make sure new fields are available for the entire data set. Data will continue to be updated throughout the day and night. Estimated time to complete is 2 days.
-
 __November 2016__
 * Add `<state>`, `<district>`, and `<party>` elements within each `<item>` under `<cosponsors>`
 
