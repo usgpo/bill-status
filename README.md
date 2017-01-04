@@ -1,6 +1,6 @@
->As of November 16th, 2016, FDsys and **govinfo** will deprecate support for TLS 1.0 connections. Please ensure that crawlers are using modern protocols, including TLS 1.1 or 1.2. 
+>We are temporarily running the 115th Congress job at 6, 10, and 2. 
 
->This is being done to mitigate vulnerabilities associated with TLS 1.0 and follow NIST guidelines
+>After the volume of updates for the 114th Congress decreases, we are planning to switch the 115th Congress job to 4, 8, and 12.
 
 
 # Bill Status #
