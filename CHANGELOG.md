@@ -1,6 +1,8 @@
 __Expect these changes in approximately April 2017__
 * Minor edit for two often-used Summary Version types. Change Type 1 to "Reported to Senate with amendment(s)" (old description: Reported to Senate amended). Change Type 17 to "Reported to House with amendment(s)" (old description: Reported to House amended).
 * Major edit for two not-previously-used Summary Version types. Change Type 70 to "House agreed to Senate amendment without amendment" (old description: Hearing scheduled in House). Change Type 71 to "Senate agreed to House amendment without amendment" (old description: Hearing scheduled in Senate)
+* Fixed Bill Status Cosponsors for Amendments issue [#44](https://github.com/usgpo/bill-status/issues/44) and Overlapping Amendments issue [#34](https://github.com/usgpo/bill-status/issues/34). Stay tuned for reprocessing schedule for 114th and 115th. 
+
 
 __November 2016__
 * Add `<state>`, `<district>`, and `<party>` elements within each `<item>` under `<cosponsors>`
