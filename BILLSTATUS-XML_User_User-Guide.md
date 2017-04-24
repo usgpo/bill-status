@@ -1,8 +1,8 @@
 
-#Bill Status XML Bulk Data
-#User Guide 
+# Bill Status XML Bulk Data
+# User Guide 
 
-#Contents
+# Contents
 
 [1. Introduction](#1.-Introduction)
 [2. XML Descriptions](#2.-XML-Descriptions)
@@ -13,7 +13,7 @@
 [7. Data Set](#7.-Data-Set)
 [8. Resources Directory](#8-Resources-Directory)
 
-#1. Introduction
+# 1. Introduction
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force ([footnote](#footnote)), the Government Publishing Office (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Statuses in XML format available through the GPO's Federal Digital System (FDsys) Bulk Data repository starting with the 113th Congress. The FDsys Bulk Data repository for Bill Status information is available at [http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS](http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS).
 
@@ -21,28 +21,28 @@ Please see [http://www.fdsys.gov](http://www.fdsys.gov/) or [http://www.congress
 
 ## 1.1. Bill Types
 
-###Bills
+### Bills
 
 - House Bill (HR)
 - Senate Bill (S)
 
 A bill is a legislative proposal before Congress. Bills from each house are assigned a number in the order in which they are introduced, starting at the beginning of each Congress (first and second sessions). Public bills pertain to matters that affect the general public or classes of citizens, while private bills pertain to individual matters that affect individuals and organizations.
 
-###Joint Resolutions
+### Joint Resolutions
 
 - House Joint Resolution (HJRES)
 - Senate Joint Resolution (SJRES)
 
 Like a bill, a joint resolution is a legislative proposal that requires the approval of both houses and the signature of the President. It has the force of law, if approved. Resolutions from each house are assigned a number in the order in which they are introduced, starting at the beginning of each Congress (first and second sessions). Joint resolutions generally are used for limited matters, such as a single appropriation for a specific purpose. They are also used to propose amendments to the Constitution. These types of joint resolutions do not require the President's signature if three-quarters of the states have ratified them.
 
-###Concurrent Resolutions
+### Concurrent Resolutions
 
 - House Concurrent Resolution (HCONRES)
 - Senate Concurrent Resolution (SCONRES)
 
 A concurrent resolution is a legislative proposal that requires the approval of both houses but does not require the signature of the President and does not have the force of law. Concurrent resolutions generally are used to make or amend rules that apply to both houses. They are also used to express the sentiments of both of the houses. For example, a concurrent resolution is used to set the time of Congress' adjournment. It may also be used by Congress to convey congratulations to another country on the anniversary of its independence.
 
-###Simple Resolutions
+### Simple Resolutions
 
 - House Simple Resolution (HRES)
 - Senate Simple Resolution (SRES)
@@ -59,20 +59,20 @@ The Bill Status bulk data collection on FDsys includes XML bills statuses from 2
 
 The Bulk Data repository is organized by Congress and bill type. A ZIP file is available for each bill type and contains Bill Status XML files for that bill type within a specific Congress. Each Bill Status XML file contains information about legislation under consideration for a specific measure.
 
-#2. XML Descriptions
+# 2. XML Descriptions
 
 The following conventions are used in this document:
 
 - Top-level XML element names are denoted with angled brackets and in courier. For example, `<title>` is an XML element. Any children of the elements are described within the table and are not denoted with angle brackets or courier.
 
-##2.1.Elements
+## 2.1.Elements
 This section provides available element names and their descriptions
 
 ### `<billStatus>` 
 Root element. 
-###`<bill>`
+### `<bill>`
  Parent container for a single legislative measure.   |
-###`<actions>` 
+### `<actions>` 
 Parent container for actions. The "Actions" element may include the following children:  
 
 - actionByCounts _See Note_.  
@@ -108,7 +108,7 @@ Parent container for actions. The "Actions" element may include the following ch
     - type _See table 4 (below) for Action Type Element Possible Values Note: `<actionbyCounts>`, `<actionTypeCounts>`, and `<type>` elements support Congress.gov facets and data processing; they do not represent House or Senate legislative process activities._
 Note: `<sourceSystem>` and `<type>` are often required to disambiguate Action Codes._Note: Content in the Type element will be changed in 2016 to match this documentation._
 
-###`<amendments>`
+### `<amendments>`
 Parent container for amendments. The Amendments element may include the following children:
 
 - amendment
@@ -151,18 +151,18 @@ Parent container for amendments. The Amendments element may include the followin
 Note: Amendments to Amendments are now available.
   
 
-###`<billNumber>` 
+### `<billNumber>` 
 Numerical bill number.  _Note: See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for information about "reserved bill numbers."_
-###`<billType>`
+### `<billType>`
 Bill type (Possible values are H, S, HRES, SRES, HJRES, SJRES, HCONRES, and SCONRES). 
-###`<calendarNumbers>`
+### `<calendarNumbers>`
 Parent container for House or Senate calendar numbers. The "Calendar Numbers" element may include the following children:
 - item
   - calendar (e.g., Senate Calendar of Business, Senate Executive Calendar)
   - number (e.g., 0192, U00134, H00002, P00021,D00001)
 _Note: House calendar codes are U=Union, H=House, P=Private, and D=Discharge._ 
 
-###`<cboCostEstimates>`
+### `<cboCostEstimates>`
 
 Parent container for Congressional Budget Office cost estimates. The "Congressional Budget Office Cost Estimates" element may include the following children:
 - item
@@ -170,14 +170,16 @@ Parent container for Congressional Budget Office cost estimates. The "Congressio
   - rptTitle (e.g., S. 1300, Adoptive Family Relief Act)
   - rptUrl (e.g., http://www.cbo.gov/publication/50883)
 
-###`<constitutionalAuthorityStatementText>`
+### `<constitutionalAuthorityStatementText>`
 
 Constitutional authority statement about the legislative measure
 
 Example:
- ```<![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FRANKS of Arizona: H.J. Res. 45. Congress has the power to enact this legislation pursuant to the following: Article V of the U.S. Constitution: ``The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution . . .''\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[Page H2310]</pre>]]>```
-_Note: Value is enclosed in CDATA._   
-###`<committeeReports>`
+``<![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. FRANKS of Arizona: H.J. Res. 45. Congress has the power to enact this legislation pursuant to the following: Article V of the U.S. Constitution: ``The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution . . .''\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[Page H2310]</pre>]]>
+
+_Note: Value is enclosed in CDATA._ 
+
+### `<committeeReports>`
  Parent container for committee reports. The "Committee Reports" element may include the following children:
  
 - committeeReport
@@ -185,7 +187,7 @@ _Note: Value is enclosed in CDATA._
 
 _Note: This element will be empty unless a measure has associated reports._ |
 
-###`<committees>`
+### `<committees>`
 Parent container for committees. Committees, subcommittees, and references to reports associated with a legislative measure are included here, as well as the nature and date of [committee-related activity](https://www.congress.gov/help/legislative-glossary/#glossary_committeeactivity) and [Congressional report](https://www.congress.gov/help/legislative-glossary/#glossary_congressionalreport) number. The "Committees" element may include the following children:
 
 - billCommittees
@@ -212,11 +214,11 @@ Parent container for committees. Committees, subcommittees, and references to re
 
 _Note: The `<committees>` element will be empty unless a measure has received committee-related action._ 
 
-###`<congress>`
+### `<congress>`
 
 The number of the Congress (e.g., 114).
 
-###`<cosponsors>` 
+### `<cosponsors>` 
 
 Parent container for cosponsors. The "Cosponsors" element may include the following children:
 
@@ -237,24 +239,24 @@ __Note: Values contained in <sponsorshipWithdrawnDate> include House cosponsor d
 _Note:__See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about cosponsors__.
 _Note: Name elements will be changed in 2016 to match this documentation._   
 
-###`<createDate>`
+### `<createDate>`
 The date the record was created for Congress.gov.   |
 
-###`<introducedDate>`
+### `<introducedDate>`
 
 The date the legislative measure was introduced, submitted, offered, or proposed (e.g., 2013-01-03). This element corresponds with the first action date element in the XML file for an introduced measure. 
 
-###`<isByRequest>`
+### `<isByRequest>`
 
 A designation on a measure indicating that the member has introduced the measure on behalf of someone else (e.g., the President or an executive branch agency), or pursuant to statutory requirements, and may not necessarily support its provisions. Possible values are: Single Sponsor by request, Two Sponsors by request, and Multiple Sponsors by request. 
 
 _Note: Please see the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about the designation "by request"__._ |
 
-###`<isReserved>`
+### `<isReserved>`
 
 _Note: This element will be removed in 2016._
 
-###`<lastAction>`
+### `<lastAction>`
 
 Parent container for the last action. The "Last Action" element may include the following children:
 
@@ -267,7 +269,7 @@ Parent container for the last action. The "Last Action" element may include the 
 
 _Note: Data from this element also appears within `<actions>` element._ 
 
-###`<laws>`
+### `<laws>`
 Parent container for the public or private law citation. The "Laws" element may include the following children:
 
 - item
@@ -276,7 +278,7 @@ Parent container for the public or private law citation. The "Laws" element may 
 
 _Note: This element will be empty unless a measure has been enacted into law and the public law number has been assigned._
 
-###`<recordedVotes>`
+### `<recordedVotes>`
 Parent container for recorded votes. The "Recorded Votes" element may include the following children:
 
 - recordedVote
@@ -290,7 +292,7 @@ Parent container for recorded votes. The "Recorded Votes" element may include th
 
 _Note: When constructing links to Senate roll call votes, the formatting of_ _the ampersand may need to be transformed._
 
-###`<notes>` 
+### `<notes>` 
 Parent container for notes. The "Notes" element may include the following children:
 
 - Item
@@ -299,7 +301,9 @@ Parent container for notes. The "Notes" element may include the following childr
       - name (e.g., H.Res.776)
       - url (e.g., https://www.congress.gov/bill/113th-congress/house-resolution/776/)
     - text 
-       -Example: ```<![CDATA On 7/30/2013, a motion was filed to discharge the Committee on Rules from the consideration of H.Res.306 a resolution providing for consideration of H.Res.36. A discharge petition requires 218 signatures for further action. (Discharge Petition No. <a href="http://clerk.house.gov/113/lrc/pd/petitions/DisPet0004.xml">113-4</a>: text with signatures.]]) The “Text” element is enclosed in CDATA.``` The "Text" element is enclosed in CDATA.
+       -Example: ``<![CDATA On 7/30/2013, a motion was filed to discharge the Committee on Rules from the consideration of H.Res.306 a resolution providing for consideration of H.Res.36. A discharge petition requires 218 signatures for further action. (Discharge Petition No. <a href="http://clerk.house.gov/113/lrc/pd/petitions/DisPet0004.xml">113-4</a>: text with signatures.]]) The “Text” element is enclosed in CDATA.``
+  The "Text" element is enclosed in CDATA.
+
     - links
       - link
         - name (e.g., H.Res.776)
@@ -307,11 +311,11 @@ Parent container for notes. The "Notes" element may include the following childr
       
 _Note: See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information._ 
 
-###`<originChamber>`
+### `<originChamber>`
 
 The chamber in which the measure originated. Possible values are House and Senate.
 
-###`<primarySubject>`
+### `<primarySubject>`
 
 Parent container for primary subjects. There are 33 policy area terms which span across all legislation from 1973 to the present.Legislative analysts at the Library of Congress closely examine each bill and resolution to assign a  [policy area term](https://www.congress.gov/help/legislative-glossary/#glossary_policyareaterm) that best describes the entire legislative measure. This policy area term can be found in the `<name>` element (e.g., Economics and Public Finance)
 
@@ -319,7 +323,7 @@ Parent container for primary subjects. There are 33 policy area terms which span
 
 _Note: See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about policy area terms._ |
 
-###`<relatedBills>` 
+### `<relatedBills>` 
 
 Parent container for related bills. A related bill may be a [companion measure](https://www.congress.gov/help/legislative-glossary/#glossary_companionmeasure), an [identical bill](https://www.congress.gov/help/legislative-glossary/#glossary_identicalbill), a [procedurally-related measure](https://www.congress.gov/help/legislative-glossary/#glossary_procedurallyrelatedmeasure), or one with [substantive similarities](https://www.congress.gov/help/legislative-glossary#glossary_reservedbillnumbershttps://www.congress.gov/help/legislative-glossary/). Legislative analysts at the Library of Congress closely examine bills and resolutions to assign bill relationships. Bill relationships may also be identified by the House or Senate. Bill relationships refer only to same-Congress measures. The "Related Bills" element may include the following children:
 
@@ -361,7 +365,7 @@ _Note: See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislat
     - lisID (e.g. 944)
 _Note: Name elements will be changed in 2016 to match this documentation_
 
-###`<subjects>`
+### `<subjects>`
 
 Parent container for subjects. [Legislative subject terms](https://www.congress.gov/help/legislative-glossary/#glossary_legislativesubjectterm) like those found in <otherSubjects> describe a measure's substance and effects. There are approximately 1,000 issue-oriented, entity, and geographic terms. The "Subjects" element may include the following children:
 
@@ -377,7 +381,7 @@ Parent container for subjects. [Legislative subject terms](https://www.congress.
         - name
 _Note:  __See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about legislative subject terms.  _
 
-###`<summaries>` 
+### `<summaries>` 
 Parent container for summaries. Upon introduction of a bill or resolution in the House or Senate, legislative analysts in the [Congressional Research Service](https://www.congress.gov/help/legislative-glossary#glossary_crs)of the Library of Congress write a short summary that objectively describes the measure's significant provisions. Introduced version summaries are subject to length limitations as a matter of policy.
 
 When a measure receives action (e.g. it is reported from a committee or passed by the House or Senate), the analysts then write an expanded summary detailing the measure's effect upon programs and current law. Bill summaries are written as a result of a Congressional action and may not always correspond to a document published by the [Government Publishing Office](https://www.congress.gov/help/legislative-glossary#glossary_gpo). A final public law summary is prepared upon enactment into law. 
@@ -399,11 +403,11 @@ See table 5 (below) for Mapping of LOC Action Codes for Summaries, Action Descri
     
  _Note: Bill Summaries are also available as a separate collection on the FDsys Bulk Data repository._ |
 
-###`<title>`
+### `<title>`
 
 Parent container for titles.
 
-###`<titles>`
+### `<titles>`
 
 Parent container for additional titles. In addition to an official title, a bill may be assigned one or more short titles upon introduction, committee or chamber action, or enactment. Titles may apply to all or portions of a measure's content. Titles may change as a measure moves through the legislative process. The "Titles" element may include the following children:
 
@@ -416,11 +420,13 @@ Parent container for additional titles. In addition to an official title, a bill
 
 _Note: Popular Titles are informal, unofficial names for legislation that may be assigned by the House, Senate, or CRS to improve access. Popular titles are usually not found within official legislative texts (e.g. the Patient Protection and Affordable Care Act is commonly known as the health care reform bill).__Note:_ _See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about titles._  
 
-###`<updateDate>`
+### `<updateDate>`
 The date the record metadata was updated for Congress.gov.
 
-###`<dublinCore>` 
-###```xmlns:dc="http://purl.org/dc/elements/1.1/"``` 
+### `<version>`
+Version number is provided to GPO by the Library of Congresss, and it is passed through to files on the bulk data repository. Plan is to increment value when data format changes.
+
+### `<dublinCore>` ```xmlns:dc="http://purl.org/dc/elements/1.1/"``` 
 Parent container for Dublin Core metadata.  The "Dublin Core" element may include the following children:
 
 - dc:format (value is text/xml)
@@ -430,7 +436,7 @@ Parent container for Dublin Core metadata.  The "Dublin Core" element may includ
 - dc:description (value is This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.)
 
 
-#3. Action Code Element Possible Values
+# 3. Action Code Element Possible Values
 
 This table provides codes and descriptions for possible values in the `<actionCode>` child of the `<actions>` element listed in the Elements section 2.1.
 
@@ -477,7 +483,7 @@ The original code set can be found at [http://www.loc.gov/pictures/resource/ppms
 | **28000** | Presented to President. |
 | **36000** | Became Public Law |
 
-#4. Actions Type Element Possible Values
+# 4. Actions Type Element Possible Values
 
 This table provides codes and descriptions for possible values in the `<type>` child of the `<actions>` element listed in the Elements section 2.1.
 
@@ -512,7 +518,7 @@ Action types primarily represents legislative process stages or categories of mo
 | Unknown |
 | VARIES |
 
-#5. Mapping of LOC Summaries Version Codes and  Action Description Text
+# 5. Mapping of LOC Summaries Version Codes and  Action Description Text
 
 This table provides codes and descriptions for possible values in the `<actionDesc>` and `<versionCode>` children of the `<summaries>` element listed in the Elements section 2.1.  This list maps internal LOC summary and bill text version types.
 
@@ -607,7 +613,7 @@ This table provides codes and descriptions for possible values in the `<actionDe
 | **87** | HOUSE | Conference report filed in House, 3rd conference report |
 | **88** | HOUSE | Conference report filed in House, 4th conference report |
 
-#6. Title Type Possible Values
+# 6. Title Type Possible Values
 
 Below are the possible values in the <titleType> elements listed in the [Elements table 2.1](#2.1.Elements).  See the Congress.gov Glossary for information about "titles."
 
@@ -640,7 +646,7 @@ Below are the possible values in the <titleType> elements listed in the [Element
 
 
 
-#7. Data Set
+# 7. Data Set
 
 Bill Status data is provided to GPO by the Library of Congress, and XML files are available for bulk data download on the FDsys Bulk Data repository starting with the 113th Congress (2013-2014). Bill Status XML files are not available through FDsys search or browse; they are only available in the FDsys Bulk Data repository.
 
@@ -648,9 +654,9 @@ In general, there are no restrictions on re-use of information in the Bill Statu
 
 Bill Status XML files can be manipulated and enriched to operate in the various applications that users may devise. GPO and its legislative branch data partners cannot vouch for the authenticity of data that is not under GPO's control. GPO is providing free access to Bill Status XML files for display in various applications and mash-ups outside the FDsys domain. GPO does not endorse third party applications and does not evaluate how the original legal or legislative content is displayed on other sites. Consumers should form their own conclusions as to whether the downloaded data can be relied upon within an application or mash-up.
 
-#8. Resources Directory
+# 8. Resources Directory
 
 The resources directory at [http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources](http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources) contains the _User Guide for Bill Status XML Bulk Data_.
 
-###footnote
+### footnote
  House Report 113-417 that accompanies H.R.4487, the Legislative Branch Appropriations bill for FY2015
