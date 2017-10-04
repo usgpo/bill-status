@@ -18,6 +18,14 @@ Govinfo Article: https://www.govinfo.gov/features/featured-content/bill-status-b
 
 https://www.gpo.gov/smap/bulkdata/BILLSTATUS/sitemapindex.xml
 
+## RSS Feed ##
+There is now an RSS feed that will provide updates on when bill status batch jobs complete. Each item description includes a list of bill-status files updated as part of the batch update.
+
+https://www.govinfo.gov/rss/billstatus-batch.xml
+
+For more information on GPO's rss feeds, see:
+
+https://www.govinfo.gov/feeds or https://www.github.com/usgpo/rss
 
 ## Sample Files ##
 
