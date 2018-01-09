@@ -401,7 +401,9 @@ See table 5 (below) for Mapping of LOC Action Codes for Summaries, Action Descri
     - updateDate (e.g. 2013-01-03T05:00:00Z)
     - versionCode (e.g. 00)
     
- _Note: Bill Summaries are also available as a separate collection on the FDsys Bulk Data repository._ |
+ _Note: Bill Summaries are also available as a separate collection on the FDsys Bulk Data repository._ 
+ 
+ _Note: updateDate applies to the item under billSummaries while lastSummaryUpdateDate applies to the summary itself._
 
 ### `<title>`
 
