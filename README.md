@@ -1,6 +1,7 @@
->We are temporarily running the 115th Congress job at 6, 10, and 2. 
+>In December 2018, the FDsys website including the FDsys Bulk Data Repository, FDsys Sitemaps, and the FDsys Link Service will be retired. Please migrate tools and processes to [govinfo](https://www.govinfo.gov/developers).
 
->After the volume of updates for the 114th Congress decreases, we are planning to switch the 115th Congress job to 4, 8, and 12.
+>The 115th Congress job runs at 6, 10, and 2. 
+>The 114th Congress job runs at 4, 8, and 12.
 
 
 # Bill Status #
