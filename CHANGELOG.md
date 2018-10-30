@@ -1,3 +1,9 @@
+__November 2018__
+* In response to Issue [#45](https://github.com/usgpo/bill-status/issues/45) proposed update to add `<textVersions>`. 
+
+EXAMPLES: [DEV-BILLSTATUS-115hr302.xml](DEV-BILLSTATUS-115hr302.xml), [DEV-BILLSTATUS-115hr367.xml](DEV-BILLSTATUS-115hr367.xml), [DEV-BILLSTATUS-115s2269.xml](DEV-BILLSTATUS-115s2269.xml), and [DEV-BILLSTATUS-115s3509.xml](DEV-BILLSTATUS-115s3509.xml).  
+
+
 __April 2017__
 * Added top-level Version element with a value of 1.0.0. 
 * Minor edit for two often-used Summary Version types. Change Type 1 to "Reported to Senate with amendment(s)" (old description: Reported to Senate amended). Change Type 17 to "Reported to House with amendment(s)" (old description: Reported to House amended).
