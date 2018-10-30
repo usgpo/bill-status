@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to reauthorize the Global Food Security Act of 2016 for 5 additional years.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Global Food Security Reauthorization Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <latestAction>
+      <text>Presented to President.</text>
+      <links />
+      <actionDate>2018-10-02</actionDate>
+    </latestAction>
+    <billNumber>2269</billNumber>
+    <committeeReports />
+    <billType>S</billType>
+    <notes />
+    <cosponsors>
+      <item>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <firstName>Johnny</firstName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <state>GA</state>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <lastName>Isakson</lastName>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <state>DE</state>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <state>IL</state>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <state>MN</state>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <state>MD</state>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <bioguideId>Y000064</bioguideId>
+        <firstName>Todd</firstName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <state>IN</state>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <lastName>Young</lastName>
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <state>AR</state>
+        <sponsorshipDate>2018-04-12</sponsorshipDate>
+        <lastName>Boozman</lastName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <state>FL</state>
+        <sponsorshipDate>2018-05-22</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <firstName>BENJAMIN</firstName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <state>MD</state>
+        <sponsorshipDate>2018-05-22</sponsorshipDate>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <state>OR</state>
+        <sponsorshipDate>2018-05-22</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <bioguideId>B001288</bioguideId>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <state>NJ</state>
+        <sponsorshipDate>2018-06-04</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <sponsorshipDate>2018-06-13</sponsorshipDate>
+        <lastName>COLLINS</lastName>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <state>MI</state>
+        <sponsorshipDate>2018-06-19</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2269enr/xml/BILLS-115s2269enr.xml</url>
+          </item>
+        </formats>
+        <date />
+        <type>Enrolled Bill</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2269es/xml/BILLS-115s2269es.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-19T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2269rs/xml/BILLS-115s2269rs.xml</url>
+          </item>
+        </formats>
+        <date>2018-05-22T04:00:00Z</date>
+        <type>Reported to Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2269is/xml/BILLS-115s2269is.xml</url>
+          </item>
+        </formats>
+        <date>2017-12-21T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <updateDate>2018-10-04T04:37:46Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <amendments />
+    <congress>115</congress>
+    <introducedDate>2017-12-21</introducedDate>
+    <title>Global Food Security Reauthorization Act of 2017</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-05-22T22:32:28Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2018-05-22T18:15:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-21T22:47:48Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-12-22T00:41:16Z</createDate>
+    <actions>
+      <item>
+        <actionCode>E20000</actionCode>
+        <links />
+        <text>Presented to President.</text>
+        <actionDate>2018-10-02</actionDate>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <links />
+        <text>Presented to President.</text>
+        <actionDate>2018-10-02</actionDate>
+        <committee />
+        <type>President</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2018-09-28</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:32:24</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9369</url>
+            <name>H9369</name>
+          </link>
+        </links>
+        <text>On passage Passed without objection. (text: CR H9369)</text>
+        <actionDate>2018-09-28</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:32:21</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+        <actionDate>2018-09-28</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:32:21</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9369</url>
+            <name>H9369</name>
+          </link>
+        </links>
+        <text>Considered by unanimous consent. (consideration: CR H9369)</text>
+        <actionDate>2018-09-28</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:32:18</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30200</actionCode>
+        <links />
+        <text>Mr. Royce (CA) asked unanimous consent to take from the Speaker's table and consider.</text>
+        <actionDate>2018-09-28</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:31:49</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H15000</actionCode>
+        <links />
+        <text>Held at the desk.</text>
+        <actionDate>2018-06-20</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>15:36:52</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H14000</actionCode>
+        <links />
+        <text>Received in the House.</text>
+        <actionDate>2018-06-20</actionDate>
+        <committee />
+        <type>Floor</type>
+        <actionTime>10:14:13</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-06-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-06-19</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4248-4249</url>
+            <name>S4248-4249</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S4249</url>
+            <name>S4249</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S4248-4249; text: CR S4249)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.</text>
+        <actionDate>2018-06-19</actionDate>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-05-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2018-05-22</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <links />
+        <text>Committee on Foreign Relations. Reported by Senator Corker without amendment. Without written report.</text>
+        <actionDate>2018-05-22</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-05-22</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-12-21</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <referredToCommittee>1</referredToCommittee>
+        <sentToHouse>1</sentToHouse>
+        <presentedToPresident>1</presentedToPresident>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <considerationByHouse>1</considerationByHouse>
+        <passedSenate>1</passedSenate>
+        <placeholderTextForE>1</placeholderTextForE>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Bob</firstName>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <middleName />
+        <lastName>Casey</lastName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/54041</url>
+        <pubDate>2018-06-13T12:41:00Z</pubDate>
+        <title>S. 2269, Global Food Security Reauthorization Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0427</number>
+      </item>
+    </calendarNumbers>
+    <laws />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text>
+          <actionDate>2018-04-17</actionDate>
+        </latestAction>
+        <number>5129</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>Global Food Security Reauthorization Act of 2018</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

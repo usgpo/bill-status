@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees />
+    </committees>
+    <updateDate>2018-10-04T04:38:03Z</updateDate>
+    <notes />
+    <amendments />
+    <billNumber>3509</billNumber>
+    <cosponsors>
+      <item>
+        <state>WY</state>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001261</bioguideId>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionDate>2018-10-02</actionDate>
+        <text>Presented to President.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>E20000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>President</type>
+        <actionDate>2018-10-02</actionDate>
+        <text>Presented to President.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>28000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>12:31:07</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H9359</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9359</url>
+          </link>
+        </links>
+        <actionTime>12:31:03</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <text>On passage Passed without objection. (text: CR H9359)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>12:31:03</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H9359</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9359</url>
+          </link>
+        </links>
+        <actionTime>12:30:59</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <text>Considered by unanimous consent. (consideration: CR H9359)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>12:30:37</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <text>Mr. Thompson (PA) asked unanimous consent to take from the Speaker's table and consider.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30200</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-09-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>15:32:01</actionTime>
+        <actionDate>2018-09-27</actionDate>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H15000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>12:16:19</actionTime>
+        <actionDate>2018-09-27</actionDate>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-09-26</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6346</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S6346</url>
+          </link>
+          <link>
+            <name>S6348</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S6348</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6348; text: CR S6348; text of measure as introduced: CR S6346)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionDate>2018-09-26</actionDate>
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2018-09-26</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <presentedToPresident>1</presentedToPresident>
+        <sentToHouse>1</sentToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <introducedInSenate>1</introducedInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForE>1</placeholderTextForE>
+        <considerationByHouse>1</considerationByHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <title>Congressional Award Program Reauthorization Act of 2018</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>Congressional Award Program Reauthorization Act of 2018</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>A bill to reauthorize the Congressional Award Act.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Congressional Award Program Reauthorization Act of 2018</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Congressional Award Program Reauthorization Act of 2018</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Providing for the concurrence by the House in the Senate amendment to H.R. 302, with an amendment.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1082</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>17:43:21</actionTime>
+          <actionDate>2018-09-26</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>FAA Reauthorization Act of 2018</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>4</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 401.</text>
+          <actionDate>2018-05-08</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>SUPPORT for Patients and Communities Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>6</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Senate agreed to the House amendment to the Senate amendment to H.R. 6. by Yea-Nay Vote. 98 - 1. Record Vote Number: 221.</text>
+          <actionDate>2018-10-03</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Sports Medicine Licensure Clarity Act of 2017</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>302</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Message on Senate action sent to the House.</text>
+          <actionDate>2018-10-03</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>John S. McCain National Defense Authorization Act for Fiscal Year 2019</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>5515</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Became Public Law No: 115-232.</text>
+          <actionDate>2018-08-13</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Aim Higher Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>6543</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2018-07-26</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Protecting Taxpayers Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>3278</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+          <actionDate>2018-10-03</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Congressional Award Program Reauthorization Act of 2018</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>6862</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2018-09-24</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <introducedDate>2018-09-26</introducedDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2018-10-02</actionDate>
+      <text>Presented to President.</text>
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date />
+        <type>Enrolled Bill</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3509enr/xml/BILLS-115s3509enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2018-09-26T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3509es/xml/BILLS-115s3509es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2018-09-26T04:00:00Z</date>
+        <type>Considered and Passed Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3509cps/xml/BILLS-115s3509cps.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <bioguideId>E000285</bioguideId>
+        <middleName>B.</middleName>
+        <state>WY</state>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <lastName>ENZI</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <title>Congressional Award Program Reauthorization Act of 2018</title>
+    <createDate>2018-09-27T04:40:48Z</createDate>
+    <billType>S</billType>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
