@@ -15,9 +15,9 @@
 
 # 1. Introduction
 
-At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force ([footnote](#footnote)), the Government Publishing Office (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Statuses in XML format available through the GPO's Federal Digital System (FDsys) Bulk Data repository starting with the 113th Congress. The FDsys Bulk Data repository for Bill Status information is available at [http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS](http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS).
+At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force ([footnote](#footnote)), the Government Publishing Office (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Statuses in XML format available through the GPO's govinfo Bulk Data repository starting with the 113th Congress. The govinfo Bulk Data repository for Bill Status information is available at [https://www.govinfo.gov/bulkdata/BILLSTATUS/resources](https://www.govinfo.gov/bulkdata/BILLSTATUS/resources).
 
-Please see [http://www.fdsys.gov](http://www.fdsys.gov/) or [http://www.congress.gov](http://www.congress.gov/) for access to individual House and Senate Congressional Bills in PDF, XML, and HTML formats.
+Please see [https://www.govinfo.gov](https://www.govinfo.gov/) or [https://www.congress.gov](https://www.congress.gov/) for access to individual House and Senate Congressional Bills in PDF, XML, and HTML formats.
 
 ## 1.1. Bill Types
 
@@ -53,7 +53,7 @@ Additional information about bill types can be found at [http://www.gpo.gov/help
 
 ## 1.2. Scope of Bulk Data
 
-The Bill Status bulk data collection on FDsys includes XML bills statuses from 2013 (113th Congress) forward.
+The Bill Status bulk data collection on govinfo includes XML bills statuses from 2013 (113th Congress) forward.
 
 ## 1.3. Bulk Data Downloads
 
@@ -340,21 +340,20 @@ Parent container for related bills. A related bill may be a [companion measure](
       - type (e.g., Related Bill)
   - type (e.g., S.)
 
- _Note: The following patterns can be used to build links to related bills. Bill `<type>` will need to be normalized into {normalized type} that removes punctuation and converts to lower case (i.e,._ _h, s, hres, sres, hjres, sjres, hconres, or sconres)._ FDsys Bill Text XML
-- http://api.fdsys.gov/link?collection=bills&billtype={normalized type}&billnum=`<number>`&congress=`<congress>`&link-type=xml
-- http://api.fdsys.gov/link?collection=bills&billtype=hr&billnum=83&congress=113&link-type=xml
-FDsys Bill Text PDF
-- http://api.fdsys.gov/link?collection=bills&billtype={normalized type}&billnum=`<number>`&congress=`<congress>`&link-type=pdf
-- http://api.fdsys.gov/link?collection=bills&billtype=hr&billnum=83&congress=113&link-type=pdf
- FDsys Bill Status XML
-- http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/`<congress>`/{normalized type}/BILLSTATUS-`<congress>`{normalized type}`<number>`.xml
-- http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/113/hr/BILLSTATUS-113hr83.xml
+ _Note: The following resources provide information about how to build links to related bills._ 
+ 
+ govinfo
+ - https://www.govinfo.gov/link-docs/
+ 
 Congress.gov
--  https://www.congress.gov/bill/`<congress>`/`<type>`/`<number`>
+-  https://www.congress.gov/bill/`<congress>`/`<type>`/`<number>`
 -  [https://www.congress.gov/bill/113/hr/83](https://www.congress.gov/bill/113/hr/83)
 
-_Note: See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about related bills._ |
-| <sponsors> | Parent container for sponsors. The "Sponsors" element may include the following children:
+_Note: See the_ [_Congress.gov Glossary_](https://www.congress.gov/help/legislative-glossary) _for more information about related bills._ 
+
+### `<sponsors>` 
+
+Parent container for sponsors. The "Sponsors" element may include the following children:
 - item
   - firstName (e.g., Charles)
   - middleName (e.g., B.)
@@ -401,9 +400,19 @@ See table 5 (below) for Mapping of LOC Action Codes for Summaries, Action Descri
     - updateDate (e.g. 2013-01-03T05:00:00Z)
     - versionCode (e.g. 00)
     
- _Note: Bill Summaries are also available as a separate collection on the FDsys Bulk Data repository._ 
+ _Note: Bill Summaries are also available as a separate collection on the govinfo Bulk Data repository._ 
  
  _Note: updateDate applies to the item under billSummaries while lastSummaryUpdateDate applies to the summary itself._
+
+### `<textVersions>` Coming Soon!
+Parent container for links to bills on govinfo. The "Text Versions" element may include the following children:
+
+- item
+  - date (e.g. 2018-09-26T04:00:00Z)
+  - type (e.g. Engrossed in Senate)
+  - formats
+    - item
+      - url (e.g. https://www.govinfo.gov/content/pkg/BILLS-115hr302eah/xml/BILLS-115hr302eah.xml) 
 
 ### `<title>`
 
@@ -650,15 +659,15 @@ Below are the possible values in the <titleType> elements listed in the [Element
 
 # 7. Data Set
 
-Bill Status data is provided to GPO by the Library of Congress, and XML files are available for bulk data download on the FDsys Bulk Data repository starting with the 113th Congress (2013-2014). Bill Status XML files are not available through FDsys search or browse; they are only available in the FDsys Bulk Data repository.
+Bill Status data is provided to GPO by the Library of Congress, and XML files are available for bulk data download on the govinfo Bulk Data repository starting with the 113th Congress (2013-2014). Bill Status XML files are not available through govinfo search or browse; they are only available in the govinfo Bulk Data repository.
 
 In general, there are no restrictions on re-use of information in the Bill Status data set because U.S. Government works are not subject to copyright protection and are in the public domain. GPO and its legislative branch data partners do not restrict downstream uses of Bill Status data, except that independent providers should be aware that only GPO and its legislative branch data partners are entitled to represent that they are the providers of official Bill Status data.
 
-Bill Status XML files can be manipulated and enriched to operate in the various applications that users may devise. GPO and its legislative branch data partners cannot vouch for the authenticity of data that is not under GPO's control. GPO is providing free access to Bill Status XML files for display in various applications and mash-ups outside the FDsys domain. GPO does not endorse third party applications and does not evaluate how the original legal or legislative content is displayed on other sites. Consumers should form their own conclusions as to whether the downloaded data can be relied upon within an application or mash-up.
+Bill Status XML files can be manipulated and enriched to operate in the various applications that users may devise. GPO and its legislative branch data partners cannot vouch for the authenticity of data that is not under GPO's control. GPO is providing free access to Bill Status XML files for display in various applications and mash-ups outside the Fgovinfo domain. GPO does not endorse third party applications and does not evaluate how the original legal or legislative content is displayed on other sites. Consumers should form their own conclusions as to whether the downloaded data can be relied upon within an application or mash-up.
 
 # 8. Resources Directory
 
-The resources directory at [http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources](http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources) contains the _User Guide for Bill Status XML Bulk Data_.
+The resources directory at [https://www.govinfo.gov/bulkdata/BILLSTATUS/resources](https://www.govinfo.gov/bulkdata/BILLSTATUS/resources) contains the _User Guide for Bill Status XML Bulk Data_.
 
 ### footnote
  House Report 113-417 that accompanies H.R.4487, the Legislative Branch Appropriations bill for FY2015
