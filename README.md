@@ -1,14 +1,13 @@
->In December 2018, the FDsys website including the FDsys Bulk Data Repository, FDsys Sitemaps, and the FDsys Link Service will be retired. Please migrate tools and processes to [govinfo](https://www.govinfo.gov/developers).
-
->The 115th Congress job runs at 6, 10, and 2. 
->The 114th Congress job runs at 4, 8, and 12.
+>The 116th Congress job runs at 4, 8, and 12 every 4 hours. 
+>The 115th Congress job runs at 6, 10, and 2 every 4 hours. 
+>The 114th Congress job runs at 2 daily.
 
 
 # Bill Status #
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 113th Congress. 
 
-Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS, and we run the update job every 4 hours at 4AM, 8AM, 12PM, 4PM, 8PM, and 12AM. 
+Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS, and we run the update job every 4 hours.  
 
 Actions related to amendments to amendments are now available and sample files are listed below. 
 
