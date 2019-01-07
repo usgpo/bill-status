@@ -404,7 +404,7 @@ See table 5 (below) for Mapping of LOC Action Codes for Summaries, Action Descri
  
  _Note: updateDate applies to the item under billSummaries while lastSummaryUpdateDate applies to the summary itself._
 
-### `<textVersions>` Coming Soon!
+### `<textVersions>` 
 Parent container for links to bills on govinfo. The "Text Versions" element may include the following children:
 
 - item
