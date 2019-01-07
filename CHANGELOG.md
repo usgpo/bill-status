@@ -1,3 +1,6 @@
+__January 2019__
+Added `<textVersions>` in response to Issue [#45](https://github.com/usgpo/bill-status/issues/45). Element will initially be available in Bill Status files for the 116th Congress and then in other Congresses as files are updated or reprocessed. 
+
 __November 2018__
 * In response to Issue [#45](https://github.com/usgpo/bill-status/issues/45) proposed update to add `<textVersions>`. 
 
