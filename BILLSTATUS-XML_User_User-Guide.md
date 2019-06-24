@@ -473,6 +473,7 @@ The original code set can be found at [http://www.loc.gov/pictures/resource/ppms
 | **H15000** | Held at the desk |
 | **H17000** | Motion to Discharge Committee |
 | **H1L210** | Rule provides for consideration of |
+| **H1L220** | Rule passed/agreed in House |
 | **H35000** | The previous question was ordered pursuant to the rule  |
 | **H25200** | Conference report [free text] filed   |
 | **H37300** | Final Passage Under Suspension of the Rules Results |
