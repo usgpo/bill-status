@@ -2,6 +2,7 @@
 >The 115th Congress job runs at 6, 10, and 2 every 4 hours. 
 >The 114th Congress job runs at 2 daily.
 
+>As part of an upcoming release and upgrade to our system, we will be reindexing all content in the coming weeks. This will result in updates to all content on sitemaps and the govinfo API. We will provide a more detailed update when we have a firm timeframe for when this will take effect on the public site and the API. 
 
 # Bill Status #
 
