@@ -8,7 +8,7 @@
 
 At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 113th Congress. 
 
-Bill Status XML is now available at http://www.gpo.gov/fdsys/bulkdata/BILLSTATUS, and we run the update job every 4 hours.  
+Bill Status XML is now available at https://www.govinfo.gov/bulkdata/BILLSTATUS, and we run the update job for the current Congress every 4 hours.  
 
 Actions related to amendments to amendments are now available and sample files are listed below. 
 
@@ -17,7 +17,7 @@ Govinfo Article: https://www.govinfo.gov/features/featured-content/bill-status-b
 
 ## Sitemap ##
 
-https://www.gpo.gov/smap/bulkdata/BILLSTATUS/sitemapindex.xml
+https://www.govinfo.gov/sitemap/bulkdata/BILLSTATUS/sitemapindex.xml
 
 ## RSS Feed ##
 There is now an RSS feed that will provide updates on when bill status batch jobs complete. Each item description includes a list of bill-status files updated as part of the batch update.
@@ -28,7 +28,7 @@ For more information on GPO's rss feeds, see:
 
 https://www.govinfo.gov/feeds or https://www.github.com/usgpo/rss
 
-## Sample Files ##
+## Original Sample Files ##
 
 | Bill | Bill Features  | Bill Title |
 | :--- | :--- | :--- |
@@ -50,16 +50,14 @@ https://www.govinfo.gov/feeds or https://www.github.com/usgpo/rss
 | S. 469 114th Congress | Senate bill; state, district, and party elements for cosponsors | Women Veterans and Families Health Services Act of 2015 |
 
 
-
-
 ## User Guide ##
 
-A User Guide is available at https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/resources and a markdown version is now also available at https://github.com/usgpo/bill-status/blob/master/BILLSTATUS-XML_User_User-Guide.md.
+A User Guide is available at https://github.com/usgpo/bill-status/blob/master/BILLSTATUS-XML_User_User-Guide.md.
 
 ## Public Meetings ##
-A technical meeting is scheduled to take place on Wednesday, April 27, 2016, from 10:30-12:00 in Washington, D.C., in the Cannon House Office Building conference room on the first floor near Congressman Lance's office (133). The meeting will be a follow-up to our December meeting. 
+A technical meeting took place on Wednesday, April 27, 2016, from 10:30-12:00 in Washington, D.C., in the Cannon House Office Building conference room on the first floor near Congressman Lance's office (133). The meeting was a follow-up to the December meeting. 
 
-REMOTE PARTICIPATION: The Law Library of Congress has graciously agreed to host the BDTF’s April 27th meeting online.  This will allow individuals who cannot join us in the Cannon House Office Building to attend tomorrow’s meeting remotely.  The link to the meeting is https://login.icohere.com/LawLib?pnum=PMD47988. It will be available at approximately 10:15 in time for the 10:30 am meeting.  
+REMOTE PARTICIPATION: The Law Library of Congress hosted the BDTF’s April 27th meeting online.  This allowed individuals who could not join us in the Cannon House Office Building to attend the meeting remotely.  The link to the meeting was https://login.icohere.com/LawLib?pnum=PMD47988. It was available at approximately 10:15 in time for the 10:30 am meeting.  
 
 A technical meeting to review sample Bill Status XML files and the draft XML User Guide took place on Tuesday, December 15, 2015, from 1:00-2:30 PM in Washington, D.C. For more information, please contact the Office of the Clerk at 202-225-7000. See also http://xml.house.gov/billstatusinbulk.htm.
 
