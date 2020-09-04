@@ -2,7 +2,7 @@
 >The 115th Congress job runs at 6, 10, and 2 every 4 hours. 
 >The 114th Congress job runs at 2 daily.
 
->In January 2020, there will be a change to the `<committee>` element associated with individual actions in BILLSTATUS files. It will become the `<committees>` element. We anticipate that this will impact programs that consume Bill Status information. For additional detail, please see [Issue #147](https://github.com/usgpo/bill-status/issues/147)
+>In January 2020, there was a change to the `<committee>` element associated with individual actions in BILLSTATUS files. It became the `<committees>` element. For additional detail, please see [Issue #147](https://github.com/usgpo/bill-status/issues/147)
 
 # Bill Status #
 
