@@ -15,7 +15,7 @@
 
 # 1. Introduction
 
-At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force ([footnote](#footnote)), the Government Publishing Office (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Statuses in XML format available through the GPO's govinfo Bulk Data repository starting with the 113th Congress. The govinfo Bulk Data repository for Bill Status information is available at [https://www.govinfo.gov/bulkdata/BILLSTATUS/resources](https://www.govinfo.gov/bulkdata/BILLSTATUS/resources).
+At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force ([footnote](#footnote)), the Government Publishing Office (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Statuses in XML format available through the GPO's govinfo Bulk Data repository starting with 2003 (108th Congress). The govinfo Bulk Data repository for Bill Status information is available at [https://www.govinfo.gov/bulkdata/BILLSTATUS/resources](https://www.govinfo.gov/bulkdata/BILLSTATUS/resources).
 
 Please see [https://www.govinfo.gov](https://www.govinfo.gov/) or [https://www.congress.gov](https://www.congress.gov/) for access to individual House and Senate Congressional Bills in PDF, XML, and HTML formats.
 
