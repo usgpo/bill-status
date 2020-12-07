@@ -4,13 +4,13 @@
 
 # Contents
 
-1. [Introduction](#1.-Introduction)
-2. [XML Descriptions](#2.-XML-Descriptions)
-3. [Action Code Element Possible Values](#3.-Action-Code-Element-Possible-Values)
-4. [Actions Type Element Possible Values](#4.-Actions-Type-Element-Possible-Values)
-5. [Mapping of LOC Summaries Version Codes and Action Description Text](#5.-Mapping-of-LOC-Summaries-Version-Codes-and-Action-Description-Text)
-6. [Title Type Possible Values](#6.-Title-Type-Possible-Values)
-7. [Data Set](#7.-Data-Set)
+1. [Introduction](#1-introduction)  
+2. [XML Descriptions](#2-xml-descriptions)  
+3. [Action Code Element Possible Values](#3-action-code-element-possible-values)  
+4. [Actions Type Element Possible Values](#4-actions-type-element-possible-values)  
+5. [Mapping of LOC Summaries Version Codes and Action Description Text](#5-mapping-of-loc-summaries-version-codes-and--action-description-text)  
+6. [Title Type Possible Values](#6-title-type-possible-values)  
+7. [Data Set](#7-data-set)  
 
 # 1. Introduction
 
