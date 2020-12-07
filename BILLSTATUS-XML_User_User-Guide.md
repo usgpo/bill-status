@@ -661,15 +661,11 @@ Below are the possible values in the <titleType> elements listed in the [Element
 
 # 7. Data Set
 
-Bill Status data is provided to GPO by the Library of Congress, and XML files are available for bulk data download on the govinfo Bulk Data repository starting with the 113th Congress (2013-2014). Bill Status XML files are not available through govinfo search or browse; they are only available in the govinfo Bulk Data repository.
+Bill Status data is provided to GPO by the Library of Congress, and XML files are available for bulk data download on the govinfo Bulk Data repository starting with the 108th Congress (2003-2004). Bill Status XML files are not available through govinfo search or browse; they are only available in the govinfo Bulk Data repository.
 
 In general, there are no restrictions on re-use of information in the Bill Status data set because U.S. Government works are not subject to copyright protection and are in the public domain. GPO and its legislative branch data partners do not restrict downstream uses of Bill Status data, except that independent providers should be aware that only GPO and its legislative branch data partners are entitled to represent that they are the providers of official Bill Status data.
 
 Bill Status XML files can be manipulated and enriched to operate in the various applications that users may devise. GPO and its legislative branch data partners cannot vouch for the authenticity of data that is not under GPO's control. GPO is providing free access to Bill Status XML files for display in various applications and mash-ups outside the Fgovinfo domain. GPO does not endorse third party applications and does not evaluate how the original legal or legislative content is displayed on other sites. Consumers should form their own conclusions as to whether the downloaded data can be relied upon within an application or mash-up.
-
-# 8. Resources Directory
-
-The resources directory at [https://www.govinfo.gov/bulkdata/BILLSTATUS/resources](https://www.govinfo.gov/bulkdata/BILLSTATUS/resources) contains the _User Guide for Bill Status XML Bulk Data_.
 
 ### footnote
  House Report 113-417 that accompanies H.R.4487, the Legislative Branch Appropriations bill for FY2015
