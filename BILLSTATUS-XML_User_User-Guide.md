@@ -11,7 +11,6 @@
 5. [Mapping of LOC Summaries Version Codes and Action Description Text](#5.-Mapping-of-LOC-Summaries-Version-Codes-and-Action-Description-Text)
 6. [Title Type Possible Values](#6.-Title-Type-Possible-Values)
 7. [Data Set](#7.-Data-Set)
-8. [Resources Directory](#8-Resources-Directory)
 
 # 1. Introduction
 
