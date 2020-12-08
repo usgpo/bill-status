@@ -1,6 +1,4 @@
->The 116th Congress job runs at 4, 8, and 12 every 4 hours. 
->The 115th Congress job runs at 6, 10, and 2 every 4 hours. 
->Prior Congresses run daily.
+>The 116th Congress job runs at 4, 8, and 12 every 4 hours; prior Congresses run daily.
 
 # Bill Status #
 
