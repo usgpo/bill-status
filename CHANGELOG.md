@@ -1,3 +1,9 @@
+__December 2020__
+* Added data for the 108th to 112th Congresses. 
+
+__January 2020__
+* In January 2020, there was a change to the `<committee>` element associated with individual actions in BILLSTATUS files. It became the `<committees>` element. For additional detail, please see [Issue #147](https://github.com/usgpo/bill-status/issues/147)
+
 __January 2019__
 * Added `<textVersions>` in response to Issue [#45](https://github.com/usgpo/bill-status/issues/45). Element will initially be available in Bill Status files for the 116th Congress and then in other Congresses as files are updated or reprocessed. 
 
