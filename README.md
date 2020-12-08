@@ -1,19 +1,17 @@
 >The 116th Congress job runs at 4, 8, and 12 every 4 hours. 
 >The 115th Congress job runs at 6, 10, and 2 every 4 hours. 
->The 114th Congress job runs at 2 daily.
-
->In January 2020, there was a change to the `<committee>` element associated with individual actions in BILLSTATUS files. It became the `<committees>` element. For additional detail, please see [Issue #147](https://github.com/usgpo/bill-status/issues/147)
+>Prior Congresses run daily.
 
 # Bill Status #
 
-At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate are making Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 113th Congress. 
+At the direction of the U.S. House of Representatives Appropriations Committee, in support of the Legislative Branch Bulk Data Task Force, the Government Publishing (GPO), the Library of Congress (LOC), the Clerk of the House, and the Secretary of the Senate have made Bill Status information in XML format available through the GPO’s Bulk Data repository starting with the 108th Congress. 
 
-Bill Status XML is now available at https://www.govinfo.gov/bulkdata/BILLSTATUS, and we run the update job for the current Congress every 4 hours.  
+Bill Status XML is available at https://www.govinfo.gov/bulkdata/BILLSTATUS; we run the update job for the current Congress every 4 hours.  
 
-Actions related to amendments to amendments are now available and sample files are listed below. 
+Govinfo Articles: https://www.govinfo.gov/features/featured-content/bill-status-bulk-data and https://www.govinfo.gov/features/bill-status-xml-bulk-data. 
 
-Govinfo Article: https://www.govinfo.gov/features/featured-content/bill-status-bulk-data
-
+## User Guide ##
+https://github.com/usgpo/bill-status/blob/master/BILLSTATUS-XML_User_User-Guide.md
 
 ## Sitemap ##
 
