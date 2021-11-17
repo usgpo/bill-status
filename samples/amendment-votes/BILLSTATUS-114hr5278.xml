@@ -8,7 +8,9 @@
     <billType>HR</billType>
     <introducedDate>2016-05-18</introducedDate>
     <congress>114</congress>
-    <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 162, Number 79 (Wednesday, May 18, 2016)]From the Congressional Record Online through the Government Publishing Office [&lt;a href='http://www.gpo.gov'&gt;www.gpo.gov&lt;/a&gt;]By Mr. DUFFY:H.R. 5278.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2[Page H2845]&lt;/pre&gt;</constitutionalAuthorityStatementText>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 162, Number 79 (Wednesday, May 18, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DUFFY:H.R. 5278.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2[Page H2845]</pre>]]>
+    </constitutionalAuthorityStatementText>
     <recordedVotes>
       <recordedVote>
         <rollNumber>288</rollNumber>
@@ -897,7 +899,9 @@
     <laws/>
     <notes>
       <item>
-        <text>For further action, see S.2328, which became Public Law 114-187 on 6/30/2016.</text>
+        <text>
+          <![CDATA[For further action, see S.2328, which became Public Law 114-187 on 6/30/2016.]]>
+        </text>
         <links/>
       </item>
     </notes>
@@ -1144,7 +1148,6 @@
           <links>
             <link>
               <name>Roll no. 287</name>
-              <url>https://clerk.house.gov/Votes/2016287</url>
               <url>https://clerk.house.gov/evs/2016/roll287.xml</url>
             </link>
           </links>
@@ -1167,8 +1170,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -1339,8 +1342,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -1497,8 +1500,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -1655,8 +1658,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -1813,8 +1816,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -1971,8 +1974,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -2129,8 +2132,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -2287,8 +2290,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <totalCount>0</totalCount>
-          <currentCount>0</currentCount>
+          <countIncludingWithdrawnCosponsors>0</countIncludingWithdrawnCosponsors>
+          <count>0</count>
         </cosponsors>
         <titles/>
         <proposedDate/>
@@ -2415,7 +2418,7 @@
         <date>2016-06-13T04:00:00Z</date>
         <formats>
           <item>
-            <url>http://www.govinfo.gov/content/pkg/BILLS-114hr5278rfs/xml/BILLS-114hr5278rfs.xml</url>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5278rfs/xml/BILLS-114hr5278rfs.xml</url>
           </item>
         </formats>
       </item>
@@ -2424,7 +2427,7 @@
         <date>2016-06-09T04:00:00Z</date>
         <formats>
           <item>
-            <url>http://www.govinfo.gov/content/pkg/BILLS-114hr5278eh/xml/BILLS-114hr5278eh.xml</url>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5278eh/xml/BILLS-114hr5278eh.xml</url>
           </item>
         </formats>
       </item>
@@ -2433,7 +2436,7 @@
         <date>2016-06-03T04:00:00Z</date>
         <formats>
           <item>
-            <url>http://www.govinfo.gov/content/pkg/BILLS-114hr5278rh/xml/BILLS-114hr5278rh.xml</url>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5278rh/xml/BILLS-114hr5278rh.xml</url>
           </item>
         </formats>
       </item>
@@ -2442,7 +2445,7 @@
         <date>2016-05-18T04:00:00Z</date>
         <formats>
           <item>
-            <url>http://www.govinfo.gov/content/pkg/BILLS-114hr5278ih/xml/BILLS-114hr5278ih.xml</url>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5278ih/xml/BILLS-114hr5278ih.xml</url>
           </item>
         </formats>
       </item>
