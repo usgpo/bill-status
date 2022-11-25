@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <billStatus>
+  <version>3.0.0</version>
   <bill>
     <number>6658</number>
-    <updateDate>2022-07-08T15:15:18Z</updateDate>
+    <updateDate>2022-11-17T08:15:24Z</updateDate>
+    <updateDateIncludingText>2022-11-17T08:15:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <type>HR</type>
     <introducedDate>2022-02-09</introducedDate>
@@ -16,7 +18,6 @@
         <name>Ways and Means Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
-        <subcommittees/>
         <activities>
           <item>
             <name>Referred to</name>
@@ -25,7 +26,6 @@
         </activities>
       </item>
     </committees>
-    <committeeReports/>
     <relatedBills>
       <item>
         <title>Permanent Extension of Rate Cuts and Extension of National Tax Simplification Act of 2022</title>
@@ -43,11 +43,26 @@
           </item>
         </relationshipDetails>
       </item>
+      <item>
+        <title>TCJA Permanency Act</title>
+        <congress>117</congress>
+        <number>8913</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-09-20</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
     </relatedBills>
     <actions>
       <item>
         <actionDate>2022-02-09</actionDate>
-        <links/>
         <text>Referred to the House Committee on Ways and Means.</text>
         <type>IntroReferral</type>
         <actionCode>H11100</actionCode>
@@ -61,12 +76,9 @@
             <name>Ways and Means Committee</name>
           </item>
         </committees>
-        <recordedVotes/>
-        <calendarNumber/>
       </item>
       <item>
         <actionDate>2022-02-09</actionDate>
-        <links/>
         <text>Introduced in House</text>
         <type>IntroReferral</type>
         <actionCode>Intro-H</actionCode>
@@ -74,13 +86,9 @@
           <code>9</code>
           <name>Library of Congress</name>
         </sourceSystem>
-        <committees/>
-        <recordedVotes/>
-        <calendarNumber/>
       </item>
       <item>
         <actionDate>2022-02-09</actionDate>
-        <links/>
         <text>Introduced in House</text>
         <type>IntroReferral</type>
         <actionCode>1000</actionCode>
@@ -88,9 +96,6 @@
           <code>9</code>
           <name>Library of Congress</name>
         </sourceSystem>
-        <committees/>
-        <recordedVotes/>
-        <calendarNumber/>
       </item>
     </actions>
     <sponsors>
@@ -98,17 +103,14 @@
         <bioguideId>D000619</bioguideId>
         <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
         <firstName>Rodney</firstName>
-        <middleName/>
         <lastName>Davis</lastName>
         <party>R</party>
         <state>IL</state>
         <identifiers>
-          <lisID>2126</lisID>
           <bioguideId>D000619</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>13</district>
-        <byRequestType/>
+        <isByRequest>N</isByRequest>
       </item>
     </sponsors>
     <cosponsors>
@@ -116,1986 +118,1585 @@
         <bioguideId>B000755</bioguideId>
         <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
         <firstName>KEVIN</firstName>
-        <middleName/>
         <lastName>BRADY</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>1468</lisID>
           <bioguideId>B000755</bioguideId>
-          <gpoId>8164</gpoId>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>W000813</bioguideId>
         <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
         <firstName>Jackie</firstName>
-        <middleName/>
         <lastName>Walorski</lastName>
         <party>R</party>
         <state>IN</state>
         <identifiers>
-          <lisID>2128</lisID>
           <bioguideId>W000813</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001157</bioguideId>
         <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
         <firstName>Michael</firstName>
-        <middleName>T.</middleName>
         <lastName>McCaul</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>1804</lisID>
           <bioguideId>M001157</bioguideId>
-          <gpoId>8166</gpoId>
         </identifiers>
+        <middleName>T.</middleName>
         <district>10</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S000168</bioguideId>
         <fullName>Rep. Salazar, Maria Elvira [R-FL-27]</fullName>
         <firstName>Maria</firstName>
-        <middleName>Elvira</middleName>
         <lastName>Salazar</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2495</lisID>
           <bioguideId>S000168</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>Elvira</middleName>
         <district>27</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001172</bioguideId>
         <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
         <firstName>Adrian</firstName>
-        <middleName/>
         <lastName>Smith</lastName>
         <party>R</party>
         <state>NE</state>
         <identifiers>
-          <lisID>1860</lisID>
           <bioguideId>S001172</bioguideId>
-          <gpoId>8040</gpoId>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>W000812</bioguideId>
         <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
         <firstName>Ann</firstName>
-        <middleName/>
         <lastName>Wagner</lastName>
         <party>R</party>
         <state>MO</state>
         <identifiers>
-          <lisID>2137</lisID>
           <bioguideId>W000812</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001195</bioguideId>
         <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
         <firstName>Jason</firstName>
-        <middleName/>
         <lastName>Smith</lastName>
         <party>R</party>
         <state>MO</state>
         <identifiers>
-          <lisID>2191</lisID>
           <bioguideId>S001195</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>T000467</bioguideId>
         <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
         <firstName>Glenn</firstName>
-        <middleName/>
         <lastName>Thompson</lastName>
         <party>R</party>
         <state>PA</state>
         <identifiers>
-          <lisID>1952</lisID>
           <bioguideId>T000467</bioguideId>
-          <gpoId>8123</gpoId>
         </identifiers>
         <district>15</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>R000575</bioguideId>
         <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
         <firstName>Mike</firstName>
-        <middleName/>
         <lastName>Rogers</lastName>
         <party>R</party>
         <state>AL</state>
         <identifiers>
-          <lisID>1704</lisID>
           <bioguideId>R000575</bioguideId>
-          <gpoId>7788</gpoId>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001295</bioguideId>
         <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
         <firstName>Mike</firstName>
-        <middleName/>
         <lastName>Bost</lastName>
         <party>R</party>
         <state>IL</state>
         <identifiers>
-          <lisID>2243</lisID>
           <bioguideId>B001295</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>12</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001120</bioguideId>
         <fullName>Rep. Crenshaw, Dan [R-TX-2]</fullName>
         <firstName>Dan</firstName>
-        <middleName/>
         <lastName>Crenshaw</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2443</lisID>
           <bioguideId>C001120</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>J000292</bioguideId>
         <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
         <firstName>Bill</firstName>
-        <middleName/>
         <lastName>Johnson</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>2046</lisID>
           <bioguideId>J000292</bioguideId>
-          <gpoId>8096</gpoId>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>R000610</bioguideId>
         <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
         <firstName>Guy</firstName>
-        <middleName/>
         <lastName>Reschenthaler</lastName>
         <party>R</party>
         <state>PA</state>
         <identifiers>
-          <lisID>2436</lisID>
           <bioguideId>R000610</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>14</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>R000603</bioguideId>
         <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
         <firstName>David</firstName>
-        <middleName/>
         <lastName>Rouzer</lastName>
         <party>R</party>
         <state>NC</state>
         <identifiers>
-          <lisID>2256</lisID>
           <bioguideId>R000603</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>7</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>U000031</bioguideId>
         <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
         <firstName>FRED</firstName>
-        <middleName/>
         <lastName>UPTON</lastName>
         <party>R</party>
         <state>MI</state>
         <identifiers>
-          <lisID>1177</lisID>
           <bioguideId>U000031</bioguideId>
-          <gpoId>7991</gpoId>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001103</bioguideId>
         <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
         <firstName>Earl</firstName>
-        <middleName>L. "Buddy"</middleName>
         <lastName>Carter</lastName>
         <party>R</party>
         <state>GA</state>
         <identifiers>
-          <lisID>2236</lisID>
           <bioguideId>C001103</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>L. "Buddy"</middleName>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001186</bioguideId>
         <fullName>Rep. Meijer, Peter [R-MI-3]</fullName>
         <firstName>Peter</firstName>
-        <middleName/>
         <lastName>Meijer</lastName>
         <party>R</party>
         <state>MI</state>
         <identifiers>
-          <lisID>2511</lisID>
           <bioguideId>M001186</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001213</bioguideId>
         <fullName>Rep. Moore, Blake D. [R-UT-1]</fullName>
         <firstName>Blake</firstName>
-        <middleName>D.</middleName>
         <lastName>Moore</lastName>
         <party>R</party>
         <state>UT</state>
         <identifiers>
-          <lisID>2536</lisID>
           <bioguideId>M001213</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>D.</middleName>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C000266</bioguideId>
         <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
         <firstName>STEVE</firstName>
-        <middleName/>
         <lastName>CHABOT</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>186</lisID>
           <bioguideId>C000266</bioguideId>
-          <gpoId>8091</gpoId>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001183</bioguideId>
         <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
         <firstName>David</firstName>
-        <middleName/>
         <lastName>Schweikert</lastName>
         <party>R</party>
         <state>AZ</state>
         <identifiers>
-          <lisID>1994</lisID>
           <bioguideId>S001183</bioguideId>
-          <gpoId>7802</gpoId>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001275</bioguideId>
         <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
         <firstName>Larry</firstName>
-        <middleName/>
         <lastName>Bucshon</lastName>
         <party>R</party>
         <state>IN</state>
         <identifiers>
-          <lisID>2018</lisID>
           <bioguideId>B001275</bioguideId>
-          <gpoId>7947</gpoId>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001056</bioguideId>
         <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
         <firstName>Jaime</firstName>
-        <middleName/>
         <lastName>Herrera Beutler</lastName>
         <party>R</party>
         <state>WA</state>
         <identifiers>
-          <lisID>2071</lisID>
           <bioguideId>H001056</bioguideId>
-          <gpoId>8207</gpoId>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>D000628</bioguideId>
         <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
         <firstName>Neal</firstName>
-        <middleName>P.</middleName>
         <lastName>Dunn</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2315</lisID>
           <bioguideId>D000628</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>P.</middleName>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001180</bioguideId>
         <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
         <firstName>David</firstName>
-        <middleName>B.</middleName>
         <lastName>McKinley</lastName>
         <party>R</party>
         <state>WV</state>
         <identifiers>
-          <lisID>2074</lisID>
           <bioguideId>M001180</bioguideId>
-          <gpoId>8222</gpoId>
         </identifiers>
+        <middleName>B.</middleName>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001039</bioguideId>
         <fullName>Rep. Cammack, Kat [R-FL-3]</fullName>
         <firstName>Kat</firstName>
-        <middleName/>
         <lastName>Cammack</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2491</lisID>
           <bioguideId>C001039</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001215</bioguideId>
         <fullName>Rep. Miller-Meeks, Mariannette [R-IA-2]</fullName>
         <firstName>Mariannette</firstName>
-        <middleName/>
         <lastName>Miller-Meeks</lastName>
         <party>R</party>
         <state>IA</state>
         <identifiers>
-          <lisID>2502</lisID>
           <bioguideId>M001215</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>V000134</bioguideId>
         <fullName>Rep. Van Duyne, Beth [R-TX-24]</fullName>
         <firstName>Beth</firstName>
-        <middleName/>
         <lastName>Van Duyne</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2535</lisID>
           <bioguideId>V000134</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>24</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>A000375</bioguideId>
         <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
         <firstName>Jodey</firstName>
-        <middleName>C.</middleName>
         <lastName>Arrington</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2350</lisID>
           <bioguideId>A000375</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>C.</middleName>
         <district>19</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M000871</bioguideId>
         <fullName>Rep. Mann, Tracey [R-KS-1]</fullName>
         <firstName>Tracey</firstName>
-        <middleName/>
         <lastName>Mann</lastName>
         <party>R</party>
         <state>KS</state>
         <identifiers>
-          <lisID>2508</lisID>
           <bioguideId>M000871</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001199</bioguideId>
         <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
         <firstName>Brian</firstName>
-        <middleName>J.</middleName>
         <lastName>Mast</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2322</lisID>
           <bioguideId>M001199</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>J.</middleName>
         <district>18</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001212</bioguideId>
         <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
         <firstName>Pete</firstName>
-        <middleName/>
         <lastName>Stauber</lastName>
         <party>R</party>
         <state>MN</state>
         <identifiers>
-          <lisID>2415</lisID>
           <bioguideId>S001212</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>W000815</bioguideId>
         <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
         <firstName>Brad</firstName>
-        <middleName>R.</middleName>
         <lastName>Wenstrup</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>2152</lisID>
           <bioguideId>W000815</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>R.</middleName>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001298</bioguideId>
         <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
         <firstName>Don</firstName>
-        <middleName/>
         <lastName>Bacon</lastName>
         <party>R</party>
         <state>NE</state>
         <identifiers>
-          <lisID>2337</lisID>
           <bioguideId>B001298</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001194</bioguideId>
         <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
         <firstName>John</firstName>
-        <middleName>R.</middleName>
         <lastName>Moolenaar</lastName>
         <party>R</party>
         <state>MI</state>
         <identifiers>
-          <lisID>2248</lisID>
           <bioguideId>M001194</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>R.</middleName>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001205</bioguideId>
         <fullName>Rep. Miller, Carol D. [R-WV-3]</fullName>
         <firstName>Carol</firstName>
-        <middleName>D.</middleName>
         <lastName>Miller</lastName>
         <party>R</party>
         <state>WV</state>
         <identifiers>
-          <lisID>2460</lisID>
           <bioguideId>M001205</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>D.</middleName>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001204</bioguideId>
         <fullName>Rep. Meuser, Daniel [R-PA-9]</fullName>
         <firstName>Daniel</firstName>
-        <middleName/>
         <lastName>Meuser</lastName>
         <party>R</party>
         <state>PA</state>
         <identifiers>
-          <lisID>2434</lisID>
           <bioguideId>M001204</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>9</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001084</bioguideId>
         <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
         <firstName>Yvette</firstName>
-        <middleName/>
         <lastName>Herrell</lastName>
         <party>R</party>
         <state>NM</state>
         <identifiers>
-          <lisID>2519</lisID>
           <bioguideId>H001084</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000558</bioguideId>
         <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
         <firstName>Brett</firstName>
-        <middleName/>
         <lastName>Guthrie</lastName>
         <party>R</party>
         <state>KY</state>
         <identifiers>
-          <lisID>1922</lisID>
           <bioguideId>G000558</bioguideId>
-          <gpoId>7954</gpoId>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001159</bioguideId>
         <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
         <firstName>Cathy</firstName>
-        <middleName>McMorris</middleName>
         <lastName>Rodgers</lastName>
         <party>R</party>
         <state>WA</state>
         <identifiers>
-          <lisID>1809</lisID>
           <bioguideId>M001159</bioguideId>
-          <gpoId>8209</gpoId>
         </identifiers>
+        <middleName>McMorris</middleName>
         <district>5</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001213</bioguideId>
         <fullName>Rep. Steil, Bryan [R-WI-1]</fullName>
         <firstName>Bryan</firstName>
-        <middleName/>
         <lastName>Steil</lastName>
         <party>R</party>
         <state>WI</state>
         <identifiers>
-          <lisID>2459</lisID>
           <bioguideId>S001213</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001307</bioguideId>
         <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
         <firstName>James</firstName>
-        <middleName>R.</middleName>
         <lastName>Baird</lastName>
         <party>R</party>
         <state>IN</state>
         <identifiers>
-          <lisID>2400</lisID>
           <bioguideId>B001307</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>R.</middleName>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>F000472</bioguideId>
         <fullName>Rep. Franklin, C. Scott [R-FL-15]</fullName>
         <firstName>C.</firstName>
-        <middleName>Scott</middleName>
         <lastName>Franklin</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2492</lisID>
           <bioguideId>F000472</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>Scott</middleName>
         <district>15</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001082</bioguideId>
         <fullName>Rep. Hern, Kevin [R-OK-1]</fullName>
         <firstName>Kevin</firstName>
-        <middleName/>
         <lastName>Hern</lastName>
         <party>R</party>
         <state>OK</state>
         <identifiers>
-          <lisID>2372</lisID>
           <bioguideId>H001082</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>T000478</bioguideId>
         <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
         <firstName>Claudia</firstName>
-        <middleName/>
         <lastName>Tenney</lastName>
         <party>R</party>
         <state>NY</state>
         <identifiers>
-          <lisID>2344</lisID>
           <bioguideId>T000478</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>22</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>J000295</bioguideId>
         <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
         <firstName>David</firstName>
-        <middleName>P.</middleName>
         <lastName>Joyce</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>2154</lisID>
           <bioguideId>J000295</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>P.</middleName>
         <district>14</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>L000569</bioguideId>
         <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
         <firstName>Blaine</firstName>
-        <middleName/>
         <lastName>Luetkemeyer</lastName>
         <party>R</party>
         <state>MO</state>
         <identifiers>
-          <lisID>1931</lisID>
           <bioguideId>L000569</bioguideId>
-          <gpoId>8017</gpoId>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000552</bioguideId>
         <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
         <firstName>Louie</firstName>
-        <middleName/>
         <lastName>Gohmert</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>1801</lisID>
           <bioguideId>G000552</bioguideId>
-          <gpoId>8157</gpoId>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>A000372</bioguideId>
         <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
         <firstName>Rick</firstName>
-        <middleName>W.</middleName>
         <lastName>Allen</lastName>
         <party>R</party>
         <state>GA</state>
         <identifiers>
-          <lisID>2239</lisID>
           <bioguideId>A000372</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>W.</middleName>
         <district>12</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001282</bioguideId>
         <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
         <firstName>Andy</firstName>
-        <middleName/>
         <lastName>Barr</lastName>
         <party>R</party>
         <state>KY</state>
         <identifiers>
-          <lisID>2131</lisID>
           <bioguideId>B001282</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>P000615</bioguideId>
         <fullName>Rep. Pence, Greg [R-IN-6]</fullName>
         <firstName>Greg</firstName>
-        <middleName/>
         <lastName>Pence</lastName>
         <party>R</party>
         <state>IN</state>
         <identifiers>
-          <lisID>2401</lisID>
           <bioguideId>P000615</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000377</bioguideId>
         <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
         <firstName>KAY</firstName>
-        <middleName/>
         <lastName>GRANGER</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>1487</lisID>
           <bioguideId>G000377</bioguideId>
-          <gpoId>8168</gpoId>
         </identifiers>
         <district>12</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>L000585</bioguideId>
         <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
         <firstName>Darin</firstName>
-        <middleName/>
         <lastName>LaHood</lastName>
         <party>R</party>
         <state>IL</state>
         <identifiers>
-          <lisID>2295</lisID>
           <bioguideId>L000585</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>18</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>R000609</bioguideId>
         <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
         <firstName>John</firstName>
-        <middleName>H.</middleName>
         <lastName>Rutherford</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2316</lisID>
           <bioguideId>R000609</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>H.</middleName>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000568</bioguideId>
         <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
         <firstName>H.</firstName>
-        <middleName>Morgan</middleName>
         <lastName>Griffith</lastName>
         <party>R</party>
         <state>VA</state>
         <identifiers>
-          <lisID>2070</lisID>
           <bioguideId>G000568</bioguideId>
-          <gpoId>8200</gpoId>
         </identifiers>
+        <middleName>Morgan</middleName>
         <district>9</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>L000566</bioguideId>
         <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
         <firstName>Robert</firstName>
-        <middleName>E.</middleName>
         <lastName>Latta</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>1885</lisID>
           <bioguideId>L000566</bioguideId>
-          <gpoId>8095</gpoId>
         </identifiers>
+        <middleName>E.</middleName>
         <district>5</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001067</bioguideId>
         <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
         <firstName>Richard</firstName>
-        <middleName/>
         <lastName>Hudson</lastName>
         <party>R</party>
         <state>NC</state>
         <identifiers>
-          <lisID>2140</lisID>
           <bioguideId>H001067</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>N000190</bioguideId>
         <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
         <firstName>Ralph</firstName>
-        <middleName/>
         <lastName>Norman</lastName>
         <party>R</party>
         <state>SC</state>
         <identifiers>
-          <lisID>2361</lisID>
           <bioguideId>N000190</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>5</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>W000816</bioguideId>
         <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
         <firstName>Roger</firstName>
-        <middleName/>
         <lastName>Williams</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2165</lisID>
           <bioguideId>W000816</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>25</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001053</bioguideId>
         <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
         <firstName>Tom</firstName>
-        <middleName/>
         <lastName>Cole</lastName>
         <party>R</party>
         <state>OK</state>
         <identifiers>
-          <lisID>1742</lisID>
           <bioguideId>C001053</bioguideId>
-          <gpoId>8112</gpoId>
         </identifiers>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>Y000033</bioguideId>
         <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
         <firstName>DON</firstName>
-        <middleName>E.</middleName>
         <lastName>YOUNG</lastName>
         <party>R</party>
         <state>AK</state>
         <identifiers>
-          <lisID>1256</lisID>
           <bioguideId>Y000033</bioguideId>
-          <gpoId>7785</gpoId>
         </identifiers>
+        <middleName>E.</middleName>
         <district>0</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001088</bioguideId>
         <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
         <firstName>Jim</firstName>
-        <middleName/>
         <lastName>Hagedorn</lastName>
         <party>R</party>
         <state>MN</state>
         <identifiers>
-          <lisID>2411</lisID>
           <bioguideId>H001088</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>J000299</bioguideId>
         <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
         <firstName>Mike</firstName>
-        <middleName/>
         <lastName>Johnson</lastName>
         <party>R</party>
         <state>LA</state>
         <identifiers>
-          <lisID>2330</lisID>
           <bioguideId>J000299</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000563</bioguideId>
         <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
         <firstName>Bob</firstName>
-        <middleName/>
         <lastName>Gibbs</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>2049</lisID>
           <bioguideId>G000563</bioguideId>
-          <gpoId>8108</gpoId>
         </identifiers>
         <district>7</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001195</bioguideId>
         <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
         <firstName>Alexander</firstName>
-        <middleName>X.</middleName>
         <lastName>Mooney</lastName>
         <party>R</party>
         <state>WV</state>
         <identifiers>
-          <lisID>2277</lisID>
           <bioguideId>M001195</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>X.</middleName>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>F000446</bioguideId>
         <fullName>Rep. Feenstra, Randy [R-IA-4]</fullName>
         <firstName>Randy</firstName>
-        <middleName/>
         <lastName>Feenstra</lastName>
         <party>R</party>
         <state>IA</state>
         <identifiers>
-          <lisID>2503</lisID>
           <bioguideId>F000446</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>L000266</bioguideId>
         <fullName>Rep. LaTurner, Jake [R-KS-2]</fullName>
         <firstName>Jake</firstName>
-        <middleName/>
         <lastName>LaTurner</lastName>
         <party>R</party>
         <state>KS</state>
         <identifiers>
-          <lisID>2509</lisID>
           <bioguideId>L000266</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001210</bioguideId>
         <fullName>Rep. Murphy, Gregory [R-NC-3]</fullName>
         <firstName>Gregory</firstName>
-        <middleName/>
         <lastName>Murphy</lastName>
         <party>R</party>
         <state>NC</state>
         <identifiers>
-          <lisID>2472</lisID>
           <bioguideId>M001210</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>K000376</bioguideId>
         <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
         <firstName>Mike</firstName>
-        <middleName/>
         <lastName>Kelly</lastName>
         <party>R</party>
         <state>PA</state>
         <identifiers>
-          <lisID>2051</lisID>
           <bioguideId>K000376</bioguideId>
-          <gpoId>8708</gpoId>
         </identifiers>
         <district>16</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>R000597</bioguideId>
         <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
         <firstName>Tom</firstName>
-        <middleName/>
         <lastName>Rice</lastName>
         <party>R</party>
         <state>SC</state>
         <identifiers>
-          <lisID>2160</lisID>
           <bioguideId>R000597</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>7</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>K000392</bioguideId>
         <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
         <firstName>David</firstName>
-        <middleName/>
         <lastName>Kustoff</lastName>
         <party>R</party>
         <state>TN</state>
         <identifiers>
-          <lisID>2348</lisID>
           <bioguideId>K000392</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000565</bioguideId>
         <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
         <firstName>Paul</firstName>
-        <middleName>A.</middleName>
         <lastName>Gosar</lastName>
         <party>R</party>
         <state>AZ</state>
         <identifiers>
-          <lisID>1992</lisID>
           <bioguideId>G000565</bioguideId>
-          <gpoId>7798</gpoId>
         </identifiers>
+        <middleName>A.</middleName>
         <district>4</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001091</bioguideId>
         <fullName>Rep. Hinson, Ashley [R-IA-1]</fullName>
         <firstName>Ashley</firstName>
-        <middleName/>
         <lastName>Hinson</lastName>
         <party>R</party>
         <state>IA</state>
         <identifiers>
-          <lisID>2501</lisID>
           <bioguideId>H001091</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001104</bioguideId>
         <fullName>Rep. Cawthorn, Madison [R-NC-11]</fullName>
         <firstName>Madison</firstName>
-        <middleName/>
         <lastName>Cawthorn</lastName>
         <party>R</party>
         <state>NC</state>
         <identifiers>
-          <lisID>2518</lisID>
           <bioguideId>C001104</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>11</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>P000599</bioguideId>
         <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
         <firstName>Bill</firstName>
-        <middleName/>
         <lastName>Posey</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>1915</lisID>
           <bioguideId>P000599</bioguideId>
-          <gpoId>7887</gpoId>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001058</bioguideId>
         <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
         <firstName>Bill</firstName>
-        <middleName/>
         <lastName>Huizenga</lastName>
         <party>R</party>
         <state>MI</state>
         <identifiers>
-          <lisID>2028</lisID>
           <bioguideId>H001058</bioguideId>
-          <gpoId>7987</gpoId>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001306</bioguideId>
         <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
         <firstName>Troy</firstName>
-        <middleName/>
         <lastName>Balderson</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>2370</lisID>
           <bioguideId>B001306</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>12</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001257</bioguideId>
         <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
         <firstName>Gus</firstName>
-        <middleName>M.</middleName>
         <lastName>Bilirakis</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>1838</lisID>
           <bioguideId>B001257</bioguideId>
-          <gpoId>7881</gpoId>
         </identifiers>
+        <middleName>M.</middleName>
         <district>12</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001212</bioguideId>
         <fullName>Rep. Moore, Barry [R-AL-2]</fullName>
         <firstName>Barry</firstName>
-        <middleName/>
         <lastName>Moore</lastName>
         <party>R</party>
         <state>AL</state>
         <identifiers>
-          <lisID>2485</lisID>
           <bioguideId>M001212</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>R000585</bioguideId>
         <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
         <firstName>Tom</firstName>
-        <middleName/>
         <lastName>Reed</lastName>
         <party>R</party>
         <state>NY</state>
         <identifiers>
-          <lisID>1982</lisID>
           <bioguideId>R000585</bioguideId>
-          <gpoId>8090</gpoId>
         </identifiers>
         <district>23</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>F000465</bioguideId>
         <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
         <firstName>A.</firstName>
-        <middleName>Drew</middleName>
         <lastName>Ferguson</lastName>
         <party>R</party>
         <state>GA</state>
         <identifiers>
-          <lisID>2324</lisID>
           <bioguideId>F000465</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>Drew</middleName>
         <district>3</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>F000470</bioguideId>
         <fullName>Rep. Fischbach, Michelle [R-MN-7]</fullName>
         <firstName>Michelle</firstName>
-        <middleName/>
         <lastName>Fischbach</lastName>
         <party>R</party>
         <state>MN</state>
         <identifiers>
-          <lisID>2513</lisID>
           <bioguideId>F000470</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>7</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>D000600</bioguideId>
         <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
         <firstName>Mario</firstName>
-        <middleName/>
         <lastName>Diaz-Balart</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>1717</lisID>
           <bioguideId>D000600</bioguideId>
-          <gpoId>7893</gpoId>
         </identifiers>
         <district>25</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>E000294</bioguideId>
         <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
         <firstName>Tom</firstName>
-        <middleName/>
         <lastName>Emmer</lastName>
         <party>R</party>
         <state>MN</state>
         <identifiers>
-          <lisID>2253</lisID>
           <bioguideId>E000294</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>W000814</bioguideId>
         <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
         <firstName>Randy</firstName>
-        <middleName>K.</middleName>
         <lastName>Weber</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2161</lisID>
           <bioguideId>W000814</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>K.</middleName>
         <district>14</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001199</bioguideId>
         <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
         <firstName>Lloyd</firstName>
-        <middleName/>
         <lastName>Smucker</lastName>
         <party>R</party>
         <state>PA</state>
         <identifiers>
-          <lisID>2346</lisID>
           <bioguideId>S001199</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>11</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000577</bioguideId>
         <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
         <firstName>Garret</firstName>
-        <middleName/>
         <lastName>Graves</lastName>
         <party>R</party>
         <state>LA</state>
         <identifiers>
-          <lisID>2245</lisID>
           <bioguideId>G000577</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001214</bioguideId>
         <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
         <firstName>W.</firstName>
-        <middleName>Gregory</middleName>
         <lastName>Steube</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>2389</lisID>
           <bioguideId>S001214</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>Gregory</middleName>
         <district>17</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>J000020</bioguideId>
         <fullName>Rep. Jacobs, Chris [R-NY-27]</fullName>
         <firstName>Chris</firstName>
-        <middleName/>
         <lastName>Jacobs</lastName>
         <party>R</party>
         <state>NY</state>
         <identifiers>
-          <lisID>2481</lisID>
           <bioguideId>J000020</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>27</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001260</bioguideId>
         <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
         <firstName>Vern</firstName>
-        <middleName/>
         <lastName>Buchanan</lastName>
         <party>R</party>
         <state>FL</state>
         <identifiers>
-          <lisID>1840</lisID>
           <bioguideId>B001260</bioguideId>
-          <gpoId>7885</gpoId>
         </identifiers>
         <district>16</district>
         <sponsorshipDate>2022-02-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000591</bioguideId>
         <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
         <firstName>Michael</firstName>
-        <middleName/>
         <lastName>Guest</lastName>
         <party>R</party>
         <state>MS</state>
         <identifiers>
-          <lisID>2416</lisID>
           <bioguideId>G000591</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-02-11</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>N000189</bioguideId>
         <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
         <firstName>Dan</firstName>
-        <middleName/>
         <lastName>Newhouse</lastName>
         <party>R</party>
         <state>WA</state>
         <identifiers>
-          <lisID>2275</lisID>
           <bioguideId>N000189</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>4</district>
         <sponsorshipDate>2022-02-11</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>F000450</bioguideId>
         <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
         <firstName>Virginia</firstName>
-        <middleName/>
         <lastName>Foxx</lastName>
         <party>R</party>
         <state>NC</state>
         <identifiers>
-          <lisID>1791</lisID>
           <bioguideId>F000450</bioguideId>
-          <gpoId>8028</gpoId>
         </identifiers>
         <district>5</district>
         <sponsorshipDate>2022-02-11</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>P000605</bioguideId>
         <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
         <firstName>Scott</firstName>
-        <middleName/>
         <lastName>Perry</lastName>
         <party>R</party>
         <state>PA</state>
         <identifiers>
-          <lisID>2157</lisID>
           <bioguideId>P000605</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>10</district>
         <sponsorshipDate>2022-02-11</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001126</bioguideId>
         <fullName>Rep. Carey, Mike [R-OH-15]</fullName>
         <firstName>Mike</firstName>
-        <middleName/>
         <lastName>Carey</lastName>
         <party>R</party>
         <state>OH</state>
         <identifiers>
-          <lisID>2553</lisID>
           <bioguideId>C001126</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>15</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>P000048</bioguideId>
         <fullName>Rep. Pfluger, August [R-TX-11]</fullName>
         <firstName>August</firstName>
-        <middleName/>
         <lastName>Pfluger</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2531</lisID>
           <bioguideId>P000048</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>11</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>G000546</bioguideId>
         <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
         <firstName>SAM</firstName>
-        <middleName/>
         <lastName>GRAVES</lastName>
         <party>R</party>
         <state>MO</state>
         <identifiers>
-          <lisID>1656</lisID>
           <bioguideId>G000546</bioguideId>
-          <gpoId>8014</gpoId>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>S001176</bioguideId>
         <fullName>Rep. Scalise, Steve [R-LA-1]</fullName>
         <firstName>Steve</firstName>
-        <middleName/>
         <lastName>Scalise</lastName>
         <party>R</party>
         <state>LA</state>
         <identifiers>
-          <lisID>1892</lisID>
           <bioguideId>S001176</bioguideId>
-          <gpoId>7959</gpoId>
         </identifiers>
         <district>1</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001114</bioguideId>
         <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
         <firstName>John</firstName>
-        <middleName>R.</middleName>
         <lastName>Curtis</lastName>
         <party>R</party>
         <state>UT</state>
         <identifiers>
-          <lisID>2363</lisID>
           <bioguideId>C001114</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>R.</middleName>
         <district>3</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001291</bioguideId>
         <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
         <firstName>Brian</firstName>
-        <middleName/>
         <lastName>Babin</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2270</lisID>
           <bioguideId>B001291</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>36</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>W000798</bioguideId>
         <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
         <firstName>Tim</firstName>
-        <middleName/>
         <lastName>Walberg</lastName>
         <party>R</party>
         <state>MI</state>
         <identifiers>
-          <lisID>1855</lisID>
           <bioguideId>W000798</bioguideId>
-          <gpoId>7992</gpoId>
         </identifiers>
         <district>7</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>H001053</bioguideId>
         <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
         <firstName>Vicky</firstName>
-        <middleName/>
         <lastName>Hartzler</lastName>
         <party>R</party>
         <state>MO</state>
         <identifiers>
-          <lisID>2032</lisID>
           <bioguideId>H001053</bioguideId>
-          <gpoId>8012</gpoId>
         </identifiers>
         <district>4</district>
         <sponsorshipDate>2022-02-15</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>K000386</bioguideId>
         <fullName>Rep. Katko, John [R-NY-24]</fullName>
         <firstName>John</firstName>
-        <middleName/>
         <lastName>Katko</lastName>
         <party>R</party>
         <state>NY</state>
         <identifiers>
-          <lisID>2264</lisID>
           <bioguideId>K000386</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>24</district>
         <sponsorshipDate>2022-02-18</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>C001118</bioguideId>
         <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
         <firstName>Ben</firstName>
-        <middleName/>
         <lastName>Cline</lastName>
         <party>R</party>
         <state>VA</state>
         <identifiers>
-          <lisID>2455</lisID>
           <bioguideId>C001118</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>6</district>
         <sponsorshipDate>2022-02-18</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>F000471</bioguideId>
         <fullName>Rep. Fitzgerald, Scott [R-WI-5]</fullName>
         <firstName>Scott</firstName>
-        <middleName/>
         <lastName>Fitzgerald</lastName>
         <party>R</party>
         <state>WI</state>
         <identifiers>
-          <lisID>2540</lisID>
           <bioguideId>F000471</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>5</district>
         <sponsorshipDate>2022-02-25</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>O000086</bioguideId>
         <fullName>Rep. Owens, Burgess [R-UT-4]</fullName>
         <firstName>Burgess</firstName>
-        <middleName/>
         <lastName>Owens</lastName>
         <party>R</party>
         <state>UT</state>
         <identifiers>
-          <lisID>2537</lisID>
           <bioguideId>O000086</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>4</district>
         <sponsorshipDate>2022-03-02</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>B001299</bioguideId>
         <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
         <firstName>Jim</firstName>
-        <middleName/>
         <lastName>Banks</lastName>
         <party>R</party>
         <state>IN</state>
         <identifiers>
-          <lisID>2326</lisID>
           <bioguideId>B001299</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-03-02</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>V000129</bioguideId>
         <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
         <firstName>David</firstName>
-        <middleName>G.</middleName>
         <lastName>Valadao</lastName>
         <party>R</party>
         <state>CA</state>
         <identifiers>
-          <lisID>2105</lisID>
           <bioguideId>V000129</bioguideId>
-          <gpoId/>
         </identifiers>
+        <middleName>G.</middleName>
         <district>21</district>
         <sponsorshipDate>2022-04-06</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>M001190</bioguideId>
         <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
         <firstName>Markwayne</firstName>
-        <middleName/>
         <lastName>Mullin</lastName>
         <party>R</party>
         <state>OK</state>
         <identifiers>
-          <lisID>2156</lisID>
           <bioguideId>M001190</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>2</district>
         <sponsorshipDate>2022-04-18</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>T000479</bioguideId>
         <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
         <firstName>Van</firstName>
-        <middleName/>
         <lastName>Taylor</lastName>
         <party>R</party>
         <state>TX</state>
         <identifiers>
-          <lisID>2444</lisID>
           <bioguideId>T000479</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>3</district>
         <sponsorshipDate>2022-05-13</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
       </item>
       <item>
         <bioguideId>L000589</bioguideId>
         <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
         <firstName>Debbie</firstName>
-        <middleName/>
         <lastName>Lesko</lastName>
         <party>R</party>
         <state>AZ</state>
         <identifiers>
-          <lisID>2368</lisID>
           <bioguideId>L000589</bioguideId>
-          <gpoId/>
         </identifiers>
         <district>8</district>
         <sponsorshipDate>2022-06-14</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
-        <sponsorshipWithdrawnDate/>
+      </item>
+      <item>
+        <bioguideId>F000475</bioguideId>
+        <fullName>Rep. Finstad, Brad [R-MN-1]</fullName>
+        <firstName>Brad</firstName>
+        <lastName>Finstad</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>F000475</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
     </cosponsors>
-    <cboCostEstimates/>
-    <laws/>
-    <notes/>
     <policyArea>
       <name>Taxation</name>
     </policyArea>
@@ -2105,35 +1706,36 @@
         <name>Taxation</name>
       </policyArea>
     </subjects>
-    <summaries/>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-02-09</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-09-12T17:29:31Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Protecting Family and Small Business Tax Cuts Act of 2022</b></p> <p>This bill makes permanent provisions affecting individual and business taxpayers that were enacted in 2017 by the Tax Cuts and Jobs Act and are scheduled to expire at the end of 2025. </p> <p>The bill makes permanent provisions that reduce individual and capital gain tax rates.</p> <p>The bill increases the standard tax deduction for individual taxpayers. It also increases and modifies the child tax credit and raises the contribution base for the tax deduction of charitable contributions. </p> <p>The bill allows additional contributions to ABLE accounts (tax-exempt accounts designed to enable individuals with disabilities to save and pay for disability-related expenses). It exempts from taxation combat zone benefits of members of the Armed Forces serving in the Sinai Peninsula of Egypt and the moving expenses of servicemembers. </p> <p>Additionally, the bill</p> <ul> <li>lowers to $750,000 the amount of mortgage debt eligible for an interest expense tax deduction; </li> <li> excludes from the gross income of student borrowers income attributable to the discharge after 2025 of loan debt due to death or disability;</li> <li>makes permanent the limitation on the tax deduction for state and local taxes and denies a deduction for foreign real property taxes; </li> <li> makes permanent the tax deduction of the income of certain pass-through business entities;</li> <li>repeals the tax deduction for personal tax exemptions and the exclusion of employer-provided bicycle commuter fringe benefits;</li> <li>terminates certain miscellaneous itemized tax deductions;</li> <li>doubles the estate and gift tax exemption amount; and </li> <li>makes permanent the increase of the alternative minimum tax exemption amount for individual taxpayers. </li></ul>]]>
+        </text>
+      </summary>
+    </summaries>
     <title>Protecting Family and Small Business Tax Cuts Act of 2022</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <title>Protecting Family and Small Business Tax Cuts Act of 2022</title>
-        <chamberCode/>
-        <chamberName/>
-        <billTextVersionName/>
-        <billTextVersionCode/>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <title>Protecting Family and Small Business Tax Cuts Act of 2022</title>
-        <chamberCode/>
-        <chamberName/>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
         <title>To amend the Internal Revenue Code of 1986 to make permanent certain provisions of the Tax Cuts and Jobs Act affecting individuals, families, and small businesses.</title>
-        <chamberCode/>
-        <chamberName/>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
-    <amendments/>
     <textVersions>
       <item>
         <type>Introduced in House</type>
@@ -2144,11 +1746,15 @@
           </item>
         </formats>
       </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
     </textVersions>
     <latestAction>
       <actionDate>2022-02-09</actionDate>
       <text>Referred to the House Committee on Ways and Means.</text>
-      <links/>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

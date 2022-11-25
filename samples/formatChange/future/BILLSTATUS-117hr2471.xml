@@ -1,0 +1,4665 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2471</number>
+    <updateDate>2022-11-17T19:00:19Z</updateDate>
+    <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-04-13</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 63 (Tuesday, April 13, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. JEFFRIES:H.R. 2471.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18, to make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by theConstitution in the Government of the United States, or inany Departent or Officer thereof.[Page H1737]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-01-14T02:54:43Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-12T20:10:26Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Markup by</name>
+            <date>2021-04-21T17:23:40Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-04-13T23:01:40Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+        <congress>117</congress>
+        <number>1104</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-28</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 2471.</title>
+        <congress>117</congress>
+        <number>79</number>
+        <type>HCONRES</type>
+        <latestAction>
+          <actionDate>2022-03-11</actionDate>
+          <text>Message on Senate action sent to the House.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 2662) to amend the Inspector General Act of 1978, and for other purposes; providing for consideration of the bill (H.R. 3005) to direct the Joint Committee on the Library to replace the bust of Roger Brooke Taney in the Old Supreme Court Chamber of the United States Capitol with a bust of Thurgood Marshall to be obtained by the Joint Committee on the Library and to remove certain statues from areas of the United States Capitol which are accessible to the public, to remove all statues of individuals who voluntarily served the Confederate States of America from display in the United States Capitol, and for other purposes; providing for consideration of the bill (H.R. 3684) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes; providing for consideration of the resolution (H. Res. 503) Establishing the Select Committee to Investigate the January 6th Attack on the United States Capitol; and for other purposes.</title>
+        <congress>117</congress>
+        <number>504</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2021-06-29</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:12:49</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>United States Anti-Doping Agency Reauthorization Act of 2021</title>
+        <congress>117</congress>
+        <number>172</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-04-15</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Fraud and Scam Reduction Act</title>
+        <congress>117</congress>
+        <number>1215</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-05-24</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2021</title>
+        <congress>117</congress>
+        <number>1460</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-04-19</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Protecting Indian Tribes from Scams Act</title>
+        <congress>117</congress>
+        <number>1762</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-04-19</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>NICS Denial Notification Act of 2021</title>
+        <congress>117</congress>
+        <number>1769</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-05-18</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>War Powers Act Enforcement Act</title>
+        <congress>117</congress>
+        <number>2108</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-03-19</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>VET TEC Enhancement Act of 2021</title>
+        <congress>117</congress>
+        <number>2335</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-04-28</actionDate>
+          <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Israel Relations Normalization Act of 2021</title>
+        <congress>117</congress>
+        <number>2748</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-09-30</actionDate>
+          <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>EB–5 Reform and Integrity Act of 2021</title>
+        <congress>117</congress>
+        <number>2901</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-10-19</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Trafficking Survivors Housing Act of 2021</title>
+        <congress>117</congress>
+        <number>3891</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-06-15</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Labor, Health and Human Services, Education, Agriculture, Rural Development, Energy and Water Development, Financial Services and General Government, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4502</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-08-03</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Adjustable Interest Rate (LIBOR) Act</title>
+        <congress>117</congress>
+        <number>3779</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-03-08</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Financial Services and General Government Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4345</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-01</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 54.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Supreme Court Security Funding Act of 2022</title>
+        <congress>117</congress>
+        <number>4346</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-08-09</actionDate>
+          <text>Became Public Law No: 117-167.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4355</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-02</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 56.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4356</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-02</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 57.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4372</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-06</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 58.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4373</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-04-05</actionDate>
+          <text>Motion by Senator Schumer to reconsider to reconsider the vote by which cloture was not invoked on the motion to proceed (Record Vote No. 129) entered in Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of Homeland Security Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4431</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-15</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 62.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of Defense Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4432</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-15</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 63.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4505</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-28</actionDate>
+          <text>Rule H. Res. 567 passed House.</text>
+          <actionTime>12:54:18</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Energy and Water Development and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4549</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-20</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 71.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>4550</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-20</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 72.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>2599</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-08-04</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>2604</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-08-04</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Energy and Water Development and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>2605</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-08-04</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2022, and for other purposes.</title>
+        <congress>117</congress>
+        <number>3023</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-20</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3034</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-20</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3042</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-21</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations. (Sponsor introductory remarks on measure: CR S7156-7158)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3045</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-21</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of Homeland Security Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3058</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-25</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3062</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-25</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3075</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-10-26</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Financial Services and General Government Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3179</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-11-04</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations. (Sponsor introductory remarks on measure: CR S7794-7796)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Ukraine Supplemental Appropriations Act, 2022</title>
+        <congress>117</congress>
+        <number>3811</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>VA Nurse and Physician Assistant RAISE Act</title>
+        <congress>117</congress>
+        <number>3820</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Drug-Free Communities Pandemic Relief Act</title>
+        <congress>117</congress>
+        <number>26</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-01-22</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Israel Relations Normalization Act of 2021</title>
+        <congress>117</congress>
+        <number>1061</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-06-24</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-03-15</actionDate>
+        <text>Became Public Law No: 117-103.</text>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-15</actionDate>
+        <text>Became Public Law No: 117-103.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-15</actionDate>
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-15</actionDate>
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-14</actionDate>
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-14</actionDate>
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-11</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate agreed to the House amendment to the Senate Amendment to H.R. 2471, under the order of 3/10/2022, having achieved 60 votes in the affirmative by Yea-Nay Vote. 68 - 31. Record Vote Number: 78.</text>
+        <type>ResolvingDifferences</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <text>Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate Amendment to H.R. 2471, under the order of 3/10/2022, having achieved 60 votes in the affirmative by Yea-Nay Vote. 68 - 31. Record Vote Number: 78.</text>
+        <type>NotUsed</type>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>78</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00078.xml</url>
+            <chamber>Senate</chamber>
+            <congress>117</congress>
+            <date>2022-03-11T04:02:38Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2471 with an amendment (SA 4984) withdrawn in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2471 with instructions to report back forthwith with the following amendment (SA 4986) withdrawn in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2471 with instructions to report back forthwith with the following amendment (SA 4986) made in Senate. (CR S1089)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2471 with an amendment (SA 4984) made in Senate. (CR S1089)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2471 made in Senate. (CR S1089)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S1088-1089, S1110-1111)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendment to Senate amendment.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:50:51</actionTime>
+        <text>On motion that the House agree with an amendment to the Senate amendment Agreed to by voice vote.</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <text>Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by voice vote.</text>
+        <type>NotUsed</type>
+        <actionCode>19500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:50:49</actionTime>
+        <text>Table motion to reconsider second divided question Agreed to by the Yeas and Nays: 249 - 180 (Roll no. 68). (text: CR H1405-1407)</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41931</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>68</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll068.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-10T03:50:49Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:33:07</actionTime>
+        <text>Mr. Gomez moved to table the motion to reconsider the vote</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H82000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:33:05</actionTime>
+        <text>Aguilar moved to reconsider the vote.</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41930</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:32:59</actionTime>
+        <text>Table motion to reconsider first divided question Agreed to by the Yeas and Nays: 270 - 157 (Roll no. 67).</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41541</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>67</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll067.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-10T03:32:59Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:11:49</actionTime>
+        <text>Mr. Beyer moved to table the motion to reconsider first divided question</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H82000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:11:07</actionTime>
+        <text>Mr. Pallone moved to reconsider first divided question.</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41540</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:10:25</actionTime>
+        <text>Motion to reconsider the laid on the table. Objection heard.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>22:10:15</actionTime>
+        <text>On motion to agree in Senate amendment with amendment (remaining divisions) Agreed to by the Yeas and Nays: 260 - 171, 1 Present (Roll no. 66).</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>66</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll066.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-10T03:10:15Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <text>Resolving differences -- House actions: On motion to agree in Senate amendment with amendment (remaining divisions) Agreed to by the Yeas and Nays: 260 - 171, 1 Present (Roll no. 66).</text>
+        <type>NotUsed</type>
+        <actionCode>19500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>66</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll066.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-10T03:10:15Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>21:49:30</actionTime>
+        <text>Ms. DeLauro moved that the House concur in Senate amendment with amendment (remaining divisions). (consideration: CR H1415-1418)</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H40150</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>21:49:07</actionTime>
+        <text>On motion to agree in Senate amendment with amendment (divisions B, C, F, X, Z, titles 2 and 3 of division N) Agreed to by the Yeas and Nays: 361 - 69 (Roll no. 65).</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H41610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>65</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll065.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-10T02:49:07Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <text>Resolving differences -- House actions: On motion to agree in Senate amendment with amendment (divisions B, C, F, X, Z, titles 2 and 3 of division N) Agreed to by the Yeas and Nays: 361 - 69 (Roll no. 65).</text>
+        <type>NotUsed</type>
+        <actionCode>19500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>65</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll065.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-10T02:49:07Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:58:39</actionTime>
+        <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the first portion of the divided question.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:58:30</actionTime>
+        <text>Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 2471.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:54:22</actionTime>
+        <text>POSTPONED PROCEEDINGS - The Chair put the question on concurring in the Senate amendment with amendment (divisions B, C, F, X, Z, titles 2 and 3 of division N), and by voice vote, annouced that the ayes prevailed. Ms. Granger demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced. Pursuant to clause 1(c) of Rule XIX, further proceedings were postponed.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:54:20</actionTime>
+        <text>Ms. DeLauro moved that the House concur in Senate amendment with amendment (divisions B, C, F, X, Z, titles 2 and 3 of division N). (consideration: CR H1407-1413)</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H40150</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:53:22</actionTime>
+        <text>Pursuant to the provisions of H. Res. 973, the previous question was ordered on the motion to agree to the Senate amendment with an amendment to H.R. 2471.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:16:37</actionTime>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 973, the House proceeded with one hour of debate on the motion to agree in the Senate amendment with an amendment to H.R. 2471.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-09</actionDate>
+        <actionTime>20:16:16</actionTime>
+        <text>Ms. DeLauro moved that the House agree with an amendment to the Senate amendment.</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H40150</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-01-18</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-01-13</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-01-13</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-01-13</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S226)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2022-01-13</actionDate>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-06-29</actionDate>
+        <actionTime>14:14:36</actionTime>
+        <text>Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended. (consideration: CR H3258-3262; text: CR H3258-3260)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-29</actionDate>
+        <actionTime>14:14:36</actionTime>
+        <text>Passed/agreed to in House: Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended.(consideration: CR H3258-3262; text: CR H3258-3260)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-29</actionDate>
+        <actionTime>14:14:35</actionTime>
+        <text>Pursuant to the provisions of H. Res. 504, proceedings on H.R. 2471 are considered vacated.</text>
+        <type>Floor</type>
+        <actionCode>H1B000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-28</actionDate>
+        <actionTime>16:23:52</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <actionCode>H37220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-28</actionDate>
+        <actionTime>16:13:17</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2471.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-28</actionDate>
+        <actionTime>16:12:48</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H3179-3183; text: CR H3180-3181)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-28</actionDate>
+        <actionTime>16:12:31</actionTime>
+        <text>Mr. Meeks moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-13</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-04-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>J000294</bioguideId>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <firstName>Hakeem</firstName>
+        <lastName>Jeffries</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000823</bioguideId>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Waltz</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-04-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001199</bioguideId>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Mast</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>18</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000593</bioguideId>
+        <fullName>Rep. Gimenez, Carlos A. [R-FL-26]</fullName>
+        <firstName>Carlos</firstName>
+        <lastName>Gimenez</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>G000593</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-06-08T15:00:00Z</pubDate>
+        <title>H.R. 2471, Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+        <url>https://www.cbo.gov/publication/57269</url>
+      </item>
+      <item>
+        <pubDate>2022-03-14T19:24:00Z</pubDate>
+        <title>H.R. 2471, the Consolidated Appropriations Act, 2022</title>
+        <url>https://www.cbo.gov/publication/57928</url>
+      </item>
+    </cboCostEstimates>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>117-103</number>
+      </item>
+    </laws>
+    <notes>
+      <item>
+        <text>
+          <![CDATA[<a href="https://rules.house.gov/sites/democrats.rules.house.gov/files/BILLS-117HR2471SA-RCP-117-35.pdf" target="_blank">The House Rules Committee Print</a>, <a href="https://docs.house.gov/floor/Default.aspx?date=2022-03-07" target="_blank">joint explanatory statements</a>, and <a href="https://www.congress.gov/congressional-report/117th-congress/house-report/269/1" target="_blank">H.Rept. 117-269</a> from the House Rules Committee are available.]]>
+        </text>
+      </item>
+    </notes>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Abortion</name>
+        </item>
+        <item>
+          <name>Access Board</name>
+        </item>
+        <item>
+          <name>Accounting and auditing</name>
+        </item>
+        <item>
+          <name>Administrative Conference of the U.S.</name>
+        </item>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Adoption and foster care</name>
+        </item>
+        <item>
+          <name>Advanced technology and technological innovations</name>
+        </item>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Afghanistan</name>
+        </item>
+        <item>
+          <name>Africa</name>
+        </item>
+        <item>
+          <name>African Development Foundation</name>
+        </item>
+        <item>
+          <name>Aging</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Alaska Natives and Hawaiians</name>
+        </item>
+        <item>
+          <name>Allergies</name>
+        </item>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Alternative and renewable resources</name>
+        </item>
+        <item>
+          <name>Alternative dispute resolution, mediation, arbitration</name>
+        </item>
+        <item>
+          <name>American Battle Monuments Commission</name>
+        </item>
+        <item>
+          <name>Animal and plant health</name>
+        </item>
+        <item>
+          <name>Animal protection and human-animal relationships</name>
+        </item>
+        <item>
+          <name>Appalachian Regional Commission</name>
+        </item>
+        <item>
+          <name>Appropriations</name>
+        </item>
+        <item>
+          <name>Arab-Israeli relations</name>
+        </item>
+        <item>
+          <name>Architect of the Capitol</name>
+        </item>
+        <item>
+          <name>Armed Forces Retirement Home</name>
+        </item>
+        <item>
+          <name>Arms control and nonproliferation</name>
+        </item>
+        <item>
+          <name>Army Corps of Engineers</name>
+        </item>
+        <item>
+          <name>Art, artists, authorship</name>
+        </item>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Assault and harassment offenses</name>
+        </item>
+        <item>
+          <name>Athletes</name>
+        </item>
+        <item>
+          <name>Atmospheric science and weather</name>
+        </item>
+        <item>
+          <name>Aviation and airports</name>
+        </item>
+        <item>
+          <name>Bangladesh</name>
+        </item>
+        <item>
+          <name>Belize</name>
+        </item>
+        <item>
+          <name>Birds</name>
+        </item>
+        <item>
+          <name>Birth defects</name>
+        </item>
+        <item>
+          <name>Books and print media</name>
+        </item>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>Building construction</name>
+        </item>
+        <item>
+          <name>Burma</name>
+        </item>
+        <item>
+          <name>Buy American requirements</name>
+        </item>
+        <item>
+          <name>California</name>
+        </item>
+        <item>
+          <name>Cambodia</name>
+        </item>
+        <item>
+          <name>Cancer</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Caribbean area</name>
+        </item>
+        <item>
+          <name>Cemeteries and funerals</name>
+        </item>
+        <item>
+          <name>Census and government statistics</name>
+        </item>
+        <item>
+          <name>Centers for Disease Control and Prevention (CDC)</name>
+        </item>
+        <item>
+          <name>Central African Republic</name>
+        </item>
+        <item>
+          <name>Chemical and biological weapons</name>
+        </item>
+        <item>
+          <name>Child care and development</name>
+        </item>
+        <item>
+          <name>Child health</name>
+        </item>
+        <item>
+          <name>Child safety and welfare</name>
+        </item>
+        <item>
+          <name>China</name>
+        </item>
+        <item>
+          <name>Civil disturbances</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Coal</name>
+        </item>
+        <item>
+          <name>Coast guard</name>
+        </item>
+        <item>
+          <name>Collective security</name>
+        </item>
+        <item>
+          <name>Colombia</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Commission of Fine Arts</name>
+        </item>
+        <item>
+          <name>Committee for Purchase from People Who Are Blind or Severely Disabled</name>
+        </item>
+        <item>
+          <name>Competitiveness, trade promotion, trade deficits</name>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+        </item>
+        <item>
+          <name>Computers and information technology</name>
+        </item>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional Budget Office (CBO)</name>
+        </item>
+        <item>
+          <name>Congressional Research Service (CRS)</name>
+        </item>
+        <item>
+          <name>Congressional agencies</name>
+        </item>
+        <item>
+          <name>Congressional committees</name>
+        </item>
+        <item>
+          <name>Congressional leadership</name>
+        </item>
+        <item>
+          <name>Congressional officers and employees</name>
+        </item>
+        <item>
+          <name>Congressional operations and organization</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Consumer Product Safety Commission</name>
+        </item>
+        <item>
+          <name>Consumer affairs</name>
+        </item>
+        <item>
+          <name>Corporation for National and Community Service</name>
+        </item>
+        <item>
+          <name>Corporation for Public Broadcasting</name>
+        </item>
+        <item>
+          <name>Costa Rica</name>
+        </item>
+        <item>
+          <name>Crime victims</name>
+        </item>
+        <item>
+          <name>Crimes against property</name>
+        </item>
+        <item>
+          <name>Crimes against women</name>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Criminal procedure and sentencing</name>
+        </item>
+        <item>
+          <name>Customs enforcement</name>
+        </item>
+        <item>
+          <name>Dams and canals</name>
+        </item>
+        <item>
+          <name>Defense Nuclear Facilities Safety Board</name>
+        </item>
+        <item>
+          <name>Defense spending</name>
+        </item>
+        <item>
+          <name>Delta Regional Authority</name>
+        </item>
+        <item>
+          <name>Democratic Republic of the Congo</name>
+        </item>
+        <item>
+          <name>Denali Commission</name>
+        </item>
+        <item>
+          <name>Dental care</name>
+        </item>
+        <item>
+          <name>Department of Agriculture</name>
+        </item>
+        <item>
+          <name>Department of Commerce</name>
+        </item>
+        <item>
+          <name>Department of Defense</name>
+        </item>
+        <item>
+          <name>Department of Education</name>
+        </item>
+        <item>
+          <name>Department of Energy</name>
+        </item>
+        <item>
+          <name>Department of Health and Human Services</name>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+        </item>
+        <item>
+          <name>Department of Housing and Urban Development</name>
+        </item>
+        <item>
+          <name>Department of Justice</name>
+        </item>
+        <item>
+          <name>Department of Labor</name>
+        </item>
+        <item>
+          <name>Department of State</name>
+        </item>
+        <item>
+          <name>Department of Transportation</name>
+        </item>
+        <item>
+          <name>Department of Veterans Affairs</name>
+        </item>
+        <item>
+          <name>Department of the Interior</name>
+        </item>
+        <item>
+          <name>Department of the Treasury</name>
+        </item>
+        <item>
+          <name>Detention of persons</name>
+        </item>
+        <item>
+          <name>Digestive and metabolic diseases</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Disability and paralysis</name>
+        </item>
+        <item>
+          <name>Disability assistance</name>
+        </item>
+        <item>
+          <name>Disaster relief and insurance</name>
+        </item>
+        <item>
+          <name>District of Columbia</name>
+        </item>
+        <item>
+          <name>Drug trafficking and controlled substances</name>
+        </item>
+        <item>
+          <name>Drug, alcohol, tobacco use</name>
+        </item>
+        <item>
+          <name>Ecology</name>
+        </item>
+        <item>
+          <name>Economic development</name>
+        </item>
+        <item>
+          <name>Education of the disadvantaged</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Egypt</name>
+        </item>
+        <item>
+          <name>El Salvador</name>
+        </item>
+        <item>
+          <name>Election Assistance Commission</name>
+        </item>
+        <item>
+          <name>Elections, voting, political campaign regulation</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Elementary and secondary education</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Emergency planning and evacuation</name>
+        </item>
+        <item>
+          <name>Employee benefits and pensions</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Endangered and threatened species</name>
+        </item>
+        <item>
+          <name>Energy assistance for the poor and aged</name>
+        </item>
+        <item>
+          <name>Energy efficiency and conservation</name>
+        </item>
+        <item>
+          <name>Energy research</name>
+        </item>
+        <item>
+          <name>Environmental Protection Agency (EPA)</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Environmental education</name>
+        </item>
+        <item>
+          <name>Environmental health</name>
+        </item>
+        <item>
+          <name>Espionage and treason</name>
+        </item>
+        <item>
+          <name>Ethiopia</name>
+        </item>
+        <item>
+          <name>Europe</name>
+        </item>
+        <item>
+          <name>European Union</name>
+        </item>
+        <item>
+          <name>Executive Office of the President</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Export-Import Bank of the United States</name>
+        </item>
+        <item>
+          <name>Family planning and birth control</name>
+        </item>
+        <item>
+          <name>Family services</name>
+        </item>
+        <item>
+          <name>Federal Communications Commission (FCC)</name>
+        </item>
+        <item>
+          <name>Federal Deposit Insurance Corporation (FDIC)</name>
+        </item>
+        <item>
+          <name>Federal Election Commission (FEC)</name>
+        </item>
+        <item>
+          <name>Federal Energy Regulatory Commission (FERC)</name>
+        </item>
+        <item>
+          <name>Federal Labor Relations Authority</name>
+        </item>
+        <item>
+          <name>Federal Maritime Commission</name>
+        </item>
+        <item>
+          <name>Federal Mediation and Conciliation Service</name>
+        </item>
+        <item>
+          <name>Federal Mine Safety and Health Review Commission</name>
+        </item>
+        <item>
+          <name>Federal Trade Commission (FTC)</name>
+        </item>
+        <item>
+          <name>Federal appellate courts</name>
+        </item>
+        <item>
+          <name>Federal district courts</name>
+        </item>
+        <item>
+          <name>Financial services and investments</name>
+        </item>
+        <item>
+          <name>Fires</name>
+        </item>
+        <item>
+          <name>First responders and emergency personnel</name>
+        </item>
+        <item>
+          <name>Fishes</name>
+        </item>
+        <item>
+          <name>Floods and storm protection</name>
+        </item>
+        <item>
+          <name>Food and Drug Administration (FDA)</name>
+        </item>
+        <item>
+          <name>Food assistance and relief</name>
+        </item>
+        <item>
+          <name>Food industry and services</name>
+        </item>
+        <item>
+          <name>Foreign aid and international relief</name>
+        </item>
+        <item>
+          <name>Foreign and international corporations</name>
+        </item>
+        <item>
+          <name>Foreign labor</name>
+        </item>
+        <item>
+          <name>Foreign loans and debt</name>
+        </item>
+        <item>
+          <name>Forests, forestry, trees</name>
+        </item>
+        <item>
+          <name>Fraud offenses and financial crimes</name>
+        </item>
+        <item>
+          <name>Gaza Strip</name>
+        </item>
+        <item>
+          <name>General Services Administration</name>
+        </item>
+        <item>
+          <name>Genetics</name>
+        </item>
+        <item>
+          <name>Georgia (Republic)</name>
+        </item>
+        <item>
+          <name>Government Accountability Office (GAO)</name>
+        </item>
+        <item>
+          <name>Government Publishing Office (GPO)</name>
+        </item>
+        <item>
+          <name>Government buildings, facilities, and property</name>
+        </item>
+        <item>
+          <name>Government corporations and government-sponsored enterprises</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government ethics and transparency, public corruption</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government lending and loan guarantees</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Great Lakes</name>
+        </item>
+        <item>
+          <name>Guatemala</name>
+        </item>
+        <item>
+          <name>HIV/AIDS</name>
+        </item>
+        <item>
+          <name>Haiti</name>
+        </item>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+        </item>
+        <item>
+          <name>Health care coverage and access</name>
+        </item>
+        <item>
+          <name>Health care quality</name>
+        </item>
+        <item>
+          <name>Health facilities and institutions</name>
+        </item>
+        <item>
+          <name>Health personnel</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Hearing, speech, and vision care</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Historic sites and heritage areas</name>
+        </item>
+        <item>
+          <name>Historical and cultural resources</name>
+        </item>
+        <item>
+          <name>Homelessness and emergency shelter</name>
+        </item>
+        <item>
+          <name>Honduras</name>
+        </item>
+        <item>
+          <name>Horticulture and plants</name>
+        </item>
+        <item>
+          <name>House Committee on Appropriations</name>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+        </item>
+        <item>
+          <name>Housing and community development funding</name>
+        </item>
+        <item>
+          <name>Housing discrimination</name>
+        </item>
+        <item>
+          <name>Housing finance and home ownership</name>
+        </item>
+        <item>
+          <name>Housing for the elderly and disabled</name>
+        </item>
+        <item>
+          <name>Housing industry and standards</name>
+        </item>
+        <item>
+          <name>Housing supply and affordability</name>
+        </item>
+        <item>
+          <name>Human rights</name>
+        </item>
+        <item>
+          <name>Human trafficking</name>
+        </item>
+        <item>
+          <name>Humanities programs funding</name>
+        </item>
+        <item>
+          <name>Hunting and fishing</name>
+        </item>
+        <item>
+          <name>Hybrid, electric, and advanced technology vehicles</name>
+        </item>
+        <item>
+          <name>Immigration status and procedures</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Indian claims</name>
+        </item>
+        <item>
+          <name>Indian lands and resources rights</name>
+        </item>
+        <item>
+          <name>Indian social and development programs</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Infrastructure development</name>
+        </item>
+        <item>
+          <name>Intellectual property</name>
+        </item>
+        <item>
+          <name>Intelligence activities, surveillance, classified information</name>
+        </item>
+        <item>
+          <name>Inter-American Foundation</name>
+        </item>
+        <item>
+          <name>Interagency Council on Homelessness</name>
+        </item>
+        <item>
+          <name>Interest, dividends, interest rates</name>
+        </item>
+        <item>
+          <name>Internal Revenue Service (IRS)</name>
+        </item>
+        <item>
+          <name>International Affairs</name>
+        </item>
+        <item>
+          <name>International exchange and broadcasting</name>
+        </item>
+        <item>
+          <name>International law and treaties</name>
+        </item>
+        <item>
+          <name>International monetary system and foreign exchange</name>
+        </item>
+        <item>
+          <name>International organizations and cooperation</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Iran</name>
+        </item>
+        <item>
+          <name>Iraq</name>
+        </item>
+        <item>
+          <name>Israel</name>
+        </item>
+        <item>
+          <name>Joint Committee on Taxation</name>
+        </item>
+        <item>
+          <name>Joint Economic Committee</name>
+        </item>
+        <item>
+          <name>Jordan</name>
+        </item>
+        <item>
+          <name>Judges</name>
+        </item>
+        <item>
+          <name>Judicial procedure and administration</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Economics and Public Finance</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-04-13</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-10-29T12:22:33Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Haiti Development, Accountability, and Institutional Transparency Initiative Act</b></p> <p>This bill revises reporting and strategy requirements related to recovery and assistance efforts for Haiti.</p> <p>Specifically, the bill repeals existing reporting and strategy requirements related to earthquake recovery and economic assistance for Haiti. Further, the bill directs the Department of State to undertake specific initiatives that prioritize and assess the protection and preservation of human rights, the promotion of press and assembly freedoms and the protection of journalists, anticorruption efforts, and a strategy of post-disaster and post-pandemic recovery and development efforts.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2021-06-29</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2021-10-29T13:43:44Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Haiti Development, Accountability, and Institutional Transparency Initiative Act</b></p> <p>This bill revises reporting and strategy requirements related to recovery and assistance efforts for Haiti.</p> <p>Specifically, the bill repeals existing reporting and strategy requirements related to earthquake recovery and economic assistance for Haiti. Further, the bill directs the Department of State to undertake specific initiatives that prioritize and assess the protection and preservation of human rights, the promotion of press and assembly freedoms and the protection of journalists, anticorruption efforts, and a strategy of post-disaster and post-pandemic recovery and development efforts.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-01-13</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-03-02T19:52:36Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Haiti Development, Accountability, and Institutional Transparency Initiative Act</b></p> <p>This bill revises reporting and strategy requirements related to recovery and assistance efforts for Haiti.</p> <p>Specifically, the bill repeals existing reporting and strategy requirements related to earthquake recovery and economic assistance for Haiti. Further, the bill directs the Department of State to undertake specific initiatives that prioritize and assess the protection and preservation of human rights, the promotion of press and assembly freedoms and the protection of journalists, anticorruption efforts, and a strategy of post-disaster and post-pandemic recovery and development efforts.</p> <p>The State Department must also submit a report concerning the July 7, 2021, assassination of former Haitian President Jovenel Mo&iuml;se.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>59</versionCode>
+        <actionDate>2022-03-09</actionDate>
+        <actionDesc>House agreed to Senate amendment</actionDesc>
+        <updateDate>2022-03-28T10:40:48Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Consolidated Appropriations Act, 2022 </strong></p> <p>This bill provides appropriations to federal agencies for the remainder of FY2022, provides supplemental appropriations for activities to support Ukraine, and modifies or establishes various programs that address a wide range of policy areas. </p> <p>The bill includes the 12 regular appropriations bills that fund federal agencies for FY2022. These bills include </p> <ul> <li> the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022; </li> <li> the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022; </li> <li> the Department of Defense Appropriations Act, 2022; </li> <li> the Energy and Water Development and Related Agencies Appropriations Act, 2022; </li> <li> the Financial Services and General Government Appropriations Act, 2022; </li> <li> the Department of Homeland Security Appropriations Act, 2022; </li> <li> the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022; </li> <li> the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022;</li> <li> the Legislative Branch Appropriations Act, 2022;</li> <li> the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022; </li> <li> the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022; and </li> <li> the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022.</li> </ul> <p>The bill provides supplemental appropriations for several federal agencies to assist Ukraine in responding to the attack by Russia. For example, the bill provides funding for emergency food assistance, migration and refugee assistance, defense equipment, economic assistance, and enforcing sanctions against Russia. </p> <p>In addition, the bill reauthorizes several expiring programs and authorities, including </p> <ul> <li> the National Flood Insurance Program; </li> <li>several immigration-related authorities and programs;</li> <li>the Department of Agriculture's livestock mandatory reporting program; </li> <li> the special assessment on nonindigent people or entities convicted of certain criminal offenses (e.g., sexual abuse and trafficking); </li> <li> the authority for the Department of Health and Human Services to make certain appointments for the National Disaster Medical System; </li> <li> the temporary scheduling order issued by the Drug Enforcement Administration to place fentanyl-related substances in Schedule I of the Controlled Substances Act; </li> <li> the Temporary Assistance for Needy Families (TANF) program; </li> <li>the U.S. Anti-Doping Agency;</li> <li> programs and activities under the Violence Against Women Act that seek to prevent and respond to domestic violence, sexual assault, dating violence, and stalking; </li> <li> intelligence activities and programs; and </li> <li> the National Aeronautics and Space Administration's (NASA's) enhanced-use leasing authority.</li> </ul> <p>The bill also includes several additional provisions that address a wide range of policy issues and programs, including: </p> <ul> <li> the regulation of synthetic nicotine; </li> <li>Medicare, Medicaid, and other health programs; </li> <li> fraud targeting the elderly; </li> <li>deceptive acts or practices targeting Native Americans; </li> <li>carbon monoxide poisoning; </li> <li>salaries for certain Department of Veterans Affairs (VA) medical positions; </li> <li>VA cemetery grants;</li> <li> credit union governance; </li> <li> the replacement of the London Interbank Offered Rate (LIBOR) benchmark interest rate; </li> <li>recovery and assistance efforts for Haiti; </li> <li> reporting requirements and law enforcement activities related to cybercrimes;</li> <li> the Trans-Sahara Counterterrorism Partnership Program;</li> <li> the EB-5 immigrant investor visa program; and </li> <li> the normalization of relations between Israel and Arab countries. </li> </ul>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>74</versionCode>
+        <actionDate>2022-03-10</actionDate>
+        <actionDesc>Senate agreed to House amendment</actionDesc>
+        <updateDate>2022-03-28T10:34:07Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Consolidated Appropriations Act, 2022 </strong></p> <p>This bill provides appropriations to federal agencies for the remainder of FY2022, provides supplemental appropriations for activities to support Ukraine, and modifies or establishes various programs that address a wide range of policy areas. </p> <p>The bill includes the 12 regular appropriations bills that fund federal agencies for FY2022. These bills include </p> <ul> <li> the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022; </li> <li> the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022; </li> <li> the Department of Defense Appropriations Act, 2022; </li> <li> the Energy and Water Development and Related Agencies Appropriations Act, 2022; </li> <li> the Financial Services and General Government Appropriations Act, 2022; </li> <li> the Department of Homeland Security Appropriations Act, 2022; </li> <li> the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022; </li> <li> the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022;</li> <li> the Legislative Branch Appropriations Act, 2022;</li> <li> the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022; </li> <li> the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022; and </li> <li> the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022. </li> </ul> <p>The bill provides supplemental appropriations for several federal agencies to assist Ukraine in responding to the attack by Russia. For example, the bill provides funding for emergency food assistance, migration and refugee assistance, defense equipment, economic assistance, and enforcing sanctions against Russia. </p> <p>In addition, the bill reauthorizes several expiring programs and authorities, including </p> <ul> <li> the National Flood Insurance Program; </li> <li>several immigration-related authorities and programs;</li> <li>the Department of Agriculture's livestock mandatory reporting program; </li> <li> the special assessment on nonindigent people or entities convicted of certain criminal offenses (e.g., sexual abuse and trafficking); </li> <li> the authority for the Department of Health and Human Services to make certain appointments for the National Disaster Medical System; </li> <li> the temporary scheduling order issued by the Drug Enforcement Administration to place fentanyl-related substances in Schedule I of the Controlled Substances Act; </li> <li> the Temporary Assistance for Needy Families (TANF) program; </li> <li>the U.S. Anti-Doping Agency;</li> <li> programs and activities under the Violence Against Women Act that seek to prevent and respond to domestic violence, sexual assault, dating violence, and stalking; </li> <li> intelligence activities and programs; and </li> <li> the National Aeronautics and Space Administration's (NASA's) enhanced-use leasing authority.</li> </ul> <p>The bill also includes several additional provisions that address a wide range of policy issues and programs, including: </p> <ul> <li> the regulation of synthetic nicotine; </li> <li>Medicare, Medicaid, and other health programs; </li> <li> fraud targeting the elderly; </li> <li>deceptive acts or practices targeting Native Americans; </li> <li>carbon monoxide poisoning; </li> <li>salaries for certain Department of Veterans Affairs (VA) medical positions; </li> <li>VA cemetery grants;</li> <li> credit union governance; </li> <li> the replacement of the London Interbank Offered Rate (LIBOR) benchmark interest rate; </li> <li>recovery and assistance efforts for Haiti; </li> <li> reporting requirements and law enforcement activities related to cybercrimes;</li> <li> the Trans-Sahara Counterterrorism Partnership Program;</li> <li> the EB-5 immigrant investor visa program; and </li> <li> the normalization of relations between Israel and Arab countries. </li> </ul>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>49</versionCode>
+        <actionDate>2022-03-15</actionDate>
+        <actionDesc>Public Law</actionDesc>
+        <updateDate>2022-03-28T10:39:13Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Consolidated Appropriations Act, 2022 </strong></p> <p>This bill provides appropriations to federal agencies for the remainder of FY2022, provides supplemental appropriations for activities to support Ukraine, and modifies or establishes various programs that address a wide range of policy areas. </p> <p>The bill includes the 12 regular appropriations bills that fund federal agencies for FY2022. These bills include </p> <ul> <li> the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022; </li> <li> the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022; </li> <li> the Department of Defense Appropriations Act, 2022; </li> <li> the Energy and Water Development and Related Agencies Appropriations Act, 2022; </li> <li> the Financial Services and General Government Appropriations Act, 2022; </li> <li> the Department of Homeland Security Appropriations Act, 2022; </li> <li> the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022; </li> <li> the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022;</li> <li> the Legislative Branch Appropriations Act, 2022;</li> <li> the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022; </li> <li> the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022; and </li> <li> the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022.</li> </ul> <p>The bill provides supplemental appropriations for several federal agencies to assist Ukraine in responding to the attack by Russia. For example, the bill provides funding for emergency food assistance, migration and refugee assistance, defense equipment, economic assistance, and enforcing sanctions against Russia. </p> <p>In addition, the bill reauthorizes several expiring programs and authorities, including </p> <ul> <li> the National Flood Insurance Program; </li> <li>several immigration-related authorities and programs;</li> <li>the Department of Agriculture's livestock mandatory reporting program; </li> <li> the special assessment on nonindigent people or entities convicted of certain criminal offenses (e.g., sexual abuse and trafficking); </li> <li> the authority for the Department of Health and Human Services to make certain appointments for the National Disaster Medical System; </li> <li> the temporary scheduling order issued by the Drug Enforcement Administration to place fentanyl-related substances in Schedule I of the Controlled Substances Act; </li> <li> the Temporary Assistance for Needy Families (TANF) program; </li> <li>the U.S. Anti-Doping Agency;</li> <li> programs and activities under the Violence Against Women Act that seek to prevent and respond to domestic violence, sexual assault, dating violence, and stalking; </li> <li> intelligence activities and programs; and </li> <li> the National Aeronautics and Space Administration's (NASA's) enhanced-use leasing authority.</li> </ul> <p>The bill also includes several additional provisions that address a wide range of policy issues and programs, including: </p> <ul> <li> the regulation of synthetic nicotine; </li> <li>Medicare, Medicaid, and other health programs; </li> <li> fraud targeting the elderly; </li> <li>deceptive acts or practices targeting Native Americans; </li> <li>carbon monoxide poisoning; </li> <li>salaries for certain Department of Veterans Affairs (VA) medical positions; </li> <li>VA cemetery grants;</li> <li> credit union governance; </li> <li> the replacement of the London Interbank Offered Rate (LIBOR) benchmark interest rate; </li> <li>recovery and assistance efforts for Haiti; </li> <li> reporting requirements and law enforcement activities related to cybercrimes;</li> <li> the Trans-Sahara Counterterrorism Partnership Program;</li> <li> the EB-5 immigrant investor visa program; and </li> <li> the normalization of relations between Israel and Arab countries. </li> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Consolidated Appropriations Act, 2022</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Consolidated Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Israel Relations Normalization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Cyber Incident Reporting for Critical Infrastructure Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Ramona Brant Improvement of Conditions for Women in Federal Custody Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Abby Honold Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Violence Against Women Act Reauthorization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Adjustable Interest Rate (LIBOR) Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>FAFSA Simplification Act Technical Corrections Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Protecting Indian Tribes from Scams Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>United States Anti-Doping Agency Reauthorization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Seniors Fraud Prevention Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Stop Senior Scams Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Fraud and Scam Reduction Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Ukraine Supplemental Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Science Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Justice Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Commerce Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Credit Union Governance Modernization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>VA Nurse and Physician Assistant RAISE Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Veterans Affairs Nurse and Physician Assistant Retention and Income Security Enhancement Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Housing and Urban Development Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Transportation Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Kayden's Law</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Keeping Children Safe From Family Violence Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Legislative Branch Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Education Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Health and Human Services Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Labor Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Homeland Security Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Financial Services and General Government Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>District of Columbia Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Judiciary Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Executive Office of the President Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of the Treasury Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Energy and Water Development and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Department of Defense Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>NASA Enhanced-Use Leasing Extension Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Strengthening Reporting of Actions Taken Against the Normalization of Relations with Israel Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Restoring Brand USA Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Burial Equity for Guards and Reserves Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>EB-5 Reform and Integrity Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>SANE Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Supporting Access to Nurse Exams Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Fairness for Rape Kit Backlog Survivors Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Bree's Law</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Choose Respect Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Closing the Law Enforcement Consent Loophole Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>NICS Denial Notification Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>SIMARRA Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Stop Infant Mortality and Recidivism Reduction Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted for portions of this bill</titleType>
+        <title>Trans-Sahara Counterterrorism Partnership Program Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <title>Consolidated Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Official Title as Agreed to by House and Senate</titleType>
+        <title>Making consolidated appropriations for the fiscal year ending September 30, 2022, and for providing emergency assistance for the situation in Ukraine, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>EB-5 Reform and Integrity Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Strengthening Reporting of Actions Taken Against the Normalization of Relations with Israel Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Israel Relations Normalization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>NASA Enhanced-Use Leasing Extension Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Restoring Brand USA Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Burial Equity for Guards and Reserves Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Trans-Sahara Counterterrorism Partnership Program Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Closing the Law Enforcement Consent Loophole Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Stop Infant Mortality and Recidivism Reduction Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>SIMARRA Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Cyber Incident Reporting for Critical Infrastructure Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Kayden's Law</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Keeping Children Safe From Family Violence Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>SANE Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Supporting Access to Nurse Exams Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Fairness for Rape Kit Backlog Survivors Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Bree's Law</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Choose Respect Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>NICS Denial Notification Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>VA Nurse and Physician Assistant RAISE Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Ramona Brant Improvement of Conditions for Women in Federal Custody Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Abby Honold Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Violence Against Women Act Reauthorization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Adjustable Interest Rate (LIBOR) Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Credit Union Governance Modernization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Veterans Affairs Nurse and Physician Assistant Retention and Income Security Enhancement Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>FAFSA Simplification Act Technical Corrections Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Protecting Indian Tribes from Scams Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of the Interior, Environment, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Financial Services and General Government Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Homeland Security Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>United States Anti-Doping Agency Reauthorization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Seniors Fraud Prevention Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Stop Senior Scams Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Fraud and Scam Reduction Act</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Ukraine Supplemental Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Housing and Urban Development Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Transportation Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Legislative Branch Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Education Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Health and Human Services Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Labor Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>District of Columbia Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Justice Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Science Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Judiciary Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Executive Office of the President Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of the Treasury Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Energy and Water Development and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Commerce Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Department of Defense Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To measure the progress of post-disaster recovery and efforts to address corruption, governance, rule of law, and media freedoms in Haiti.</title>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Other Short Titles for portions of a bill</titleType>
+        <title>Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Other Short Titles</titleType>
+        <title>Consolidated Appropriations Act, 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Haiti Development, Accountability, and Institutional Transparency Initiative Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>4999</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4999</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>E000295</bioguideId>
+            <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+            <firstName>Joni</firstName>
+            <lastName>Ernst</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <identifiers>
+              <bioguideId>E000295</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4998</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4998</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>E000295</bioguideId>
+            <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+            <firstName>Joni</firstName>
+            <lastName>Ernst</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <identifiers>
+              <bioguideId>E000295</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4997</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:25Z</updateDate>
+        <number>4997</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:16Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>E000295</bioguideId>
+            <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+            <firstName>Joni</firstName>
+            <lastName>Ernst</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <identifiers>
+              <bioguideId>E000295</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4996</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4996</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M001198</bioguideId>
+            <fullName>Sen. Marshall, Roger [R-KS]</fullName>
+            <firstName>Roger</firstName>
+            <lastName>Marshall</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <identifiers>
+              <bioguideId>M001198</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4995</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4995</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>J000293</bioguideId>
+            <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Johnson</lastName>
+            <party>R</party>
+            <state>WI</state>
+            <identifiers>
+              <bioguideId>J000293</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>S001217</bioguideId>
+            <fullName>Sen. Scott, Rick [R-FL]</fullName>
+            <firstName>Rick</firstName>
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <identifiers>
+              <bioguideId>S001217</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4994</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4994</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S000770</bioguideId>
+            <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+            <firstName>Debbie</firstName>
+            <lastName>Stabenow</lastName>
+            <party>D</party>
+            <state>MI</state>
+            <identifiers>
+              <bioguideId>S000770</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4993</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4993</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>J000293</bioguideId>
+            <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Johnson</lastName>
+            <party>R</party>
+            <state>WI</state>
+            <identifiers>
+              <bioguideId>J000293</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4992</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <number>4992</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>J000293</bioguideId>
+            <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Johnson</lastName>
+            <party>R</party>
+            <state>WI</state>
+            <identifiers>
+              <bioguideId>J000293</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4991</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:25Z</updateDate>
+        <number>4991</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <updateDate>2022-03-11T05:16:15Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>J000293</bioguideId>
+            <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Johnson</lastName>
+            <party>R</party>
+            <state>WI</state>
+            <identifiers>
+              <bioguideId>J000293</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4990</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To prohibit funds from being used for earmarks.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4990</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To prohibit funds from being used for earmarks.</purpose>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.</text>
+          <links>
+            <link>
+              <name>Record Vote Number: 76</name>
+              <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00076.xml</url>
+            </link>
+            <link>
+              <name>SA 4990</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4990</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>B001310</bioguideId>
+            <fullName>Sen. Braun, Mike [R-IN]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Braun</lastName>
+            <party>R</party>
+            <state>IN</state>
+            <identifiers>
+              <bioguideId>B001310</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>12</countIncludingWithdrawnCosponsors>
+          <count>12</count>
+          <item>
+            <bioguideId>E000295</bioguideId>
+            <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+            <firstName>Joni</firstName>
+            <lastName>Ernst</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <identifiers>
+              <bioguideId>E000295</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>L000571</bioguideId>
+            <fullName>Sen. Lummis, Cynthia M. [R-WY]</fullName>
+            <firstName>Cynthia</firstName>
+            <lastName>Lummis</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <identifiers>
+              <bioguideId>L000571</bioguideId>
+            </identifiers>
+            <middleName>M.</middleName>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>T000461</bioguideId>
+            <fullName>Sen. Toomey, Patrick [R-PA]</fullName>
+            <firstName>Patrick</firstName>
+            <lastName>Toomey</lastName>
+            <party>R</party>
+            <state>PA</state>
+            <identifiers>
+              <bioguideId>T000461</bioguideId>
+            </identifiers>
+            <middleName>J.</middleName>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>D000618</bioguideId>
+            <fullName>Sen. Daines, Steve [R-MT]</fullName>
+            <firstName>Steve</firstName>
+            <lastName>Daines</lastName>
+            <party>R</party>
+            <state>MT</state>
+            <identifiers>
+              <bioguideId>D000618</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001098</bioguideId>
+            <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+            <firstName>Ted</firstName>
+            <lastName>Cruz</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <bioguideId>C001098</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001217</bioguideId>
+            <fullName>Sen. Scott, Rick [R-FL]</fullName>
+            <firstName>Rick</firstName>
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <identifiers>
+              <bioguideId>S001217</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>J000293</bioguideId>
+            <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Johnson</lastName>
+            <party>R</party>
+            <state>WI</state>
+            <identifiers>
+              <bioguideId>J000293</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>L000577</bioguideId>
+            <fullName>Sen. Lee, Mike [R-UT]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Lee</lastName>
+            <party>R</party>
+            <state>UT</state>
+            <identifiers>
+              <bioguideId>L000577</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>L000575</bioguideId>
+            <fullName>Sen. Lankford, James [R-OK]</fullName>
+            <firstName>James</firstName>
+            <lastName>Lankford</lastName>
+            <party>R</party>
+            <state>OK</state>
+            <identifiers>
+              <bioguideId>L000575</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>G000386</bioguideId>
+            <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+            <firstName>Charles</firstName>
+            <lastName>Grassley</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <identifiers>
+              <bioguideId>G000386</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001261</bioguideId>
+            <fullName>Sen. Barrasso, John [R-WY]</fullName>
+            <firstName>John</firstName>
+            <lastName>Barrasso</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <identifiers>
+              <bioguideId>B001261</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001243</bioguideId>
+            <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+            <firstName>Marsha</firstName>
+            <lastName>Blackburn</lastName>
+            <party>R</party>
+            <state>TN</state>
+            <identifiers>
+              <bioguideId>B001243</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4990 proposed by Senator Braun. (consideration: CR S1107; text: CR S1107) To prohibit funds from being used for earmarks.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4990 proposed by Senator Braun.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment not agreed to: Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.</text>
+              <type>Floor</type>
+              <actionCode>95000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>76</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>117</congress>
+                  <date>2022-03-11T02:31:38Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00076.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Roll call votes on amendments in Senate: Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>76</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>117</congress>
+                  <date>2022-03-11T02:31:38Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00076.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4989</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To prohibit funding for COVID-19 vaccine mandates.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4989</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To prohibit funding for COVID-19 vaccine mandates.</purpose>
+        <updateDate>2022-03-11T05:16:23Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.</text>
+          <links>
+            <link>
+              <name>Record Vote Number: 75</name>
+              <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00075.xml</url>
+            </link>
+            <link>
+              <name>SA 4989</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4989</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>L000577</bioguideId>
+            <fullName>Sen. Lee, Mike [R-UT]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Lee</lastName>
+            <party>R</party>
+            <state>UT</state>
+            <identifiers>
+              <bioguideId>L000577</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>C001098</bioguideId>
+            <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+            <firstName>Ted</firstName>
+            <lastName>Cruz</lastName>
+            <party>R</party>
+            <state>TX</state>
+            <identifiers>
+              <bioguideId>C001098</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4989 proposed by Senator Lee. (consideration: CR S1106; text: CR S1106) To prohibit funding for COVID-19 vaccine mandates.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4989 proposed by Senator Lee.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Roll call votes on amendments in Senate: Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>75</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>117</congress>
+                  <date>2022-03-11T02:12:59Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00075.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment not agreed to: Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.</text>
+              <type>Floor</type>
+              <actionCode>95000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>75</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>117</congress>
+                  <date>2022-03-11T02:12:59Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00075.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4988</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the effective date.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4988</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the effective date.</purpose>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>SA 4988 fell when when SA 4987 fell.</text>
+          <links>
+            <link>
+              <name>SA 4987</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4987</url>
+            </link>
+            <link>
+              <name>SA 4988</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4988</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>Charles</firstName>
+            <lastName>Schumer</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <bioguideId>S000148</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>4987</number>
+          <congress>117</congress>
+          <type>SAMDT</type>
+          <purpose>To modify the effective date.</purpose>
+          <updateDate>2022-03-11T19:31:15Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>5</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>SA 4988 fell when when SA 4987 fell.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4988 proposed by Senator Schumer to Amendment SA 4987. (consideration: CR S1089; text: CR S1089) To modify the effective date.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4988 proposed by Senator Schumer to Amendment SA 4987.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4987</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the effective date.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4987</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the effective date.</purpose>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>SA 4987 fell when SA 4986 (the instructions of the motion to refer) was withdrawn.</text>
+          <links>
+            <link>
+              <name>SA 4986</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4986</url>
+            </link>
+            <link>
+              <name>SA 4987</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4987</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>Charles</firstName>
+            <lastName>Schumer</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <bioguideId>S000148</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>4986</number>
+          <congress>117</congress>
+          <type>SAMDT</type>
+          <purpose>To add an effective date.</purpose>
+          <updateDate>2022-03-11T19:31:15Z</updateDate>
+        </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>5</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>SA 4987 fell when SA 4986 (the instructions of the motion to refer) was withdrawn.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4987 proposed by Senator Schumer to Amendment SA 4986 (the instructions of the motion to refer). (consideration: CR S1089; text: CR S1089) To modify the effective date.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4987 proposed by Senator Schumer to Amendment SA 4986 (the instructions of the motion to refer).</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4986</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To add an effective date.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4986</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To add an effective date.</purpose>
+        <updateDate>2022-03-11T05:16:23Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Proposed amendment SA 4986 withdrawn in Senate.</text>
+          <links>
+            <link>
+              <name>SA 4986</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4986</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>Charles</firstName>
+            <lastName>Schumer</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <bioguideId>S000148</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>5</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Proposed amendment SA 4986 withdrawn in Senate.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4986 proposed by Senator Schumer. (consideration: CR S1089; text: CR S1089) To add an effective date.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4986 proposed by Senator Schumer.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4985</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the effective date.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4985</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the effective date.</purpose>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>SA 4985 fell when SA 4984 withdrawn.</text>
+          <links>
+            <link>
+              <name>SA 4984</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4984</url>
+            </link>
+            <link>
+              <name>SA 4985</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4985</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>Charles</firstName>
+            <lastName>Schumer</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <bioguideId>S000148</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>4984</number>
+          <congress>117</congress>
+          <type>SAMDT</type>
+          <purpose>To add an effective date.</purpose>
+          <updateDate>2022-03-11T19:31:15Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>5</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>SA 4985 fell when SA 4984 withdrawn.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4985 proposed by Senator Schumer to Amendment SA 4984. (consideration: CR S1089; text: CR S1089) To modify the effective date.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4985 proposed by Senator Schumer to Amendment SA 4984.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4984</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To add an effective date.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4984</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To add an effective date.</purpose>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Proposed amendment SA 4984 withdrawn in Senate.</text>
+          <links>
+            <link>
+              <name>SA 4984</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4984</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>Charles</firstName>
+            <lastName>Schumer</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <bioguideId>S000148</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+          </item>
+        </sponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>5</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Proposed amendment SA 4984 withdrawn in Senate.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4984 proposed by Senator Schumer. (consideration: CR S1089; text: CR S1089) To add an effective date.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4984 proposed by Senator Schumer.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4983</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To provide emergency assistance for disaster response and recovery, and for other expenses, directly related to Hurricanes Laura, Delta, and Ida and to provide assistance for the Port Infrastructure Development Program.</purpose>
+        <updateDate>2022-03-11T19:31:15Z</updateDate>
+        <number>4983</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To provide emergency assistance for disaster response and recovery, and for other expenses, directly related to Hurricanes Laura, Delta, and Ida and to provide assistance for the Port Infrastructure Development Program.</purpose>
+        <updateDate>2022-03-11T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-10</actionDate>
+          <text>Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.</text>
+          <links>
+            <link>
+              <name>Record Vote Number: 77</name>
+              <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00077.xml</url>
+            </link>
+            <link>
+              <name>SA 4983</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4983</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>K000393</bioguideId>
+            <fullName>Sen. Kennedy, John [R-LA]</fullName>
+            <firstName>John</firstName>
+            <lastName>Kennedy</lastName>
+            <party>R</party>
+            <state>LA</state>
+            <identifiers>
+              <bioguideId>K000393</bioguideId>
+            </identifiers>
+            <middleName>Neely</middleName>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>C001075</bioguideId>
+            <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+            <firstName>Bill</firstName>
+            <lastName>Cassidy</lastName>
+            <party>R</party>
+            <state>LA</state>
+            <identifiers>
+              <bioguideId>C001075</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-03-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4983 proposed by Senator Kennedy. (consideration: CR S1109; text: CR S1109) To provide emergency assistance for disaster response and recovery, and for other expenses, directly related to Hurricanes Laura, Delta, and Ida and to provide assistance for the Port Infrastructure Development Program.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4983 proposed by Senator Kennedy.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Senate amendment not agreed to: Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.</text>
+              <type>Floor</type>
+              <actionCode>95000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>77</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>117</congress>
+                  <date>2022-03-11T02:53:57Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00077.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2022-03-10</actionDate>
+              <text>Roll call votes on amendments in Senate: Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>77</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>117</congress>
+                  <date>2022-03-11T02:53:57Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00077.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4902</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-02-09T12:40:18Z</updateDate>
+        <number>4902</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-01-14T21:48:33Z</updateDate>
+        <latestAction>
+          <actionDate>2022-01-13</actionDate>
+          <text>Amendment SA 4902 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4902</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4902</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>C000141</bioguideId>
+            <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+            <firstName>Ben</firstName>
+            <lastName>Cardin</lastName>
+            <party>D</party>
+            <state>MD</state>
+            <identifiers>
+              <bioguideId>C000141</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate>2022-01-13T05:00:00Z</proposedDate>
+        <submittedDate>2022-01-13T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2471</number>
+          <title>Consolidated Appropriations Act, 2022</title>
+          <updateDateIncludingText>2022-11-17T19:00:19Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-01-13</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4902 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-01-13</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4902 proposed by Senator Schumer for Senator Cardin. (consideration: CR S226; text: CR S224-225) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-01-13</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-01-13</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4902 proposed by Senator Schumer for Senator Cardin.(consideration: CR S226; text: CR S224-225)</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-01-13</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-01-13</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4902 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2471enr/xml/BILLS-117hr2471enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed Amendment House</type>
+        <date>2022-03-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2471eah/xml/BILLS-117hr2471eah.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed Amendment Senate</type>
+        <date>2022-01-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2471eas/xml/BILLS-117hr2471eas.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2021-07-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2471rfs/xml/BILLS-117hr2471rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2021-06-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2471eh/xml/BILLS-117hr2471eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-04-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2471ih/xml/BILLS-117hr2471ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2022-03-16T03:59:59Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/PLAW-117publ103_uslm/xml/PLAW-117publ103_uslm.xml</url>
+          </item>
+        </formats>
+        <type>Public Law</type>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-03-15</actionDate>
+      <text>Became Public Law No: 117-103.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
