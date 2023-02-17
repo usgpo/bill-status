@@ -1,4 +1,4 @@
->The 117th Congress job runs at 4, 8, and 12 every 4 hours; prior Congresses run daily.
+>The current Congress job runs at 4, 8, and 12 every 4 hours; prior Congresses run daily.
 
 # Bill Status #
 
