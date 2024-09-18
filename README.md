@@ -1,5 +1,3 @@
->GPO is currently reprocessing 118 BILLSTATUS data.
->  
 >The current Congress job runs at 4, 8, and 12 every 4 hours; prior Congresses run daily.  
 
 # Bill Status #
